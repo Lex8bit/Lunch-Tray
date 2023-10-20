@@ -1,0 +1,293 @@
+10-20 12:36:58.849  3315  3354 I TestRunner: started: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)
+10-20 12:36:58.870   344   344 I Zygote  : Process 2209 exited due to signal 9 (Killed)
+10-20 12:36:58.871  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@ae33043 in: DESTROYED
+10-20 12:36:58.872  3315  3315 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-20 12:36:58.872  3315  3315 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-20 12:36:58.873   530   576 E system_server: No package ID 7f found for ID 0x7f08048c.
+10-20 12:36:58.873   530   576 E system_server: No package ID 7f found for ID 0x7f1403a9.
+10-20 12:36:58.889   344   344 D Zygote  : Forked child process 5189
+10-20 12:36:58.890   985   985 D CarrierSvcBindHelper: No carrier app for: 0
+10-20 12:36:58.891   985   985 D ImsResolver: maybeAddedImsService, packageName: com.google.android.gm
+10-20 12:36:58.892   530   943 W InputManager-JNI: Input channel object '21faccf com.example.lunchtray/com.example.lunchtray.MainActivity (client)' was disposed without first being removed with the input manager!
+10-20 12:36:58.906  5189  5189 W ogle.android.g: Unexpected CPU variant for X86 using defaults: x86_64
+10-20 12:36:58.914  3315  3354 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-20 12:36:58.915   530   636 I InputReader: Reconfiguring input devices, changes=KEYBOARD_LAYOUTS |
+10-20 12:36:58.925   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.contacts
+10-20 12:36:58.935  5189  5189 E ogle.android.g: Not starting debugger since process cannot load the jdwp agent.
+10-20 12:36:58.938   530   579 I libprocessgroup: Successfully killed process cgroup uid 10118 pid 2209 in 216ms
+10-20 12:36:58.996   803   823 I PermissionControllerServiceImpl: Updating user sensitive for uid 10118
+10-20 12:36:59.008  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-24. TimeElapsed: 593ms.
+10-20 12:36:59.010  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-24 finished. Not rescheduling.
+10-20 12:36:59.010  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-30
+10-20 12:36:59.011  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-30. TimeElapsed: 1ms.
+10-20 12:36:59.011  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 26
+10-20 12:36:59.012  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-8 10-12 10-30
+10-20 12:36:59.012  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-30 finished. Not rescheduling.
+10-20 12:36:59.012   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:59.025  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-33
+10-20 12:36:59.026  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-33. TimeElapsed: 2ms.
+10-20 12:36:59.026  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 25
+10-20 12:36:59.027  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-8 10-12 10-33
+10-20 12:36:59.027  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-33 finished. Not rescheduling.
+10-20 12:36:59.027  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-39
+10-20 12:36:59.027  2327  2327 I Finsky  : [2] DevTriggeredUpdateHygieneJob.a(1): Running dev-triggered-update hygiene
+10-20 12:36:59.028  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 24
+10-20 12:36:59.028  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-8 10-12 10-39
+10-20 12:36:59.183  5189  5189 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10118; state: DISABLED
+10-20 12:36:59.262  1101  5206 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.gm flg=0x45000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+10-20 12:36:59.291   407   407 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+10-20 12:36:59.299  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48 in: PRE_ON_CREATE
+10-20 12:36:59.299  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.299  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.299  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.313   362   374 D goldfish-address-space: claimShared: Ask to claim region [0x3fa926000 0x3fb10f000]
+10-20 12:36:59.336  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48 in: CREATED
+10-20 12:36:59.337  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.337  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.337  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.337   362   374 D goldfish-address-space: claimShared: Ask to claim region [0x3fb10f000 0x3fb8f8000]
+10-20 12:36:59.338  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48 in: STARTED
+10-20 12:36:59.338  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.338  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.339  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.342   362   374 D goldfish-address-space: claimShared: Ask to claim region [0x3f9421000 0x3f9c0a000]
+10-20 12:36:59.346  1101  5211 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+10-20 12:36:59.349  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48 in: RESUMED
+10-20 12:36:59.349  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.349  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.349  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.358  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48 in: PAUSED
+10-20 12:36:59.358  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.358  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.358  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.375  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3b77892 in: PRE_ON_CREATE
+10-20 12:36:59.375  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-20 12:36:59.375  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-20 12:36:59.375  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-20 12:36:59.384   787   848 D EGL_emulation: app_time_stats: avg=241.04ms min=199.03ms max=289.68ms count=5
+10-20 12:36:59.399   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:59.400  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3b77892 in: CREATED
+10-20 12:36:59.400  3315  3315 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.400  3315  3315 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.400  3315  3315 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.400   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:59.419  1056  1663 D EGL_emulation: app_time_stats: avg=20.57ms min=4.68ms max=111.81ms count=52
+10-20 12:36:59.438  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3b77892 in: STARTED
+10-20 12:36:59.438  3315  3315 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.438  3315  3315 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.438  3315  3315 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.439  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@3b77892 in: RESUMED
+10-20 12:36:59.439  3315  3315 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.441  3315  3315 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.441  3315  3315 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@3b77892
+10-20 12:36:59.482  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48 in: STOPPED
+10-20 12:36:59.482  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.482  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.483  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@9500e48
+10-20 12:36:59.535   362   374 D goldfish-address-space: claimShared: Ask to claim region [0x3fd7bb000 0x3fdfa4000]
+10-20 12:36:59.540   362   374 D goldfish-address-space: claimShared: Ask to claim region [0x3fdfa4000 0x3fe78d000]
+10-20 12:36:59.544   362   374 D goldfish-address-space: claimShared: Ask to claim region [0x3fe78d000 0x3fef76000]
+10-20 12:36:59.548  5189  5189 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/PrebuiltGmail/lib/x86_64:/product/app/PrebuiltGmail/PrebuiltGmail.apk!/lib/x86_64:/product/lib64:/system/product/lib64
+10-20 12:36:59.583   530   566 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +359ms
+10-20 12:36:59.622  1279  1279 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+10-20 12:36:59.623  1279  1279 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+10-20 12:36:59.631  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231208/com.example.lunchtray:id/start_order_btn>
+10-20 12:36:59.634  5189  5189 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.gm' set to: 'default'
+10-20 12:36:59.634  5189  5189 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-20 12:36:59.637  5189  5189 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-20 12:36:59.650  1279  1279 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+10-20 12:36:59.763  5189  5189 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-20 12:36:59.791   407   407 W SurfaceFlinger: couldn't log to binary event log: overflow.
+10-20 12:36:59.863  2327  5231 I Finsky  : [209] nxu.accept(9): Removed 0 uncompleted downloaded updates.
+10-20 12:36:59.865   530  1123 W InputManager-JNI: Input channel object 'e4359ef Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+10-20 12:36:59.888  2327  2351 W android.vendin: Suspending all threads took: 10.099ms
+10-20 12:36:59.889  2327  2797 I Finsky  : [51] nxu.accept(7): Removed obsolete update files for 0 packages.
+10-20 12:36:59.927   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:59.939  2327  5231 I Finsky  : [209] nxu.accept(8): Reset 0 obsolete 'installing' bits.
+10-20 12:37:00.011  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+10-20 12:37:00.103  2327  5237 I Finsky  : [210] nxu.accept(16): Finished completion of 0 dev-triggered updates. Successful: 0. Failed: 0.
+10-20 12:37:00.107  2327  3000 I Finsky  : [59] wja.o(4): SCH: jobFinished: 10-39. TimeElapsed: 1079ms.
+10-20 12:37:00.151  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-39 finished. Not rescheduling.
+10-20 12:37:00.155   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:37:00.166   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:37:00.183  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-41
+10-20 12:37:00.193   396   505 D AudioFlinger: mixer(0x7fc2cd762a70) throttle end: throttle time(7)
+10-20 12:37:00.209  2327  2327 I Finsky  : [2] InstantAppsArchivePrefetchHygieneJob.a(1): Instant Apps archive prefetch triggered from hygiene.
+10-20 12:37:00.232  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-41. TimeElapsed: 48ms.
+10-20 12:37:00.243  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 23
+10-20 12:37:00.243  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-8 10-12 10-41
+10-20 12:37:00.243  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-41 finished. Not rescheduling.
+10-20 12:37:00.245  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-42
+10-20 12:37:00.319  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-42. TimeElapsed: 74ms.
+10-20 12:37:00.322  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 22
+10-20 12:37:00.322  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-8 10-12 10-42
+10-20 12:37:00.328  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-42 finished. Not rescheduling.
+10-20 12:37:00.334  2327  2797 I Finsky  : [51] wja.o(4): SCH: jobFinished: 10-3. TimeElapsed: 4998ms.
+10-20 12:37:00.349  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-44
+10-20 12:37:00.356  1101  1101 W SystemServiceRegistry: No service published for: persistent_data_block
+10-20 12:37:00.377  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+10-20 12:37:00.381  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 21
+10-20 12:37:00.381  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-8 10-12 10-44
+10-20 12:37:00.422  4026  4191 W PlayCommon: [53] alhz.m(1): No account for auth token provided
+10-20 12:37:00.422  4026  4191 I PlayCommon: [53] alhz.k(167): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+10-20 12:37:00.443   787   848 D EGL_emulation: app_time_stats: avg=176.44ms min=26.27ms max=256.50ms count=6
+10-20 12:37:00.521  5189  5244 W ogle.android.g: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+10-20 12:37:00.521  5189  5244 W ogle.android.g: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-20 12:37:00.521  5189  5244 W ogle.android.g: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-20 12:37:00.529  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-3 finished. Not rescheduling.
+10-20 12:37:00.537  1101  1101 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.pseudonymous.service.START cmp=com.google.android.gms/.chimera.PersistentApiService }
+10-20 12:37:00.547  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-46
+10-20 12:37:00.548  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-46. TimeElapsed: 1ms.
+10-20 12:37:00.548  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 20
+10-20 12:37:00.548  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-8 10-12 10-44 10-46
+10-20 12:37:00.548  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-46 finished. Not rescheduling.
+10-20 12:37:00.579  3315  3370 D EGL_emulation: app_time_stats: avg=21.10ms min=2.53ms max=228.08ms count=46
+10-20 12:37:00.675  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-47
+10-20 12:37:00.677  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 19
+10-20 12:37:00.677  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-8 10-12 10-44 10-47
+10-20 12:37:00.730  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231138/com.example.lunchtray:id/salad>
+10-20 12:37:00.926  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.933  4026  4191 I PlayCommon: [53] alhz.k(199): Successfully uploaded logs.
+10-20 12:37:00.956  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.963  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.964  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.967  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.968  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.969  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.971  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.973  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.974  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.976  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.976  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.984  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.985  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.986  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.986  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.990  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.992  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-44. TimeElapsed: 643ms.
+10-20 12:37:00.993  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:00.993  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-44 finished. Not rescheduling.
+10-20 12:37:00.993  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-48
+10-20 12:37:00.994  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 18
+10-20 12:37:00.994  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-8 10-12 10-47 10-48
+10-20 12:37:00.998  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:01.000  2327  2999 I Finsky  : [58] omm.call(2): Instant App hint preload cleanup triggered from hygiene.
+10-20 12:37:01.000  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:01.001  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:01.002  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:01.005  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:01.006  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:01.009  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:37:01.027  2327  2999 I Finsky  : [58] wja.o(4): SCH: jobFinished: 10-48. TimeElapsed: 33ms.
+10-20 12:37:01.027  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-48 finished. Not rescheduling.
+10-20 12:37:01.035  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-50
+10-20 12:37:01.069  2327  2327 I Finsky  : [2] wja.o(4): SCH: jobFinished: 10-50. TimeElapsed: 34ms.
+10-20 12:37:01.070  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 17
+10-20 12:37:01.070  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-8 10-12 10-47 10-50
+10-20 12:37:01.070  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-50 finished. Not rescheduling.
+10-20 12:37:01.080  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+10-20 12:37:01.084  1101  1101 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START pkg=com.google.android.gms }
+10-20 12:37:01.106  5189  5268 I ogle.android.g: Waiting for a blocking GC ClassLinker
+10-20 12:37:01.206  1101  3164 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+10-20 12:37:01.215  1101  3164 I FontLog : Query [Noto Color Emoji Compat] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+10-20 12:37:01.222  1101  3164 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+10-20 12:37:01.235  1101  3164 I FontLog : Pulling font file for id = 7, cache size = 7 [CONTEXT service_id=132 ]
+10-20 12:37:01.327  1101  3164 I FontLog : Pulling font file for id = 7, cache size = 7 [CONTEXT service_id=132 ]
+10-20 12:37:01.335  2327  3085 W PlayCommon: [67] alhz.m(1): No account for auth token provided
+10-20 12:37:01.335  2327  3085 I PlayCommon: [67] alhz.k(167): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+10-20 12:37:01.446   787   848 D EGL_emulation: app_time_stats: avg=200.49ms min=196.80ms max=202.67ms count=5
+10-20 12:37:01.465  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+10-20 12:37:01.494  1171  4214 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-20 12:37:01.505  1171  4214 I Icing   : Indexing done com.google.android.gms-apps
+10-20 12:37:01.508  2327  3085 I PlayCommon: [67] alhz.k(199): Successfully uploaded logs.
+10-20 12:37:01.512  5189  5189 W Gmail   : AccountUtils:For b/73513912, load account content://com.google.android.gm.sapi/account.-2137146394 from MailAppProvider. Is account valid result: 1.
+10-20 12:37:01.513  5189  5189 W Gmail   : AccountUtils:For b/73513912, load account content://com.google.android.gm.email.provider/account.-437561172?suppress_combined%3Dtrue from MailAppProvider. Is account valid result: 1.
+10-20 12:37:01.544  1171  4214 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms
+10-20 12:37:01.560  1171  4214 I Icing   : Indexing done com.google.android.gms-internal.3p:MobileApplication
+10-20 12:37:01.581  3315  3370 D EGL_emulation: app_time_stats: avg=26.76ms min=11.13ms max=213.24ms count=37
+10-20 12:37:01.627  5189  5247 I org.webrtc.Logging: CrashStartupListener: Checking conference crashes for 0 account(s).
+10-20 12:37:01.668  1171  1179 I gle.android.gm: Background young concurrent copying GC freed 167301(8971KB) AllocSpace objects, 81(3476KB) LOS objects, 51% free, 11MB/24MB, paused 11.312ms,176us total 102.693ms
+10-20 12:37:01.671   787   787 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|com.google.android.googlequicksearchbox|-307962363|null|10104
+10-20 12:37:01.672   787   787 D InterruptionStateProvider: No heads up: unimportant notification: 0|com.google.android.googlequicksearchbox|-307962363|null|10104
+10-20 12:37:01.715   787   858 D PeopleSpaceWidgetMgr: Sbn doesn't contain valid PeopleTileKey: null/0/com.google.android.googlequicksearchbox
+10-20 12:37:01.785  1101  3293 W Auth    : [AccountStateSyncher] Unable to look up account state from server. [CONTEXT service_id=153 ]
+10-20 12:37:01.785  1101  3293 W Auth    : java.io.IOException: Couldn't create ClientAuthInfo
+10-20 12:37:01.785  1101  3293 W Auth    : 	at hnv.a(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at hqr.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at hna.hasFeatures(:com.google.android.gms@212423056@21.24.23 (190800-396046673):3)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at android.os.Binder.transact(Binder.java:1064)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at eaw.onTransact(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at android.os.Binder.transact(Binder.java:1064)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at acyy.onTransact(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:01.785  1101  3293 W Auth    : Caused by: hpe: Account has no password.
+10-20 12:37:01.785  1101  3293 W Auth    : 	at hpf.a(:com.google.android.gms@212423056@21.24.23 (190800-396046673):3)
+10-20 12:37:01.785  1101  3293 W Auth    : 	at hnv.a(:com.google.android.gms@212423056@21.24.23 (190800-396046673):3)
+10-20 12:37:01.785  1101  3293 W Auth    : 	... 10 more
+10-20 12:37:01.787  1101  3293 W Auth    : [GaiaServicesFlagManager] Services not available! [CONTEXT service_id=153 ]
+10-20 12:37:01.807  5189  5197 W ogle.android.g: Suspending all threads took: 67.129ms
+10-20 12:37:01.812  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+10-20 12:37:01.821  5189  5268 I ogle.android.g: WaitForGcToComplete blocked ClassLinker on Background for 715.168ms
+10-20 12:37:01.880  5189  5252 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10118; state: DISABLED
+10-20 12:37:01.891  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-51
+10-20 12:37:01.896  1101  3293 W Auth    : [AccountStateSyncher] Unable to look up account state from server. [CONTEXT service_id=153 ]
+10-20 12:37:01.896  1101  3293 W Auth    : java.io.IOException: Couldn't create ClientAuthInfo
+10-20 12:37:01.896  1101  3293 W Auth    : 	at hnv.a(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at hqr.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at hna.hasFeatures(:com.google.android.gms@212423056@21.24.23 (190800-396046673):3)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:312)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:345)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at android.os.Binder.transact(Binder.java:1064)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at eaw.onTransact(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at android.os.Binder.transact(Binder.java:1064)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at acyy.onTransact(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:01.896  1101  3293 W Auth    : Caused by: hpe: Account has no password.
+10-20 12:37:01.896  1101  3293 W Auth    : 	at hpf.a(:com.google.android.gms@212423056@21.24.23 (190800-396046673):3)
+10-20 12:37:01.896  1101  3293 W Auth    : 	at hnv.a(:com.google.android.gms@212423056@21.24.23 (190800-396046673):3)
+10-20 12:37:01.896  1101  3293 W Auth    : 	... 10 more
+10-20 12:37:01.901  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 16
+10-20 12:37:01.901  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-8 10-12 10-47 10-51
+10-20 12:37:01.902  2327  2797 I Finsky  : [51] wja.o(4): SCH: jobFinished: 10-51. TimeElapsed: 4ms.
+10-20 12:37:01.903  1101  3293 W Auth    : [GaiaServicesFlagManager] Services not available! [CONTEXT service_id=153 ]
+10-20 12:37:01.919  1101  1660 E atwd    : Phenotype API error. Event # cngu@bc1a4e8b, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:01.919  1101  1660 E atwd    : atvi: 29501: Stale snapshot (change count changed - expected 2  but was 0)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):14)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):7)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:01.919  1101  1660 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29501 [CONTEXT service_id=51 ]
+10-20 12:37:01.919  1101  1660 E AsyncOperation: OperationException[Status{statusCode=Stale snapshot (change count changed - expected 2  but was 0), resolution=null}]
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):7)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:01.919  1101  1660 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:01.968  2327  2908 I Finsky  : [55] lrq.a(2): [Counters Flush] scheduling.
+10-20 12:37:02.016  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-51 finished. Not rescheduling.
+10-20 12:37:02.016  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-53
+10-20 12:37:02.032  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 15
+10-20 12:37:02.032  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-8 10-12 10-47 10-53
+10-20 12:37:02.094  1468  1480 I FuseDaemon: Background concurrent copying GC freed 70944(3857KB) AllocSpace objects, 29(580KB) LOS objects, 49% free, 2408KB/4817KB, paused 8.383ms,152us total 240.166ms
+10-20 12:37:02.200  5189  5268 W DynamiteModule: Local module descriptor class for com.google.android.gms.crash not found.
+10-20 12:37:02.218  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $10.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-20 12:37:02.220  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Tax: $0.80"}' assertion on view view.getId() is <2131231233/com.example.lunchtray:id/tax>
+10-20 12:37:02.221  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Total: $10.80"}' assertion on view view.getId() is <2131231262/com.example.lunchtray:id/total>
+10-20 12:37:02.221  3315  3354 I TestRunner: finished: subtotal_tax_total_in_checkout(com.example.lunchtray.OrderFunctionalityTests)

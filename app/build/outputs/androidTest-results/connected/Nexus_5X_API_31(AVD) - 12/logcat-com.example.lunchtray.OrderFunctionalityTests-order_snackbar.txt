@@ -1,0 +1,466 @@
+10-20 12:36:52.648  3315  3354 I TestRunner: started: order_snackbar(com.example.lunchtray.OrderFunctionalityTests)
+10-20 12:36:52.664  1101  4786 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.android.statementservice flg=0x45000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+10-20 12:36:52.668   530  2249 W InputManager-JNI: Input channel object '8d876c9 com.example.lunchtray/com.example.lunchtray.MainActivity (client)' was disposed without first being removed with the input manager!
+10-20 12:36:52.712  3315  3354 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-20 12:36:52.723  1101  4785 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.setupwizard flg=0x45000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+10-20 12:36:52.752  1101  2959 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+10-20 12:36:52.767   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fa13b000 0x3fa924000]
+10-20 12:36:52.769   530   564 I WifiService: startScan uid=10092
+10-20 12:36:52.773  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9 in: PRE_ON_CREATE
+10-20 12:36:52.773  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9
+10-20 12:36:52.775   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fa926000 0x3fb10f000]
+10-20 12:36:52.775   407   407 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+10-20 12:36:52.779   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fb10f000 0x3fb8f8000]
+10-20 12:36:52.803  1101  4785 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+10-20 12:36:52.803  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9 in: CREATED
+10-20 12:36:52.803  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9
+10-20 12:36:52.804  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9 in: STARTED
+10-20 12:36:52.804  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9
+10-20 12:36:52.812  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9 in: RESUMED
+10-20 12:36:52.813  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9
+10-20 12:36:52.815  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9 in: PAUSED
+10-20 12:36:52.815  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9
+10-20 12:36:52.836  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@67f445f in: PRE_ON_CREATE
+10-20 12:36:52.836  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-20 12:36:52.842  1101  2959 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.apps.maps flg=0x45000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+10-20 12:36:52.845  1101  1660 I atxs    : Scheduling Phenotype for a PhenotypeSyncImmediately(6, com.google.android.libraries.notifications#com.google.android.apps.photos) one off with window [1, 2] in seconds [CONTEXT service_id=51 ]
+10-20 12:36:52.856  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@67f445f in: CREATED
+10-20 12:36:52.856  3315  3315 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lunchtray.MainActivity@67f445f
+10-20 12:36:52.864  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@67f445f in: STARTED
+10-20 12:36:52.864  3315  3315 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lunchtray.MainActivity@67f445f
+10-20 12:36:52.865  3315  3315 D LifecycleMonitor: Lifecycle status change: com.example.lunchtray.MainActivity@67f445f in: RESUMED
+10-20 12:36:52.866  3315  3315 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lunchtray.MainActivity@67f445f
+10-20 12:36:52.889  1101  4786 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+10-20 12:36:52.891   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3f9421000 0x3f9c0a000]
+10-20 12:36:52.896   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fd7bb000 0x3fdfa4000]
+10-20 12:36:52.898   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fdfa4000 0x3fe78d000]
+10-20 12:36:52.916  1101  4776 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package:com.google.android.apps.photos flg=0x45000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+10-20 12:36:52.923   530   566 I ActivityTaskManager: Displayed com.example.lunchtray/.MainActivity: +193ms
+10-20 12:36:52.936   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:52.940  1279  1279 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+10-20 12:36:52.940  1101  4786 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+10-20 12:36:52.943  1279  1279 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+10-20 12:36:52.945  1279  1279 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+10-20 12:36:52.962  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231208/com.example.lunchtray:id/start_order_btn>
+10-20 12:36:52.985   530   630 I RoleService: Granting default roles...
+10-20 12:36:52.987   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:52.988   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:53.004   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.contacts
+10-20 12:36:53.006   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:53.052   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:53.054   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:53.078  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9 in: STOPPED
+10-20 12:36:53.078  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@c0679d9
+10-20 12:36:53.118  1279  1279 I PhenotypeModule: PhenotypeModule.receiveBroadcast():387 onReceive() urgent = false
+10-20 12:36:53.118  1279  1279 I PhenotypeModule: PhenotypeModule.maybeFetchAndUpdate():168 maybeFetchAndUpdate: forceRefresh=true
+10-20 12:36:53.118  1279  1279 I PhenotypeModule: PhenotypeModule.receiveBroadcast():387 onReceive() urgent = false
+10-20 12:36:53.119   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:53.119  1101  2708 I PackageUpdateTaskChimer: Scheduling Phenotype config package catchup updates to be 86400 seconds from now (1697805413119) [CONTEXT service_id=51 ]
+10-20 12:36:53.146  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.download.START cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+10-20 12:36:53.150   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:53.152   803   963 W Role    : Cannot get ApplicationInfo for default holder: com.google.android.as
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: Failed to apply ContentProviderOperation(type=insert uri=content://media/internal/file values={instance_id=null, compilation=null, disc_number=0, duration=4383, is_ringtone=0, album_artist=null, resolution=null, orientation=null, artist=Unknown, author=null, height=null, is_drm=0, is_audiobook=0, date_modified=1640217878, writer=null, composer=null, _modifier=3, is_recording=0, datetaken=null, mime_type=audio/ogg, is_notification=1, bitrate=96000, cd_track_number=null, xmp=[], year=null, _data=/product/media/audio/notifications/Vega.ogg, _size=29310, album=notifications, genre=null, is_alarm=0, title=Vega, track=null, width=null, is_music=0, document_id=null, is_podcast=0, capture_framerate=null, num_tracks=1, original_document_id=null, media_type=2} exceptionAllowed)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: files._data (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:940)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:89)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.util.DatabaseUtils.executeInsert(DatabaseUtils.java:457)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.insert(SQLiteQueryBuilder.java:611)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.lambda$insert$1(SQLiteQueryBuilder.java:575)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.$r8$lambda$J8sHyRt4f9G-jpErUkeO-jG4Hmw(Unknown Source:0)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder$$ExternalSyntheticLambda1.apply(Unknown Source:6)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.DatabaseHelper.runWithTransaction(DatabaseHelper.java:574)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.insert(SQLiteQueryBuilder.java:574)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.lambda$insertAllowingUpsert$16(MediaProvider.java:3903)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.$r8$lambda$D66PPVN7oPbfQ5uf1pNwLJSEApc(Unknown Source:0)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider$$ExternalSyntheticLambda26.apply(Unknown Source:13)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.DatabaseHelper.runWithTransaction(DatabaseHelper.java:574)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insertAllowingUpsert(MediaProvider.java:3893)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insertFile(MediaProvider.java:3875)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insertInternal(MediaProvider.java:4335)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insert(MediaProvider.java:4035)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.content.ContentProviderOperation.applyInternal(ContentProviderOperation.java:375)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.content.ContentProviderOperation.apply(ContentProviderOperation.java:347)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.content.ContentProvider.applyBatch(ContentProvider.java:2438)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.applyBatch(MediaProvider.java:4387)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.content.ContentProvider.applyBatch(ContentProvider.java:2429)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.content.ContentResolver.applyBatch(ContentResolver.java:2230)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.applyPending(ModernMediaScanner.java:922)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.maybeApplyPending(ModernMediaScanner.java:912)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.visitFile(ModernMediaScanner.java:818)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.visitFile(ModernMediaScanner.java:320)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at java.nio.file.Files.walkFileTree(Files.java:2670)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at java.nio.file.Files.walkFileTree(Files.java:2742)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.walkFileTree(ModernMediaScanner.java:439)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.runInternal(ModernMediaScanner.java:402)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.run(ModernMediaScanner.java:391)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner.scanDirectory(ModernMediaScanner.java:248)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.scanDirectory(MediaProvider.java:1265)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaService.onScanVolume(MediaService.java:194)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaService.onScanVolume(MediaService.java:162)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at com.android.providers.media.MediaService.onHandleWork(MediaService.java:95)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at androidx.core.app.JobIntentService$CommandProcessor.doInBackground(JobIntentService.java:396)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at androidx.core.app.JobIntentService$CommandProcessor.doInBackground(JobIntentService.java:387)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at android.os.AsyncTask$3.call(AsyncTask.java:394)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:36:53.160  1468  4025 W ModernMediaScanner: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:36:53.170  4716  4716 D CompatibilityChangeReporter: Compat change id reported: 119147584; UID 10126; state: ENABLED
+10-20 12:36:53.173  1101  2708 I atxs    : Scheduling Phenotype for a PhenotypeSyncImmediately(13, com.google.android.googlequicksearchbox) one off with window [1, 2] in seconds [CONTEXT service_id=51 ]
+10-20 12:36:53.207   530   564 W InputManager-JNI: Input channel object 'f3c489b Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+10-20 12:36:53.215  1279  2303 I PhenotypeModule: PhenotypeModule.handlePhenotypeConfigurationUpdatesInternal():364 Latency of updating configurations from phenotype (experiment v4): 0
+10-20 12:36:53.215  1279  2303 I PhenotypeModule: PhenotypeModule.handlePhenotypeConfigurationUpdates():263 Latency of updating configurations from phenotype (ExperimentV4): 0
+10-20 12:36:53.216  1279  2303 I PhenotypeModule: PhenotypeModule.lambda$fetchAndUpdate$1():220 fetchAndUpdate() : Success, hasFlags=true, flagCount=869, lastFetchStatus=October 20, 12:36 PM {reason=2, isFullFetch=false, success=true, isEmpty=false, isDelta=true, fetchedFlagsCount=1, deletedFlagsCount=0, updatedFlagsCount=1, totalTime=97}
+10-20 12:36:53.226  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_birthdaydoodle_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_call_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_canvas_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_chkpkg_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_crashtest_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_dining_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_doodle_notifications_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_imageviewer_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_ipa_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_jslocation_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_localintent_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_messaging_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_nativesrp_activity_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_nativesrp_presenter_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_nowcontent_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_recents_activity_jar__name to integer.
+10-20 12:36:53.227  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_save_jar__name to integer.
+10-20 12:36:53.228  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_searchresults_activity_jar__name to integer.
+10-20 12:36:53.228  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_test_jar__name to integer.
+10-20 12:36:53.228  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_weather_jar__name to integer.
+10-20 12:36:53.228  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_wernicke_player_homebase_jar__name to integer.
+10-20 12:36:53.228  2404  2507 W A       : Can't format flag AndroidGsaVelourJars__velour_wernicke_player_jar__name to integer.
+10-20 12:36:53.228  2404  2507 W A       : Can't format flag bindle_flags__bloblobber_blob to integer.
+10-20 12:36:53.229  2404  2507 W A       : Can't format flag bindle_flags__velour_jar to integer.
+10-20 12:36:53.269  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+10-20 12:36:53.281   344   344 D Zygote  : Forked child process 4801
+10-20 12:36:53.293  4801  4801 W .apps.wallpape: Unexpected CPU variant for X86 using defaults: x86_64
+10-20 12:36:53.298  4801  4801 E .apps.wallpape: Not starting debugger since process cannot load the jdwp agent.
+10-20 12:36:53.347  4801  4801 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10134; state: DISABLED
+10-20 12:36:53.363  1171  4216 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-20 12:36:53.382  4801  4801 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.wallpaper' set to: 'default'
+10-20 12:36:53.382  4801  4801 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-20 12:36:53.384  4801  4801 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-20 12:36:53.384  4801  4801 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-20 12:36:53.386  1171  4216 I Icing   : Indexing done com.google.android.gms-apps
+10-20 12:36:53.398  1171  4216 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms
+10-20 12:36:53.404  2404  2674 W SearchServiceCore: Abort, client detached.
+10-20 12:36:53.407   344   344 I Zygote  : Process 4355 exited due to signal 9 (Killed)
+10-20 12:36:53.415  4801  4801 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10134; state: DISABLED
+10-20 12:36:53.416  1171  4216 I Icing   : Indexing done com.google.android.gms-internal.3p:MobileApplication
+10-20 12:36:53.430   344   344 I Zygote  : Process 4387 exited due to signal 9 (Killed)
+10-20 12:36:53.441   530   579 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 4355 in 41ms
+10-20 12:36:53.442   530   579 I libprocessgroup: Successfully killed process cgroup uid 10059 pid 4387 in 0ms
+10-20 12:36:53.453  2404  2521 I A       : Refusing EXCLUSIVE task 24, it is already pending. Try again in 321 seconds.
+10-20 12:36:53.457  2404  2521 I BlobLobber: Canceling downloads: []
+10-20 12:36:53.473  2404  2404 I BgTaskExecutorImpl: Starting EXCLUSIVE background task BLOBLOBBER_SYNC.
+10-20 12:36:53.474  2404  2526 I FedAssExpListener: Fed-ass not supported for signed out users.
+10-20 12:36:53.475  2404  2521 I ModelDownloadListener: Schdedule model download
+10-20 12:36:53.476  2404  2526 I FedAssExpListener: Successfully processed experiments changed.
+10-20 12:36:53.487  2404  2404 I BgTaskExecutorImpl: Starting EXCLUSIVE background task UPDATE_HOTWORD_MODELS.
+10-20 12:36:53.490  2404  2521 I OpaEligibilityChecker: send OpaEligibilityChange broadcast to CommonBroadcastReceiver
+10-20 12:36:53.498  2404  2674 I MicroDetectionWorker: Removing hotword detection due to no account being used.
+10-20 12:36:53.501  2404  2674 I A       : isOpaHotwordEnabled: false
+10-20 12:36:53.501  2404  2674 I A       : Disabling the hotword detector.
+10-20 12:36:53.503  2404  2792 I ModelDownloadController: requestHotwordModelUpdate modelType-2 modelLocale-en-US
+10-20 12:36:53.504  2404  2674 I MicroDetectionState: Should stop hotword detection immediately - true
+10-20 12:36:53.508  2404  2674 I MicroDetectionState: Should stop hotword detection immediately - true
+10-20 12:36:53.514  2404  2792 I A       : New OK_HEY model config map hash: reinitializing config map.
+10-20 12:36:53.518  2404  2792 I ModelDownloadController: #maybeDownloadHotwordModelWithMDD with locale: en-US, modelType: 2.
+10-20 12:36:53.527  2404  2726 I A       : hasHotwordEverywhere-true
+10-20 12:36:53.539  2404  2674 W SearchServiceCore: Abort, client detached.
+10-20 12:36:53.539  2404  2674 W SearchServiceCore: Abort, client detached.
+10-20 12:36:53.547  2404  2475 I A       : NGA disabled due to not being eligible.
+10-20 12:36:53.549  2404  2792 E BistoWorker: Couldn't get logged in Google account.
+10-20 12:36:53.572  1171  2549 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=agsa_icing_connection serviceId=33
+10-20 12:36:53.576  1171  4184 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=agsa_icing_connection serviceId=32
+10-20 12:36:53.587  1101  1233 W SystemServiceRegistry: No service published for: contexthub
+10-20 12:36:53.597  1101  1233 W ctxmgr  : [UpdateFenceRegistrationOperation] Gesture nano app is not available. [CONTEXT service_id=47 ]
+10-20 12:36:53.618  1171  4216 W Icing   : No valid account for uploading user actions
+10-20 12:36:53.622  2404  2513 I BistoWorker: Performing LockscreenPersonalResponseSetting migration.
+10-20 12:36:53.630  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+10-20 12:36:53.646  1296  1407 W etd     : Cannot reschedule growth notification, not scheduled.
+10-20 12:36:53.655  1171  2549 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30
+10-20 12:36:53.667  1171  4216 I Icing   : Usage reports ok 3, Failed Usage reports 0, indexed 0, rejected 0
+10-20 12:36:53.672  2404  2507 W MDD     : MDDManager Failed to init shared file metadata.
+10-20 12:36:53.674  1171  4216 W Icing   : No valid account for uploading user actions
+10-20 12:36:53.683  2404  2674 I BistoSessionController: onStart no extra context
+10-20 12:36:53.684  1171  4216 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+10-20 12:36:53.685  2404  2674 I BistoSessionController: handleGenericClientEvent ID = 455
+10-20 12:36:53.686  2404  2674 E BistoWorker: Couldn't get logged in Google account.
+10-20 12:36:53.688  2404  2674 W SearchServiceCore: Abort, client detached.
+10-20 12:36:53.688  2404  2674 W SearchServiceCore: Abort, client detached.
+10-20 12:36:53.690  1171  4216 W Icing   : No valid account for uploading user actions
+10-20 12:36:53.703  1171  4216 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+10-20 12:36:53.704  1171  4216 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-20 12:36:53.705  2404  2726 I A       : hotwordModelLocation is null true, locale is en-US, re-mapped Chinese locale
+10-20 12:36:53.706  1171  4216 I Icing   : Indexing done com.google.android.gms-apps
+10-20 12:36:53.714  1171  4216 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-20 12:36:53.715  2554  2714 E GsaVoiceInteractionSrv: modelLocation is null: true isAlwaysOnEnabled is false: true isFromAnyScreenEnabled is false: true
+10-20 12:36:53.715  1171  4216 I Icing   : Indexing done com.google.android.gms-apps
+10-20 12:36:53.716  2554  2714 E HwDetectorWithState: a: 3
+10-20 12:36:53.716  2554  2714 I GsaVoiceInteractionSrv: #checkDspStatus
+10-20 12:36:53.717  2404  2521 E HotwordModelPopulator: Failed to add hotword file group for 'hotword_model_en-US_okg' from location: https://www.gstatic.com/android-search/hotword/x_google/0b06a49fe5a853c080ada268feeb6882/hotword.data
+10-20 12:36:53.717  2554  2714 I BistoHotwordHelper: setting speaker id present: false
+10-20 12:36:53.718  2554  2714 I BistoHotwordHelper: setting hotword model of size: 0 bytes
+10-20 12:36:53.718  2554  2714 I BistoHotwordHelper: setting modeltype: Ok Google
+10-20 12:36:53.719  2554  2714 I BistoHotwordHelper: setHotwordVoiceLocale: prev: en-US, new: en-US
+10-20 12:36:53.725  2404  2674 W SessionLifecycleManager: Client : AttachedClient[10574601618074146, ClientConfig[mFlags=[40000088001] mSuggestFlags=[0] mClientId=HOTWORD_SERVICE mSessionType=search publicSearchServiceCallerUid=-1]] has no associated SessionController
+10-20 12:36:53.725  2404  2674 W SearchServiceCore: Abort, client detached.
+10-20 12:36:53.727   396   505 D AF::Track: interceptBuffer: took 2681us to intercept 0 tracks
+10-20 12:36:53.729  2404  2526 E HotwordModelPopulator: Failed to add hotword file group for 'hotword_model_en-US_okhey' from location: https://www.gstatic.com/android-search/hotword/x_google/0b06a49fe5a853c080ada268feeb6882/hotword.data
+10-20 12:36:53.734  2404  2475 E HotwordModelPopulator: Failed to add hotword file group for 'hotword_model_en-US_okhey' from location: https://www.gstatic.com/android-search/hotword/x_google/0b06a49fe5a853c080ada268feeb6882/hotword.data
+10-20 12:36:53.748   787   787 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|com.google.android.googlequicksearchbox|-307962363|null|10104
+10-20 12:36:53.749   787   787 D InterruptionStateProvider: No heads up: unimportant notification: 0|com.google.android.googlequicksearchbox|-307962363|null|10104
+10-20 12:36:53.750   787   858 D PeopleSpaceWidgetMgr: Sbn doesn't contain valid PeopleTileKey: null/0/com.google.android.googlequicksearchbox
+10-20 12:36:53.789  2404  2507 I DynamiteModule: Considering local module com.google.android.gms.cronet_dynamite:0 and remote module com.google.android.gms.cronet_dynamite:1411
+10-20 12:36:53.789  2404  2507 I DynamiteModule: Selected remote version of com.google.android.gms.cronet_dynamite, version >= 1411
+10-20 12:36:53.789  2404  2507 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+10-20 12:36:53.792   787   848 D EGL_emulation: app_time_stats: avg=341.79ms min=2.12ms max=1997.27ms count=6
+10-20 12:36:53.803   530  1566 D ConnectivityService: requestNetwork for uid/pid:10104/2404 activeRequest: null callbackRequest: 96 [NetworkRequest [ REQUEST id=97, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10104 RequestorUid: 10104 RequestorPkg: com.google.android.googlequicksearchbox] ]] callback flags: 0 priority: 2147483647
+10-20 12:36:53.803   530   723 D ConnectivityService: NetReassign [97 : null → 100]
+10-20 12:36:53.804   530   716 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=97, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10104 RequestorUid: 10104 RequestorPkg: com.google.android.googlequicksearchbox] ]
+10-20 12:36:53.804   530   716 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=97, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10104 RequestorUid: 10104 RequestorPkg: com.google.android.googlequicksearchbox] ]
+10-20 12:36:53.804   530   716 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=97, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10104 RequestorUid: 10104 RequestorPkg: com.google.android.googlequicksearchbox] ]
+10-20 12:36:53.810   530   723 D ConnectivityService: NetReassign [no changes]
+10-20 12:36:53.818  1171  4216 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-20 12:36:53.819  1171  4216 I Icing   : Indexing done com.google.android.gms-apps
+10-20 12:36:53.825  2404  2507 I cr_CronetLibraryLoader: Cronet version: 93.0.4542.0, arch: x86_64
+10-20 12:36:53.839  2404  2793 D t       : Starting download: https://www.gstatic.com/android-search/hotword/x_google/0b06a49fe5a853c080ada268feeb6882/hotword.data
+10-20 12:36:53.839  2404  2793 V t       : Is http uri, downloading (uri: https://www.gstatic.com/android-search/hotword/x_google/0b06a49fe5a853c080ada268feeb6882/hotword.data)
+10-20 12:36:53.843  1468  1632 W MediaProvider: getVolumePath for unknown volume: internal
+10-20 12:36:53.844  1171  4216 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms
+10-20 12:36:53.845  1171  4216 I Icing   : Indexing done com.google.android.gms-internal.3p:MobileApplication
+10-20 12:36:53.873  1171  4216 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-20 12:36:53.874  1171  4216 I Icing   : Indexing done com.google.android.gms-apps
+10-20 12:36:53.923  1171  4216 I Icing   : Indexing com.google.android.gms-internal.3p:MobileApplication from com.google.android.gms
+10-20 12:36:53.924  1171  4216 I Icing   : Indexing done com.google.android.gms-internal.3p:MobileApplication
+10-20 12:36:53.939   787   787 D TileServices: Couldn't find tile for ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.focusmode.quicksettings.FocusModeTileService}
+10-20 12:36:53.969  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231138/com.example.lunchtray:id/salad>
+10-20 12:36:53.997  1296  1408 W gmg     : Unsupported: feature flag disabled.
+10-20 12:36:54.013   344   344 D Zygote  : Forked child process 4838
+10-20 12:36:54.021  4838  4838 W s.youtube.musi: Unexpected CPU variant for X86 using defaults: x86_64
+10-20 12:36:54.028  3315  3370 D EGL_emulation: app_time_stats: avg=25.05ms min=8.70ms max=199.72ms count=44
+10-20 12:36:54.031  4838  4838 E s.youtube.musi: Not starting debugger since process cannot load the jdwp agent.
+10-20 12:36:54.047  4838  4838 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10113; state: DISABLED
+10-20 12:36:54.066  4838  4838 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/YouTubeMusicPrebuilt/lib/x86_64:/product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk!/lib/x86_64:/product/lib64:/system/product/lib64
+10-20 12:36:54.073  4838  4838 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.apps.youtube.music' set to: 'default'
+10-20 12:36:54.073  4838  4838 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-20 12:36:54.078  4838  4838 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-20 12:36:54.080  4838  4838 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-20 12:36:54.269  4838  4838 W s.youtube.musi: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+10-20 12:36:54.269  4838  4838 W s.youtube.musi: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-20 12:36:54.269  4838  4838 W s.youtube.musi: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-20 12:36:54.278  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+10-20 12:36:54.336  1855  1868 W System  : A resource failed to call close.
+10-20 12:36:54.336  1855  1868 W System  : A resource failed to call close.
+10-20 12:36:54.340   530  2658 D ConnectivityService: requestNetwork for uid/pid:10113/4838 activeRequest: null callbackRequest: 99 [NetworkRequest [ REQUEST id=100, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]] callback flags: 0 priority: 2147483647
+10-20 12:36:54.341   530   723 D ConnectivityService: NetReassign [100 : null → 100]
+10-20 12:36:54.345   530   716 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=100, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.345   530   716 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=100, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.345   530   716 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=100, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.359  4838  4872 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+10-20 12:36:54.367  1101  2973 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+10-20 12:36:54.393  4838  4872 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+10-20 12:36:54.442  4838  4902 E GEL_DELAYED_EVENT_DEBUG: Failed delayed event dispatch, no dispatchers.
+10-20 12:36:54.460  4838  4878 E AwarenessClientProvider: Account associated with identity was null
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: Exception while syncing fences
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Account associated with identity was null
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at acyh.s(PG:6)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at acyh.get(PG:4)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at adbz.a(PG:1)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at adaq.p(PG:2)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at gzf.run(PG:1)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at nwe.run(PG:1)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at nvp.run(PG:2)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at nvf.run(PG:2)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: Caused by: java.lang.IllegalStateException: Account associated with identity was null
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at gyl.a(PG:3)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at acyj.f(PG:2)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	at acyl.run(PG:9)
+10-20 12:36:54.469  4838  4878 E AwarenessRouterSyncMgr: 	... 6 more
+10-20 12:36:54.472   530  2657 D ConnectivityService: requestNetwork for uid/pid:10113/4838 activeRequest: null callbackRequest: 101 [NetworkRequest [ REQUEST id=102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]] callback flags: 0 priority: 2147483647
+10-20 12:36:54.473   530   723 D ConnectivityService: NetReassign [102 : null → 100]
+10-20 12:36:54.478   530   716 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.478   530   716 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.478   530   716 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=102, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.482   530   723 D ConnectivityService: NetReassign [no changes]
+10-20 12:36:54.523  4838  4902 W GoogleTagManager: Failed to extract the container from the resource file. Resource is a UTF-8 encoded string but doesn't contain a JSON container
+10-20 12:36:54.542   530   542 W System  : A resource failed to call release.
+10-20 12:36:54.542   530   542 W System  : A resource failed to call close.
+10-20 12:36:54.551   530   542 W System  : A resource failed to call release.
+10-20 12:36:54.559  4838  4908 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10113; state: DISABLED
+10-20 12:36:54.574  4838  4838 W YT.MDX.tyl: CastAppId for type 0 not found. Defaulting to mainCastAppId.
+10-20 12:36:54.580  1468  4025 I MediaProvider: Scanned internal due to REASON_MOUNTED, found 232 items in 14027ms, 226 inserts 6 updates 0 deletes
+10-20 12:36:54.584  4838  4838 W YT.MDX.tyl: CastAppId for type 0 not found. Defaulting to mainCastAppId.
+10-20 12:36:54.608  1468  4025 W MediaProvider: Didn't find any volume for getVolume(/product/media/audio/ringtones/Ring_Synth_04.ogg)
+10-20 12:36:54.609  1468  4025 I MediaProvider: Open with lower FS for /product/media/audio/ringtones/Ring_Synth_04.ogg. Uid: 10138
+10-20 12:36:54.620  1468  4025 W MediaProvider: Didn't find any volume for getVolume(/product/media/audio/notifications/pixiedust.ogg)
+10-20 12:36:54.620  1468  4025 I MediaProvider: Open with lower FS for /product/media/audio/notifications/pixiedust.ogg. Uid: 10138
+10-20 12:36:54.624  4838  4872 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/PrebuiltGmsCore/lib/x86_64:/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86_64:/product/lib64:/system/product/lib64
+10-20 12:36:54.625   530  1123 D ConnectivityService: requestNetwork for uid/pid:10113/4838 activeRequest: null callbackRequest: 104 [NetworkRequest [ REQUEST id=105, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]] callback flags: 0 priority: 2147483647
+10-20 12:36:54.626   530   723 D ConnectivityService: NetReassign [105 : null → 100]
+10-20 12:36:54.627   530   716 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=105, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.627   530   716 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=105, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.627   530   716 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=105, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10113 RequestorUid: 10113 RequestorPkg: com.google.android.apps.youtube.music] ]
+10-20 12:36:54.633  1468  4025 W MediaProvider: Didn't find any volume for getVolume(/product/media/audio/alarms/Alarm_Classic.ogg)
+10-20 12:36:54.634  1468  4025 I MediaProvider: Open with lower FS for /product/media/audio/alarms/Alarm_Classic.ogg. Uid: 10138
+10-20 12:36:54.644  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+10-20 12:36:54.653  4838  4874 I FA      : App measurement disabled by setAnalyticsCollectionEnabled(false)
+10-20 12:36:54.659  4838  4874 I FA      : App measurement initialized, version: 42041
+10-20 12:36:54.659  4838  4874 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+10-20 12:36:54.659  4838  4874 I FA      : To enable faster debug mode event logging run:
+10-20 12:36:54.659  4838  4874 I FA      :   adb shell setprop debug.firebase.analytics.app com.google.android.apps.youtube.music
+10-20 12:36:54.667  1468  4025 W MediaProvider: isAppCloneUserPair for user 0: false
+10-20 12:36:54.681   344   344 D Zygote  : Forked child process 4941
+10-20 12:36:54.685  4838  4895 W YouTubeMusic: Unknown task tag mdx_background_scanner; aborting...
+10-20 12:36:54.685  4941  4941 W ndroid.calenda: Unexpected CPU variant for X86 using defaults: x86_64
+10-20 12:36:54.689  4941  4941 E ndroid.calenda: Not starting debugger since process cannot load the jdwp agent.
+10-20 12:36:54.701  4838  4902 E GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+10-20 12:36:54.701  1468  4025 W MediaProvider: isAppCloneUserPair for user 0: false
+10-20 12:36:54.703  1468  4025 W MediaProvider: isAppCloneUserPair for user 0: false
+10-20 12:36:54.704  1468  4025 W MediaProvider: isAppCloneUserPair for user 0: false
+10-20 12:36:54.722  4838  4896 I DynamiteModule: Considering local module com.google.android.gms.ads.dynamite:0 and remote module com.google.android.gms.ads.dynamite:211512000
+10-20 12:36:54.723  4838  4896 I DynamiteModule: Selected remote version of com.google.android.gms.ads.dynamite, version >= 211512000
+10-20 12:36:54.724  4941  4941 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10124; state: DISABLED
+10-20 12:36:54.728  4838  4872 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 294 native methods...
+10-20 12:36:54.730  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.people.service.START pkg=com.google.android.gms }
+10-20 12:36:54.735  1468  1632 E StorageManager: Failed to set extended attributes for /storage/emulated/0/Android to set project id.: Permission denied
+10-20 12:36:54.737  1468  1632 W MediaProvider: Failed to update quota type for /storage/emulated/0/Android
+10-20 12:36:54.737  1468  1632 W MediaProvider: java.io.IOException: Failed to update quota type for /storage/emulated/0/Android
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at android.os.storage.StorageManager.updateExternalStorageFileQuotaType(StorageManager.java:2596)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForFileInternal(MediaProvider.java:641)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForUri(MediaProvider.java:615)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider.access$1000(MediaProvider.java:254)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.lambda$onInsert$0(MediaProvider.java:667)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.$r8$lambda$tVGVTcDpunhoNiUjwQEahD_I1Jc(Unknown Source:0)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider$3$$ExternalSyntheticLambda2.run(Unknown Source:10)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at android.os.Handler.handleCallback(Handler.java:938)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at android.os.Looper.loopOnce(Looper.java:201)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at android.os.Looper.loop(Looper.java:288)
+10-20 12:36:54.737  1468  1632 W MediaProvider: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+10-20 12:36:54.738  4941  4941 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/app/CalendarGooglePrebuilt/lib/x86_64:/product/lib64:/system/product/lib64
+10-20 12:36:54.743  1468  1632 E StorageManager: Failed to set extended attributes for /storage/emulated/0/Android/media to set project id.: Permission denied
+10-20 12:36:54.744  1468  1632 W MediaProvider: Failed to update quota type for /storage/emulated/0/Android/media
+10-20 12:36:54.744  1468  1632 W MediaProvider: java.io.IOException: Failed to update quota type for /storage/emulated/0/Android/media
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at android.os.storage.StorageManager.updateExternalStorageFileQuotaType(StorageManager.java:2596)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForFileInternal(MediaProvider.java:641)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForUri(MediaProvider.java:615)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider.access$1000(MediaProvider.java:254)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.lambda$onInsert$0(MediaProvider.java:667)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.$r8$lambda$tVGVTcDpunhoNiUjwQEahD_I1Jc(Unknown Source:0)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at com.android.providers.media.MediaProvider$3$$ExternalSyntheticLambda2.run(Unknown Source:10)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at android.os.Handler.handleCallback(Handler.java:938)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at android.os.Looper.loopOnce(Looper.java:201)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at android.os.Looper.loop(Looper.java:288)
+10-20 12:36:54.744  1468  1632 W MediaProvider: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+10-20 12:36:54.748  4941  4941 V GraphicsEnvironment: ANGLE Developer option for 'com.google.android.calendar' set to: 'default'
+10-20 12:36:54.748  4941  4941 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-20 12:36:54.756  4941  4941 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-20 12:36:54.760  4941  4941 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-20 12:36:54.769  1101  3825 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ipa.base.IpaGcmTaskService started execution. cause:9 exec_start_elapsed_seconds: 82 [CONTEXT service_id=218 ]
+10-20 12:36:54.784   344   344 I Zygote  : Process 4378 exited due to signal 9 (Killed)
+10-20 12:36:54.793  1468  4025 W MediaProvider: isAppCloneUserPair for user 0: false
+10-20 12:36:54.794  1468  4025 W MediaProvider: isAppCloneUserPair for user 0: false
+10-20 12:36:54.796   530   579 I libprocessgroup: Successfully killed process cgroup uid 1000 pid 4378 in 49ms
+10-20 12:36:54.804   787   848 D EGL_emulation: app_time_stats: avg=52.84ms min=12.97ms max=204.44ms count=19
+10-20 12:36:54.805  1468  4025 I MediaProvider: Scanned external_primary due to REASON_MOUNTED, found 19 items in 154ms, 6 inserts 0 updates 0 deletes
+10-20 12:36:54.807  1468  4025 I MediaProvider: End Intent { act=com.android.providers.media.action.SCAN_VOLUME (has extras) }
+10-20 12:36:54.808  1468  4025 I MediaProvider: Begin Intent { act=com.android.providers.media.action.SCAN_VOLUME (has extras) }
+10-20 12:36:54.813  1468  4025 W ModernMediaScanner: Failed to visit /system/media: java.nio.file.NoSuchFileException: /system/media
+10-20 12:36:54.813  1468  4025 I MediaProvider: Scanned internal due to REASON_MOUNTED, found 0 items in 1ms, 0 inserts 0 updates 0 deletes
+10-20 12:36:54.815  1468  4025 W ModernMediaScanner: Failed to visit /oem/media: java.nio.file.NoSuchFileException: /oem/media
+10-20 12:36:54.815  1468  4025 I MediaProvider: Scanned internal due to REASON_MOUNTED, found 0 items in 1ms, 0 inserts 0 updates 0 deletes
+10-20 12:36:54.845  4838  4872 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+10-20 12:36:54.857  4838  4896 D DynamitePackage: Instantiated singleton DynamitePackage.
+10-20 12:36:54.857  4838  4896 D DynamitePackage: Instantiating com.google.android.gms.ads.adshield.ChimeraAdShieldCreatorImpl
+10-20 12:36:54.879  1101  3825 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.ipa.base.IpaGcmTaskService finished executing. cause:9 result: 1 elapsed_millis: 162 uptime_millis: 162 exec_start_elapsed_seconds: 82 [CONTEXT service_id=218 ]
+10-20 12:36:54.906  4838  4838 E YouTubeMusic: Trying to detachMediaView when it wasn't the most recent MediaView Setter
+10-20 12:36:54.915  2923  2976 I BugleJobs: GenericWorkerQueueAction: Bailing early, no work found, no failed work found
+10-20 12:36:54.985  4941  4972 W ndroid.calenda: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+10-20 12:36:54.987  4941  4972 W ndroid.calenda: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-20 12:36:54.988  4941  4972 W ndroid.calenda: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-20 12:36:54.995  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231081/com.example.lunchtray:id/next_button>
+10-20 12:36:54.998  4838  4956 E GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+10-20 12:36:55.015  1171  1975 W SQLiteLog: (28) double-quoted string literal: "1697632615014"
+10-20 12:36:55.015  1171  1975 W SQLiteLog: (28) double-quoted string literal: "1"
+10-20 12:36:55.030  3315  3370 D EGL_emulation: app_time_stats: avg=18.45ms min=1.91ms max=199.21ms count=48
+10-20 12:36:55.068  4838  4898 E GoogleTagManager: Unsupported Value Escaping: 3
+10-20 12:36:55.068  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.asterism.service.START pkg=com.google.android.gms }
+10-20 12:36:55.075  4838  4898 E GoogleTagManager: Unsupported Value Escaping: 3
+10-20 12:36:55.082  4838  4898 E GoogleTagManager: Unsupported Value Escaping: 3
+10-20 12:36:55.128  4941  4994 I c.zhd   : Obtained writable database SQLiteDatabase/44390434 instance with path /data/user/0/com.google.android.calendar/databases/cal_v2a
+10-20 12:36:55.132  4941  4993 I c.zfk   : The schema version is 17, the database version is 17, and there are 0 migrations
+10-20 12:36:55.179  4941  4941 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10124; state: DISABLED
+10-20 12:36:55.215  4941  4941 W GrowthKit: Failed to get GrowthKitJobScheduler in GrowthKitBootCompletedBroadcastReceiver So GrowthKit failed to schedule jobs after package replaced / boot completed.
+10-20 12:36:55.215  4941  4941 W GrowthKit: java.lang.NullPointerException: Unable to get GrowthKit Component from host app: com.google.android.calendar
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at cal.rll.a(PG:6)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at com.google.android.libraries.internal.growth.growthkit.inject.GrowthKitBootCompletedBroadcastReceiver.onReceive(PG:1)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:4308)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at android.app.ActivityThread.access$1600(ActivityThread.java:247)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2064)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at android.os.Looper.loopOnce(Looper.java:201)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at android.os.Looper.loop(Looper.java:288)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at android.app.ActivityThread.main(ActivityThread.java:7839)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at java.lang.reflect.Method.invoke(Native Method)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+10-20 12:36:55.215  4941  4941 W GrowthKit: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+10-20 12:36:55.309  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231216/com.example.lunchtray:id/submit_button>
+10-20 12:36:55.321  2327  2908 I Finsky  : [55] wjz.b(5): SCH: Jobs in database: 1-1337 10-1 10-3 10-4 10-6 10-8 10-9 10-11 10-12 10-14 10-15 10-18 10-20 10-22 10-24 10-26 10-30 10-33 10-39 10-41 10-42 10-44 10-46 10-47 10-48 10-50 10-51 10-53 10-55 10-62 10-66 10-71 10-73 10-76 10-78 10-82 10-85 10-87 10-89 10-91 10-96 10-98 21-333333333 29-29 31-305419896
+10-20 12:36:55.330  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-1
+10-20 12:36:55.335  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-3
+10-20 12:36:55.342  1101  1660 I atxs    : Scheduling Phenotype for a PhenotypeSyncImmediately(6, com.google.android.libraries.notifications#com.google.android.calendar) one off with window [1, 2] in seconds [CONTEXT service_id=51 ]
+10-20 12:36:55.345  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-6
+10-20 12:36:55.346  2327  2327 W Finsky  : [2] fgl.d(22): For unauth, use getDfeApiNonAuthenticated() instead!
+10-20 12:36:55.349  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-8
+10-20 12:36:55.355  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 35
+10-20 12:36:55.355  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-1 10-3 10-6 10-8
+10-20 12:36:55.360  4941  4941 D CompatibilityChangeReporter: Compat change id reported: 119147584; UID 10124; state: ENABLED
+10-20 12:36:55.366  2327  3089 I Finsky  : [71] jww.f(1): Account name null when calculating account hash
+10-20 12:36:55.368  2327  2797 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+10-20 12:36:55.369  2327  2797 W Settings: Setting download_manager_max_bytes_over_mobile has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+10-20 12:36:55.369  2327  3000 I Finsky  : [59] VerifyInstalledPackagesTask.o(2): Verifying installed packages
+10-20 12:36:55.376  2327  2797 I Finsky  : [51] wja.o(4): SCH: jobFinished: 10-1. TimeElapsed: 45ms.
+10-20 12:36:55.376  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-1 finished. Not rescheduling.
+10-20 12:36:55.377  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-9
+10-20 12:36:55.377  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 34
+10-20 12:36:55.377  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-6 10-8 10-9
+10-20 12:36:55.389  2327  2460 I Finsky  : [44] wja.o(4): SCH: jobFinished: 10-9. TimeElapsed: 13ms.
+10-20 12:36:55.390  2327  2327 I Finsky  : [2] wic.a(3): SCH: Job 10-9 finished. Not rescheduling.
+10-20 12:36:55.390  2327  2327 I Finsky  : [2] wic.m(10): SCH: Running job: 10-12
+10-20 12:36:55.391  2327  2327 I Finsky  : [2] wib.handleMessage(29): SCH: RunningQueue size: 4, PendingQueue size: 33
+10-20 12:36:55.391  2327  2327 I Finsky  : [2] wib.handleMessage(32): SCH: Running queue: 10-3 10-6 10-8 10-12
+10-20 12:36:55.395   530  1717 D ConnectivityService: requestNetwork for uid/pid:1000/530 asUid: 10124 activeRequest: null callbackRequest: 106 [NetworkRequest [ REQUEST id=107, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10124 RequestorUid: 1000 RequestorPkg: android] ]] callback flags: 0 priority: 2147483647
+10-20 12:36:55.396   530   723 D ConnectivityService: NetReassign [107 : null → 100]
+10-20 12:36:55.398  2327  2460 I Finsky  : [44] adxh.a(1): Warm data store was already initialized.
+10-20 12:36:55.401   530   716 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=107, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10124 RequestorUid: 1000 RequestorPkg: android] ]
+10-20 12:36:55.401   530   716 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=107, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10124 RequestorUid: 1000 RequestorPkg: android] ]
+10-20 12:36:55.401   530   716 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=107, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10124 RequestorUid: 1000 RequestorPkg: android] ]
+10-20 12:36:55.403  2327  2460 I Finsky  : [44] adxf.a(1): Warm data store was already initialized.
+10-20 12:36:55.411  2327  3085 I PlayCommon: [67] alhz.k(22): Preparing logs for uploading
+10-20 12:36:55.413  2327  3085 I PlayCommon: [67] alhz.k(133): Connecting to server for timestamp: https://play.googleapis.com/play/log/timestamp
+10-20 12:36:55.424  4514  4514 D CellBroadcastReceiver: onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.google.android.cellbroadcastreceiver/com.android.cellbroadcastreceiver.CellBroadcastReceiver (has extras) }
+10-20 12:36:55.438  4514  5032 D CellBroadcastContentProvider: database changed: notifying observers...
+10-20 12:36:55.448   344   344 D Zygote  : Forked child process 5034
+10-20 12:36:55.456  5034  5034 W d.configupdate: Unexpected CPU variant for X86 using defaults: x86_64
+10-20 12:36:55.464  5034  5034 E d.configupdate: Not starting debugger since process cannot load the jdwp agent.
+10-20 12:36:55.476  2327  3000 I Finsky  : [59] rxw.a(19): Showing notification: [ID=play protect default on, Tag=null, Title=Google Play Protect is turned on, Message=This feature protects your device from harmful apps, channelId=account, targetType=1, returnCode=-1, uiElementType=926]
+10-20 12:36:55.542   787   787 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|com.android.vending|951340667|null|10103
+10-20 12:36:55.543   787   787 D InterruptionStateProvider: No heads up: unimportant notification: 0|com.android.vending|951340667|null|10103
+10-20 12:36:55.543   787   858 D PeopleSpaceWidgetMgr: Sbn doesn't contain valid PeopleTileKey: null/0/com.android.vending
+10-20 12:36:55.547  5034  5034 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10091; state: DISABLED
+10-20 12:36:55.606  5034  5034 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-20 12:36:55.624  5034  5034 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/ConfigUpdater/lib/x86_64:/product/lib64:/system/product/lib64
+10-20 12:36:55.633  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Order Submitted!"
+10-20 12:36:55.633  3315  3354 I TestRunner: finished: order_snackbar(com.example.lunchtray.OrderFunctionalityTests)

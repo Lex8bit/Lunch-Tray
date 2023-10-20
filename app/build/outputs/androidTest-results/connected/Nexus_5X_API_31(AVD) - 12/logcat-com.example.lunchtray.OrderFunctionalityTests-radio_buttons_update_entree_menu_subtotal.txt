@@ -1,0 +1,596 @@
+10-20 12:37:08.127  3315  3354 I TestRunner: started: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+10-20 12:37:08.135   209  5157 I keystore2: keystore2::watchdog: Watchdog thread idle -> terminating. Have a great day.
+10-20 12:37:08.139  3315  3354 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-20 12:37:08.181   530   723 D ConnectivityService: reportNetworkConnectivity(100, false) by 10104
+10-20 12:37:08.181   530   723 D ConnectivityService: reportNetworkConnectivity(100, false) by 10104
+10-20 12:37:08.184   948  1743 D NetworkMonitor/100: Forcing reevaluation for UID 10104. Dns signal count: 0
+10-20 12:37:08.194   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fa13b000 0x3fa924000]
+10-20 12:37:08.200  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5 in: PRE_ON_CREATE
+10-20 12:37:08.201  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.201  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.202   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fa926000 0x3fb10f000]
+10-20 12:37:08.204  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5 in: CREATED
+10-20 12:37:08.205  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.205  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.207  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5 in: STARTED
+10-20 12:37:08.207  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.207  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.207   407   407 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+10-20 12:37:08.214  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5 in: RESUMED
+10-20 12:37:08.215  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.215  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.219   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3fb10f000 0x3fb8f8000]
+10-20 12:37:08.233  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5 in: PAUSED
+10-20 12:37:08.233  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.233  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.248   948  5421 D NetworkMonitor/100: PROBE_DNS www.google.com 42ms OK 142.250.185.164,2a00:1450:4017:813::2004
+10-20 12:37:08.252   948  5422 D NetworkMonitor/100: PROBE_DNS connectivitycheck.gstatic.com 52ms OK 142.250.184.131,2a00:1450:4017:80c::2003
+10-20 12:37:08.254  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925 in: PRE_ON_CREATE
+10-20 12:37:08.254  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925
+10-20 12:37:08.254  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-20 12:37:08.258   407   407 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+10-20 12:37:08.267  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925 in: CREATED
+10-20 12:37:08.267  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925
+10-20 12:37:08.268  3315  3315 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925
+10-20 12:37:08.268  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925 in: STARTED
+10-20 12:37:08.268  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925
+10-20 12:37:08.268  3315  3315 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925
+10-20 12:37:08.273  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925 in: RESUMED
+10-20 12:37:08.273  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925
+10-20 12:37:08.273  3315  3315 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@e96d925
+10-20 12:37:08.303   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3f6bfb000 0x3f73e4000]
+10-20 12:37:08.312   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3f73e4000 0x3f7bcd000]
+10-20 12:37:08.313   362   404 D goldfish-address-space: claimShared: Ask to claim region [0x3f4a20000 0x3f5209000]
+10-20 12:37:08.408   948  5422 D NetworkMonitor/100: PROBE_HTTP http://connectivitycheck.gstatic.com/generate_204 time=146ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Connection=[close], Content-Length=[0], Cross-Origin-Resource-Policy=[cross-origin], Date=[Fri, 20 Oct 2023 12:37:08 GMT], X-Android-Received-Millis=[1697805428407], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1697805428337]}
+10-20 12:37:08.412  1279  1279 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+10-20 12:37:08.412  1279  1279 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+10-20 12:37:08.413  1279  1279 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+10-20 12:37:08.432  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+10-20 12:37:08.554   948  5421 D NetworkMonitor/100: PROBE_HTTPS https://www.google.com/generate_204 time=272ms ret=204 request={Connection=[close], User-Agent=[Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36]} headers={null=[HTTP/1.1 204 No Content], Alt-Svc=[h3=":443"; ma=2592000,h3-29=":443"; ma=2592000], Connection=[close], Content-Length=[0], Cross-Origin-Resource-Policy=[cross-origin], Date=[Fri, 20 Oct 2023 12:37:08 GMT], X-Android-Received-Millis=[1697805428553], X-Android-Response-Source=[NETWORK 204], X-Android-Selected-Protocol=[http/1.1], X-Android-Sent-Millis=[1697805428482]}
+10-20 12:37:08.556   948  5420 D NetworkMonitor/100: isCaptivePortal: isSuccessful()=true isPortal()=false RedirectUrl=null isPartialConnectivity()=false Time=361ms
+10-20 12:37:08.566   530   723 D ConnectivityService: [100 WIFI] validation passed
+10-20 12:37:08.593  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.key.retrieval.service.START cmp=com.google.android.gms/.chimera.GmsApiService }
+10-20 12:37:08.618  1101  1101 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.contextmanager.service.ContextManagerService.START pkg=com.google.android.gms }
+10-20 12:37:08.621   530  1566 W InputManager-JNI: Input channel object 'dcab1a4 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+10-20 12:37:08.645  3315  3315 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5 in: STOPPED
+10-20 12:37:08.645  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.645  3315  3315 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@e1d58b5
+10-20 12:37:08.732  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-20 12:37:08.733  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230858/com.example.lunchtray:id/chili>
+10-20 12:37:08.769  1101  2708 I atxs    : Scheduling Phenotype for a PhenotypeSyncImmediately(7, com.google.android.libraries.surveys#com.google.android.gms) one off with window [1, 2] in seconds [CONTEXT service_id=51 ]
+10-20 12:37:08.807  1171  5220 I SystemUpdate: [Installation,ReceiverIntentOperation] Received intent: Intent { act=com.google.android.gms.update.BASE_MODULE_INIT cat=[targeted_intent_op_prefix:.update.control.ReceiverIntentOperation] cmp=com.google.android.gms/.chimera.GmsIntentOperationService }.
+10-20 12:37:08.819  1171  5210 W SystemServiceRegistry: No service published for: persistent_data_block
+10-20 12:37:08.821  1171  5224 I Auth    : [FRP, FrpUpdateIntentOperation] Frp is not supported for this device / user
+10-20 12:37:08.837  1101  2708 E atwd    : Phenotype API error. Event # cngu@14fe6c2, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:08.837  1101  2708 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:08.837  1101  2708 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:08.837  1101  2708 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:08.837  1101  2708 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:08.837  1101  2708 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: Failed to commit to config
+10-20 12:37:08.846  2404  5436 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:08.846  2404  5436 E MendelPackageState: 	... 5 more
+10-20 12:37:08.855  1171  5219 I Auth    : [WorkAccount] update authenticator enabled for boot or update
+10-20 12:37:08.866  1101  2711 I Auth    : [WorkAccountServiceImpl] init work authenticator
+10-20 12:37:08.870  1101  5440 W WakefulBroadcastReceiv.: No active wake lock id #5
+10-20 12:37:08.873  2404  5396 W TimedProcessReaper: Scheduling killing of process to refresh configuration
+10-20 12:37:08.919  1171  5224 I SystemUpdate: [Execution,InstallationEventIntentOperation] Handling event of type 1.
+10-20 12:37:08.939  1171  5222 I SystemUpdate: [Execution,InstallationIntentOperation] Received intent: Intent { act=com.google.android.gms.update.INSTALL_UPDATE cat=[targeted_intent_op_prefix:.update.execution.InstallationIntentOperation] cmp=com.google.android.gms/.chimera.GmsIntentOperationService }.
+10-20 12:37:08.940  1171  5222 I SystemUpdate: [Execution,ExecutionManager] Action finished-execution executed for 0.00 seconds.
+10-20 12:37:08.947  1171  5224 I Auth    : [SupervisedAccountIntentOperation] onHandleIntent(): android.intent.action.BOOT_COMPLETED
+10-20 12:37:08.948  1171  5219 W Auth    : [PubsubPeriodicSyncherRuntimeInit] Initializing periodic tasks, IntentAction=android.intent.action.BOOT_COMPLETED, InitRuntimeState=2
+10-20 12:37:08.951  1171  5210 I Ads     : Initialized AdMob in container 21.24.23 (190800-396046673)
+10-20 12:37:08.951  1171  5224 I Auth    : [SupervisedAccountIntentOperation] This operation is disabled
+10-20 12:37:08.956  1171  5222 I BlockstoreModuleInit: Boot completed. [CONTEXT service_id=258 ]
+10-20 12:37:08.968  1171  5224 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] Initializing auth_folsom
+10-20 12:37:08.973  1171  5224 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] com.google.android.gms.auth.folsom.service.FolsomPublicKeyUpdateService is already enabled. Ignore.
+10-20 12:37:08.977  1171  5224 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] com.google.android.gms.auth.folsom.service.GcmReceiverService is already enabled. Ignore.
+10-20 12:37:08.993  1171  5442 I Authzen : [AuthZenEventHandler] Handling event: android.intent.action.BOOT_COMPLETED
+10-20 12:37:08.996  1171  5442 I Authzen : [TransactionCache] Clearing transaction cache
+10-20 12:37:09.000   530   843 V RecoverableKeyStoreMgr: Not updating secret types - same as old value.
+10-20 12:37:09.000  1171  5222 I BlockstoreModuleInit: Feature flags are not turned on, skip monitoring connectivity. [CONTEXT service_id=258 ]
+10-20 12:37:09.001  1171  5224 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] Setting vault handle
+10-20 12:37:09.006   530  2657 V RecoverableKeyStoreMgr: Not updating server params - same as old value.
+10-20 12:37:09.011  1171  5224 I RecoverableKeyStoreGms: [EnrollmentManager] Returning certificates list from cache
+10-20 12:37:09.013  1171  5219 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Updating password complexity components state.
+10-20 12:37:09.013  1171  5219 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-20 12:37:09.015  1171  5219 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+10-20 12:37:09.035  1101  5337 W EasyUnlock: [EasyUnlockSupportReporterIntentOperation] Invalid account list. [CONTEXT service_id=234 ]
+10-20 12:37:09.044  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $4.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-20 12:37:09.045  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231106/com.example.lunchtray:id/pasta>
+10-20 12:37:09.051  1171  1171 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.052  1171  1171 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.055  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.061   530   943 I RecoverableKeyStoreMgr: The cert file serial number is the same, so skip updating.
+10-20 12:37:09.061  1171  5224 I RecoverableKeyStoreGms: [EnrollmentManager] Recovery service is initialized.
+10-20 12:37:09.063   530  2657 I RecoverySnapshotLstnrs: Registered listener for agent with uid 10097
+10-20 12:37:09.073  1171  5222 I Backup  : [TargetEnabler] Setting target components to enabled = false
+10-20 12:37:09.082  1101  1229 W EasyUnlock: [HostValidator] Invalid account list. [CONTEXT service_id=234 ]
+10-20 12:37:09.086  1171  5222 I Backup  : [TargetEnabler] Enabling D2dMigrateHelperService on non-Pixel on P+
+10-20 12:37:09.105  1171  5222 I Backup  : [SourceEnabler] Setting source components to enabled = true
+10-20 12:37:09.109  1171  5219 I AutofillModuleInitInten: AutofillModuleInitIntentOperation onInitRuntimeState(2) [CONTEXT service_id=177 ]
+10-20 12:37:09.130  1171  5222 W Backup  : [ComponentEnablerUtil] Unable to set component 'com.google.android.gms.backup.component.CloudRestoreFlowActivity' to enabled=true
+10-20 12:37:09.131  1171  5222 W Backup  : [ComponentEnablerUtil] Unable to set component 'com.google.android.gms.backup.component.RestoreSessionV0Service' to enabled=true
+10-20 12:37:09.146  1171  5222 W Backup  : [ComponentEnablerUtil] Unable to set component 'com.google.android.gms.backup.component.D2dMigrateFlowActivity' to enabled=false
+10-20 12:37:09.199   787   848 D EGL_emulation: app_time_stats: avg=1729.61ms min=1729.61ms max=1729.61ms count=1
+10-20 12:37:09.200  1101  1111 I .gms.persisten: Background concurrent copying GC freed 242122(11MB) AllocSpace objects, 12(496KB) LOS objects, 49% free, 10MB/21MB, paused 12.408ms,56us total 295.241ms
+10-20 12:37:09.201  1171  5224 I Backup  : [GmsBackupAccountManager] Backup account not found in gmscore.
+10-20 12:37:09.230  1101  1660 I atxs    : Scheduling Phenotype for a PhenotypeSyncImmediately(6, com.google.android.libraries.notifications#com.google.android.googlequicksearchbox) one off with window [1, 2] in seconds [CONTEXT service_id=51 ]
+10-20 12:37:09.231  1101  2708 E atwd    : Phenotype API error. Event # cngu@492139f0, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.231  1101  2708 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.231  1101  2708 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.231  1101  2708 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.231  1101  2708 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.231  1101  2708 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.232  1101  5212 W ChimeraUtils: Module com.google.android.gms.backup_base has empty metadata display_name_string_id
+10-20 12:37:09.234  2404  2792 I GnpSdk  : [PhenotypeManagerImpl] Phenotype registration SUCCESS
+10-20 12:37:09.234  2404  5436 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.234  2404  5436 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.234  2404  5436 E MendelPackageState: 	... 5 more
+10-20 12:37:09.235  1101  1660 E atwd    : Phenotype API error. Event # cngu@d11c33c, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.235  1101  1660 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.235  1101  1660 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.235  1101  1660 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.237  1101  1660 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.237  1101  1660 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.239  2404  5436 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.239  2404  5436 E MendelPackageState: 	... 5 more
+10-20 12:37:09.249  1171  5224 I Backup  : [GmsBackupAccountManager] Backup account not found in gmscore.
+10-20 12:37:09.294  1171  1171 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.294  1171  1171 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.308  1101  2708 E atwd    : Phenotype API error. Event # cngu@e9263ca9, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.308  1101  2708 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.308  1101  2708 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.308  1101  2708 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.308  1101  2708 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.308  1101  2708 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.310  2404  3494 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.310  2404  3494 E MendelPackageState: 	... 5 more
+10-20 12:37:09.318  1101  1660 E atwd    : Phenotype API error. Event # cngu@d11c33c, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.318  1101  1660 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.318  1101  1660 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.318  1101  1660 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.319  1101  1660 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.319  1101  1660 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.322  2404  2421 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.322  2404  2421 E MendelPackageState: 	... 5 more
+10-20 12:37:09.332  1101  1660 E atwd    : Phenotype API error. Event # cngu@d6dd80cd, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.332  1101  1660 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.332  1101  1660 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.332  1101  1660 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.333  1101  1660 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.333  1101  1660 E atwd    : Phenotype API error. Event # cngu@d11c33c, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.333  1101  1660 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.333  1101  1660 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.333  1101  1660 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.333  1101  1660 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.333  1101  1660 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.338  2404  5436 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.338  2404  5436 E MendelPackageState: 	... 5 more
+10-20 12:37:09.349  1101  1101 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.chimera.container.BIND_FIND_BUFFER_SIZE cmp=com.google.android.gms/.chimera.PersistentInternalBoundBrokerService }
+10-20 12:37:09.350  1101  1101 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.chimera.container.BIND_FIND_BUFFER_SIZE cmp=com.google.android.gms/.chimera.PersistentInternalBoundBrokerService }
+10-20 12:37:09.350  1101  1660 E atwd    : Phenotype API error. Event # cngu@d11c33c, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.350  1101  1660 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.350  1101  1660 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.350  1101  1660 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.353  1101  1660 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.353  1101  1660 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.354  1101  1660 E atwd    : Phenotype API error. Event # cngu@d11c33c, EventCode: 5 [CONTEXT service_id=51 ]
+10-20 12:37:09.354  1101  1660 E atwd    : atvi: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.354  1101  1660 E atwd    : 	at atwg.b(:com.google.android.gms@212423056@21.24.23 (190800-396046673):9)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at atwf.e(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):4)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.354  1101  1660 E atwd    : 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: operation=CommitToConfigurationOperationCall, opStatusCode=29500 [CONTEXT service_id=51 ]
+10-20 12:37:09.356  1101  1660 E AsyncOperation: OperationException[Status{statusCode=Empty (package not registered?) or malformed snapshot token: , resolution=null}]
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at atwd.d(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at atwd.f(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at acvu.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):17)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at bvgk.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):2)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at ubg.c(:com.google.android.gms@212423056@21.24.23 (190800-396046673):6)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at ubg.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):8)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at uhc.run(:com.google.android.gms@212423056@21.24.23 (190800-396046673):0)
+10-20 12:37:09.356  1101  1660 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:920)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.353  2404  2421 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.353  2404  2421 E MendelPackageState: 	... 5 more
+10-20 12:37:09.358  2404  5436 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.358  2404  5436 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.358  2404  5436 E MendelPackageState: 	... 5 more
+10-20 12:37:09.364  2404  3494 E MendelPackageState: Failed to commit to config
+10-20 12:37:09.364  2404  3494 E MendelPackageState: com.google.android.libraries.phenotype.client.a.e: 29500: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.libraries.phenotype.client.a.g.apply(SourceFile:1)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.common.w.a.a.d(SourceFile:2)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.common.w.a.c.run(SourceFile:11)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.common.w.a.d.i(SourceFile:1)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.common.w.a.d.m(SourceFile:12)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.common.w.a.d.p(SourceFile:3)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.libraries.s.b.a(SourceFile:5)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.n.run(SourceFile:1)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.common.w.a.az.execute(SourceFile:1)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.o.a(SourceFile:3)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.ad.b(SourceFile:5)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.k.aj.u(SourceFile:4)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:4)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.phenotype.r.a(SourceFile:1)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.phenotype.a.a.dispatchTransaction(SourceFile:31)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.a.b.onTransact(SourceFile:2)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at android.os.Binder.execTransactInternal(Binder.java:1184)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at android.os.Binder.execTransact(Binder.java:1143)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: Caused by: com.google.android.gms.common.api.n: 29500: Empty (package not registered?) or malformed snapshot token:
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	at com.google.android.gms.common.api.internal.dg.b(SourceFile:3)
+10-20 12:37:09.364  2404  3494 E MendelPackageState: 	... 5 more
+10-20 12:37:09.382   787   787 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|com.android.providers.downloads|0|1:com.android.vending|10062
+10-20 12:37:09.382   787   787 D InterruptionStateProvider: No heads up: unimportant notification: 0|com.android.providers.downloads|0|1:com.android.vending|10062
+10-20 12:37:09.387   344   344 W Zygote  : forkRepeatedly terminated due to non-simple command
+10-20 12:37:09.387   344   344 D Zygote  : mbuffer starts with 1 , nice name is , mEnd = 35, mNext = 35, mLinesLeft = 0, mFd = 5
+10-20 12:37:09.388  1171  5219 I ChromeSync: [Sync,SyncIntentOperation] Handling the intent: Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }.
+10-20 12:37:09.395  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.413  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-20 12:37:09.414  2404  2404 D CompatibilityChangeReporter: Compat change id reported: 119147584; UID 10104; state: ENABLED
+10-20 12:37:09.414  3315  3370 D EGL_emulation: app_time_stats: avg=17.68ms min=8.20ms max=87.90ms count=61
+10-20 12:37:09.417   787   858 D PeopleSpaceWidgetMgr: Sbn doesn't contain valid PeopleTileKey: null/0/com.android.providers.downloads
+10-20 12:37:09.417  3315  3315 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231175/com.example.lunchtray:id/skillet>
+10-20 12:37:09.432  1171  1171 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.433  1171  1171 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.443  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.459  1171  5210 I Checkin : [EventLogChimeraService] Opted in for usage reporting: false
+10-20 12:37:09.465  1171  5210 I Checkin : [EventLogChimeraService] Accumulating logs since 1697805395102
+10-20 12:37:09.524  1171  5224 E JavaBinder: !!! FAILED BINDER TRANSACTION !!!  (parcel size = 1056768)
+10-20 12:37:09.539   803  5361 I PermissionControllerServiceImpl: Updating user sensitive for user 0
+10-20 12:37:09.541  1171  5224 I constellation: [intent_handler] Received onBootCompleted intent
+10-20 12:37:09.544  1101  1101 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.chimera.container.BIND_FIND_BUFFER_SIZE cmp=com.google.android.gms/.chimera.PersistentInternalBoundBrokerService }
+10-20 12:37:09.555  1171  5224 I constellation: [reboot_checker] Reboot checker check status.
+10-20 12:37:09.653  1171  1171 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.653  1171  1171 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.671  1171  5224 I constellation: [reboot_checker] Reboot Sync didn't run.
+10-20 12:37:09.672  1171  5224 I constellation: [intent_handler] on init with intent Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }
+10-20 12:37:09.676  1171  1171 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+10-20 12:37:09.686  1171  5222 W ChimeraUtils: Module com.google.android.gms.dck has empty metadata display_name_string_id
+10-20 12:37:09.707  2404  2792 I Notifications: [ChimeExecutorApiImpl-Tiktok] Finished Broadcast execution [106932377].
+10-20 12:37:09.729  3315  3315 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-20 12:37:09.730  3315  3354 I TestRunner: finished: radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
