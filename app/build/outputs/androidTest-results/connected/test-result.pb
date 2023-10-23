@@ -1,315 +1,314 @@
 
 Û
 \
-MenuContentTestscom.example.lunchtrayside_menu_item_content2ÕË…©Äã÷m:ŒË…©Ä…á∏"È
+MenuContentTestscom.example.lunchtrayside_menu_item_content2Ÿí⁄©¿Ûˆ4:€í⁄©¿€í’"È
 
 logcatandroid”
-–C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.MenuContentTests-side_menu_item_content.txt"¥
+–C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.MenuContentTests-side_menu_item_content.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo˜
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo˜
 ^
-MenuContentTestscom.example.lunchtrayentree_menu_item_content2œË…©¿¡¿:œË…©ÄÕ∂ó"Î
+MenuContentTestscom.example.lunchtrayentree_menu_item_content2‹í⁄©Ä˜éy:›í⁄©¿îÉ"Î
 
 logcatandroid’
-“C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.MenuContentTests-entree_menu_item_content.txt"¥
+“C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.MenuContentTests-entree_menu_item_content.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoÖ
-e
-MenuContentTestscom.example.lunchtrayaccompaniment_menu_item_content2œË…©¿öÚ’:–Ë…©Ä˛¨"Ú
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoÜ
+f
+MenuContentTestscom.example.lunchtrayaccompaniment_menu_item_content2ﬁí⁄©Ä‚¢»:ﬂí⁄©¿–≈·"Ú
 
 logcatandroid‹
-ŸC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.MenuContentTests-accompaniment_menu_item_content.txt"¥
+ŸC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.MenuContentTests-accompaniment_menu_item_content.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoê
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoê
 k
-NavigationTestscom.example.lunchtray%navigate_to_start_order_from_checkout2–Ë…©¿ùÍÑ:—Ë…©¿ê¡§"˜
+NavigationTestscom.example.lunchtray%navigate_to_start_order_from_checkout2‡í⁄©ÄÉìù:·í⁄©¿∏·Å"˜
 
 logcatandroid·
-ﬁC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout.txt"¥
+ﬁC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoñ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoñ
 n
-NavigationTestscom.example.lunchtray(navigate_to_start_order_from_entree_menu2—Ë…©¿§öç:“Ë…©Äì´≤"˙
+NavigationTestscom.example.lunchtray(navigate_to_start_order_from_entree_menu2‚í⁄©¿©ÂÆ:„í⁄©ÄÂ¨Î"˙
 
 logcatandroid‰
-·C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_entree_menu.txt"¥
+·C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_entree_menu.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoû
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoû
 r
-NavigationTestscom.example.lunchtray,navigate_to_checkout_from_accompaniment_menu2“Ë…©Äú∑ß:”Ë…©Ä˘ÍÂ"˛
+NavigationTestscom.example.lunchtray,navigate_to_checkout_from_accompaniment_menu2‰í⁄©¿•∂œ:Âí⁄©¿„ì"˛
 
 logcatandroidË
-ÂC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_checkout_from_accompaniment_menu.txt"¥
+ÂC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_checkout_from_accompaniment_menu.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoï
-m
-NavigationTestscom.example.lunchtray(navigate_to_entree_menu_from_start_order2‘Ë…©¿ﬁÅ
-:‘Ë…©Ä·˝ã"˙
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoñ
+n
+NavigationTestscom.example.lunchtray(navigate_to_entree_menu_from_start_order2Êí⁄©¿æ—ﬂ:Áí⁄©¿±∫Û"˙
 
 logcatandroid‰
-·C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_entree_menu_from_start_order.txt"¥
+·C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_entree_menu_from_start_order.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo•
-u
-NavigationTestscom.example.lunchtray0navigate_to_start_order_from_checkout_via_submit2’Ë…©Ä·Î:’Ë…©Ä«Ωø"Ç
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo¶
+v
+NavigationTestscom.example.lunchtray0navigate_to_start_order_from_checkout_via_submit2Ëí⁄©¿Î≥‰:Íí⁄©Ä¸‚î"Ç
 
 logcatandroidÏ
-ÈC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout_via_submit.txt"¥
+ÈC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout_via_submit.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo£
-t
-NavigationTestscom.example.lunchtray/navigate_to_start_order_from_accompaniment_menu2÷Ë…©Ä≥‰V:÷Ë…©¿æ⁄Ÿ"Å
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo¢
+s
+NavigationTestscom.example.lunchtray/navigate_to_start_order_from_accompaniment_menu2Îí⁄©ÄéŒ:Ïí⁄©¿¢¨,"Å
 
 logcatandroidÎ
-ËC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_accompaniment_menu.txt"¥
+ËC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_accompaniment_menu.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoü
-r
-NavigationTestscom.example.lunchtray-navigate_to_accompaniment_menu_from_side_menu2◊Ë…©Ä’˘g:◊Ë…©¿ïß¥"ˇ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo†
+s
+NavigationTestscom.example.lunchtray-navigate_to_accompaniment_menu_from_side_menu2Ïí⁄©Äö€∫:Ìí⁄©¿£Ï÷"ˇ
 
 logcatandroidÈ
-ÊC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_accompaniment_menu_from_side_menu.txt"¥
+ÊC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_accompaniment_menu_from_side_menu.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoí
 l
-NavigationTestscom.example.lunchtray&navigate_to_start_order_from_side_menu2ÿË…©¿’ô˝:ŸË…©¿ÁÑÖ"¯
+NavigationTestscom.example.lunchtray&navigate_to_start_order_from_side_menu2Óí⁄©Ä–Æ∆:Ôí⁄©Äé◊ñ"¯
 
 logcatandroid‚
-ﬂC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_side_menu.txt"¥
+ﬂC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_side_menu.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoí
 l
-NavigationTestscom.example.lunchtray&navigate_to_side_menu_from_entree_menu2ŸË…©¿∞ï∑:⁄Ë…©¿ç…ı"¯
+NavigationTestscom.example.lunchtray&navigate_to_side_menu_from_entree_menu2Ôí⁄©ÄŒÌ«:í⁄©ÄÅ…§"¯
 
 logcatandroid‚
-ﬂC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.NavigationTests-navigate_to_side_menu_from_entree_menu.txt"¥
+ﬂC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.NavigationTests-navigate_to_side_menu_from_entree_menu.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo£
-t
-OrderFunctionalityTestscom.example.lunchtray'radio_buttons_update_side_menu_subtotal2€Ë…©¿πÙI:›Ë…©Äµ¿√"Å
-
-logcatandroidÎ
-ËC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_side_menu_subtotal.txt"¥
-
-device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
-
-device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
-
-device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoµ
-}
-OrderFunctionalityTestscom.example.lunchtray0order_reset_after_cancel_from_accompaniment_menu2›Ë…©ÄÀÏû:·Ë…©ÄÿÒ"ä
-
-logcatandroidÙ
-ÒC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_accompaniment_menu.txt"¥
-
-device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
-
-device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
-
-device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoõ
-p
-OrderFunctionalityTestscom.example.lunchtray#subtotal_updates_in_full_order_flow2·Ë…©¿Â∫å:‰Ë…©Ä¬◊/"˝
-
-logcatandroidÁ
-‰C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-subtotal_updates_in_full_order_flow.txt"¥
-
-device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
-
-device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
-
-device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoÚ
-\
-OrderFunctionalityTestscom.example.lunchtrayorder_snackbar2‰Ë…©ÄãË·:ÁË…©¿Ù∂ﬂ"Ë
-
-logcatandroid“
-œC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-order_snackbar.txt"¥
-
-device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
-
-device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
-
-device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo®
-w
-OrderFunctionalityTestscom.example.lunchtray)order_reset_after_cancel_from_entree_menu2ËË…©¿ä»Ã:ÍË…©¿”Ωê"É
-
-logcatandroidÌ
-ÍC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_entree_menu.txt"¥
-
-device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
-
-device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
-
-device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoí
-l
-OrderFunctionalityTestscom.example.lunchtraysubtotal_tax_total_in_checkout2ÍË…©¿úŒ¬:ÓË…©Ä†Àò"¯
-
-logcatandroid‚
-ﬂC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-subtotal_tax_total_in_checkout.txt"¥
-
-device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
-
-device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
-
-device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo∂
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo∂
 ~
-OrderFunctionalityTestscom.example.lunchtray0radio_buttons_update_accompaniment_menu_subtotal2ÓË…©¿ÊÒº:Ë…©¿◊ÏÔ"ä
+OrderFunctionalityTestscom.example.lunchtray0test01_radio_buttons_update_entree_menu_subtotal2Òí⁄©Ä∆èâ:Ùí⁄©ÄüØ÷"ä
 
 logcatandroidÙ
-ÒC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_accompaniment_menu_subtotal.txt"¥
+ÒC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test01_radio_buttons_update_entree_menu_subtotal.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo£
-t
-OrderFunctionalityTestscom.example.lunchtray'order_reset_after_cancel_from_side_menu2ÒË…©Ä’˘g:ÛË…©¿ä—∆"Å
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo≤
+|
+OrderFunctionalityTestscom.example.lunchtray.test02_radio_buttons_update_side_menu_subtotal2ıí⁄©¿Â±í:¯í⁄©¿¯‹ƒ"à
 
-logcatandroidÎ
-ËC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_side_menu.txt"¥
+logcatandroidÚ
+ÔC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test02_radio_buttons_update_side_menu_subtotal.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfoß
-v
-OrderFunctionalityTestscom.example.lunchtray)radio_buttons_update_entree_menu_subtotal2ÙË…©¿Ù§k:ıË…©Äƒ≈ê"É
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoƒ
+Ñ
+OrderFunctionalityTestscom.example.lunchtray7test03_radio_buttons_update_accompaniment_menu_subtotal2˘í⁄©Ä∂Â:˚í⁄©¿†Î≠"ë
 
-logcatandroidÌ
-ÍC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-radio_buttons_update_entree_menu_subtotal.txt"¥
+logcatandroid˚
+¯C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test03_radio_buttons_update_accompaniment_menu_subtotal.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo¢
-t
-OrderFunctionalityTestscom.example.lunchtray&order_reset_after_cancel_from_checkout2ˆË…©Ä£Ã¡:˘Ë…©¿áŸó"Ä
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo™
+x
+OrderFunctionalityTestscom.example.lunchtray*test04_subtotal_updates_in_full_order_flow2¸í⁄©Ä†Àò:Äì⁄©¿∑™—"Ñ
 
-logcatandroidÍ
-ÁC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\logcat-com.example.lunchtray.OrderFunctionalityTests-order_reset_after_cancel_from_checkout.txt"¥
+logcatandroidÓ
+ÎC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test04_subtotal_updates_in_full_order_flow.txt"¥
 
 device-infoandroidô
-ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\device-info.pb"µ
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
 
 device-info.meminfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\meminfo"µ
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
 
 device-info.cpuinfoandroidí
-èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\cpuinfo*ô
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo†
+s
+OrderFunctionalityTestscom.example.lunchtray%test05_subtotal_tax_total_in_checkout2Äì⁄©ÄŒÌ«:Ñì⁄©¿¨Ê◊"ˇ
+
+logcatandroidÈ
+ÊC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test05_subtotal_tax_total_in_checkout.txt"¥
+
+device-infoandroidô
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
+
+device-info.meminfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
+
+device-info.cpuinfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo∂
+~
+OrderFunctionalityTestscom.example.lunchtray0test06_order_reset_after_cancel_from_entree_menu2Öì⁄©ÄÖ›ï:áì⁄©ÄπÊ®"ä
+
+logcatandroidÙ
+ÒC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test06_order_reset_after_cancel_from_entree_menu.txt"¥
+
+device-infoandroidô
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
+
+device-info.meminfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
+
+device-info.cpuinfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo≤
+|
+OrderFunctionalityTestscom.example.lunchtray.test07_order_reset_after_cancel_from_side_menu2áì⁄©Ä¬Úù:äì⁄©¿≈ÅË"à
+
+logcatandroidÚ
+ÔC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test07_order_reset_after_cancel_from_side_menu.txt"¥
+
+device-infoandroidô
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
+
+device-info.meminfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
+
+device-info.cpuinfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoƒ
+Ñ
+OrderFunctionalityTestscom.example.lunchtray7test08_order_reset_after_cancel_from_accompaniment_menu2ãì⁄©¿ê¡§:èì⁄©Äí˝{"ë
+
+logcatandroid˚
+¯C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test08_order_reset_after_cancel_from_accompaniment_menu.txt"¥
+
+device-infoandroidô
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
+
+device-info.meminfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
+
+device-info.cpuinfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfoÆ
+y
+OrderFunctionalityTestscom.example.lunchtray-test09_order_reset_after_cancel_from_checkout2êì⁄©¿ç∑:îì⁄©¿Ú—x"á
+
+logcatandroidÒ
+ÓC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test09_order_reset_after_cancel_from_checkout.txt"¥
+
+device-infoandroidô
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
+
+device-info.meminfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
+
+device-info.cpuinfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo˛
+a
+OrderFunctionalityTestscom.example.lunchtraytest10_order_snackbar2ïì⁄©¿‹Æ:ôì⁄©¿¶“"Ô
+
+logcatandroidŸ
+÷C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\logcat-com.example.lunchtray.OrderFunctionalityTests-test10_order_snackbar.txt"¥
+
+device-infoandroidô
+ñC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\device-info.pb"µ
+
+device-info.meminfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\meminfo"µ
+
+device-info.cpuinfoandroidí
+èC:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\cpuinfo" *ô
 c
 test-results.logOcom.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver£
-†C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_31(AVD) - 12\testlog\test-results.log 2
+†C:\Users\Nitro\AndroidStudioProjects\GoogleProjects\LunchTray\app\build\outputs\androidTest-results\connected\Nexus_5X_API_34(AVD) - 14\testlog\test-results.log 2
 text/plain

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.lunchtray.app-mergeDebugResources-45:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "outputFile": "com.example.lunchtray.app-mergeDebugResources-47:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\47d6306da4cd6c3a37483cf80348dc77\\transformed\\material-1.6.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\e12d0cbe1e8d29cb5f6884c40388f30c\\transformed\\material-1.6.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

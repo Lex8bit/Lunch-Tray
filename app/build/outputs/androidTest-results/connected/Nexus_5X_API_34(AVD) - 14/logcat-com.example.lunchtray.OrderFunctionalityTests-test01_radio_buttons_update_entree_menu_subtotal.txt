@@ -1,0 +1,1018 @@
+10-23 14:55:44.731  3911  4165 I TestRunner: started: test01_radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+10-23 14:55:44.735  5002  5169 W AllowlistedPackageIdentifiers: Is debuggable: false
+10-23 14:55:44.738  1468  3290 I Checkin : [EventLogChimeraService] Opted in for usage reporting: false
+10-23 14:55:44.744   524   536 W System  : A resource failed to call HardwareBuffer.close.
+10-23 14:55:44.756  3041  4037 I Finsky  : [97] yrd.accept(66): SCH: Job 10-1 starting
+10-23 14:55:44.762  1468  3880 I GmsModuleFndr: Beginning GMS chimera module scan
+10-23 14:55:44.773  3911  4165 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-23 14:55:44.779  1348  5128 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Updating password complexity components state.
+10-23 14:55:44.779  1348  5128 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-23 14:55:44.779  1348  5128 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+10-23 14:55:44.782  1468  3880 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:231004600100000], [Cronetdynamite:231818190800], [Dynamiteloader:231818190000], [Dynamitemodulesa:231818190000], [Dynamitemodulesc:231818190000], [Googlecertificates:231818190000], [Mapsdynamite:231818190000], [Measurementdynamite:231818190000]]
+10-23 14:55:44.786  3041  4037 I Finsky  : [97] yrd.accept(66): SCH: Job 10-3 starting
+10-23 14:55:44.793  1468  5211 I AccountSeedingPrefetchI: AccountSeedingPrefetchInit intent operation started. [CONTEXT service_id=42 ]
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature antifingerprinting is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature appsearch_dynamite_impl is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature brella_dynamite is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature cameraconnectivity_impl is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature dck_management is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature easyunlock is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature enterprise is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature enterprise_zt_mp_complete is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature fast_pair is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature game_platform is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature games is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature growth_upgradeparty is disabled.
+10-23 14:55:44.796  1468  3880 I ModuleSetMgr: Download of container feature tflite_dynamite is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature homegraph is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature magictether is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature maps_core is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature mlkit.docscan.crop is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature mlkit.docscan.enhance is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature multipackage_debug is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature payse is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature permissions_debug is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature play_cloud_search is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature semanticlocation_debug is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature tflite_delegate_edgetpu is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature tflite_delegate_test is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature tflite_gpu_dynamite is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature userstatus_impl is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature usonia_iam is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature vision.face is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature vision.ica is disabled.
+10-23 14:55:44.797  1468  3880 I ModuleSetMgr: Download of container feature vision.ocr is disabled.
+10-23 14:55:44.801  1468  3880 I ModuleSetMgr: Pending container module APKs: []
+10-23 14:55:44.801  1468  3880 I ModuleSetMgr: Pending non-container module APKs: []
+10-23 14:55:44.805  1468  4970 I GCM-GMS : Scheduling task to register GMS
+10-23 14:55:44.826  1468  1479 W System  : A resource failed to call close.
+10-23 14:55:44.842  3041  3041 I Finsky  : [2] SelfUpdateImmediateInstallJob.u(1): SU: Starting immediate job
+10-23 14:55:44.842  3041  3041 I Finsky  : [2] jam.a(11): [PLUS] Received response
+10-23 14:55:44.843  3041  3665 I Finsky  : [53] ycx.accept(55): SCH: Scheduling phonesky job Id: 1-1337, CT: 1698072944496, Constraints: [{ L: 14399998, D: 45833775, C: 1, I: 1, N: 1 }]
+10-23 14:55:44.846  3041  3041 I PlayCore: UID: [10121]  PID: [3041] StandardIntegrity : warmUpIntegrityToken(815409574534)
+10-23 14:55:44.846   524   536 W System  : A resource failed to call release.
+10-23 14:55:44.847  3041  5499 I PlayCore: UID: [10121]  PID: [3041] StandardIntegrity : Initiate binding to the service.
+10-23 14:55:44.851   524   536 W System  : A resource failed to call HardwareBuffer.close.
+10-23 14:55:44.852  3041  3665 I Finsky  : [53] ycy.apply(69): SCH: Scheduling 0 system job(s)
+10-23 14:55:44.855  4000  5498 I Finsky:background: [63] mzs.e(12): enqueue(request_id=1, files_to_download=1, context[group_id=Google Play], display_data[invisible=true, title=Google Play], network_restrictions=4)
+10-23 14:55:44.857  3041  3538 I Finsky  : [51] mmp.a(3): [PLUS] Successfully updated PayloadValueStore
+10-23 14:55:44.858  1348  5439 I Herrevad: [292] aqwl.a: updateListenState
+10-23 14:55:44.859  3041  3665 I Finsky  : [53] afdj.a(70): [PLUS] Sync complete, number synced: 1, number failed: 0
+10-23 14:55:44.860  3041  3665 I Finsky  : [53] afdt.a(116): [PLUS] Syncing 0 train(s)
+10-23 14:55:44.860  3041  3665 I Finsky  : [53] afdj.a(70): [PLUS] Sync complete, number synced: 0, number failed: 0
+10-23 14:55:44.863   416   416 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-23 14:55:44.868  1657  2280 I SP.AiAi : Scheduling: download stopped, 0 started, 0 paused, 1 scheduled, 1 pending: manifests:spelling_correction-22110320 * {W:b:I:l, bg}
+10-23 14:55:44.880  3041  3665 W Settings: Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+10-23 14:55:44.883  3041  3041 I PlayCore: UID: [10121]  PID: [3041] StandardIntegrity : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.expressintegrityservice.ExpressIntegrityService})
+10-23 14:55:44.885  3041  3665 W Settings: Setting download_manager_max_bytes_over_mobile has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+10-23 14:55:44.887  3041  5499 I PlayCore: UID: [10121]  PID: [3041] StandardIntegrity : linkToDeath
+10-23 14:55:44.890  3041  3665 I Finsky  : [53] yse.r(4): SCH: jobFinished: 10-1. TimeElapsed: 47ms.
+10-23 14:55:44.893  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.893  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.894  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.898  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.898  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.899  3041  3686 I Finsky  : [59] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:44.900  3041  3686 I Finsky  : [59] adii.n(10): [PLUS] Triggering sync due to NOW urgency payload
+10-23 14:55:44.900  3041  3686 I Finsky  : [59] afjf.a(1): [PLUS] Syncing for users with urgency above: NOW
+10-23 14:55:44.917  3041  3041 I Finsky  : [2] rja.onCreate(2): IPC-SERVER: Starting gRPC host service...
+10-23 14:55:44.922  3041  3686 I Finsky  : [59] afdt.a(116): [PLUS] Syncing 0 train(s)
+10-23 14:55:44.922  3041  3686 I Finsky  : [59] afdj.a(70): [PLUS] Sync complete, number synced: 0, number failed: 0
+10-23 14:55:44.923  3041  3686 I Finsky  : [59] yse.r(4): SCH: jobFinished: 37-0. TimeElapsed: 304ms.
+10-23 14:55:44.926  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698 in: PRE_ON_CREATE
+10-23 14:55:44.927  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.929  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.931  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.932  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.932  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.933  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.933  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.934  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.934  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.935  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.935  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.947  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-8 starting
+10-23 14:55:44.952  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698 in: CREATED
+10-23 14:55:44.952  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.953  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.953  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.954  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.954  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.955  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.955  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.955  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.956  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.969  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.970  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.974  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698 in: STARTED
+10-23 14:55:44.975  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.975  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.975  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.976  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.976  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.977  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.977  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.977  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.978  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.978  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.978  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:44.983  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-9 starting
+10-23 14:55:44.987  3041  3686 I Finsky  : [59] VerifyInstalledPackagesTask.f(2): VerifyApps: Verifying installed packages (AutoScan)
+10-23 14:55:44.993  1468  3290 W GmsTaskScheduler: ScheduledCheckinGmsTaskService is not available. This may cause the task to be lost.
+10-23 14:55:45.000  3041  3429 I Finsky  : [44] yse.r(4): SCH: jobFinished: 10-9. TimeElapsed: 16ms.
+10-23 14:55:45.004  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698 in: RESUMED
+10-23 14:55:45.004  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.005  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.005  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.006  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.006  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.006  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.006  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.007  3041  3041 I Finsky  : [2] zgz.f(9): SU: Received onStateUpdate with status: 1
+10-23 14:55:45.007  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.007  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.007  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.007  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.010  3041  3665 I Finsky  : [53] afdn.apply(8): [PLUS] Adding payload
+10-23 14:55:45.011  3041  3665 I Finsky  : [53] adii.n(10): [PLUS] Triggering sync due to NOW urgency payload
+10-23 14:55:45.014  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698 in: PAUSED
+10-23 14:55:45.014  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.014  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.015  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.015  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.015  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.015  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.015  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.016  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.016  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.016  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.016  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.016  3041  3053 I android.vending: Background young concurrent copying GC freed 93154(3706KB) AllocSpace objects, 31(1156KB) LOS objects, 34% free, 8544KB/12MB, paused 497us,2.997ms total 105.427ms
+10-23 14:55:45.023  3041  3915 I Finsky  : [85] ycw.a(35): SCH: Satisfied jobs for 9002 are: 10-96, 10-105
+10-23 14:55:45.028  4000  4153 I Finsky:background: [51] ndd.b(1): Starting invisible download job
+10-23 14:55:45.039  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f in: PRE_ON_CREATE
+10-23 14:55:45.039  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.040  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.040  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.040  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.040  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.040  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.040  3041  3687 I Finsky  : [60] afjf.a(1): [PLUS] Syncing for users with urgency above: NOW
+10-23 14:55:45.041  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.041  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.041  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.041  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:45.041  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-23 14:55:45.043  3041  3665 I Finsky  : [53] afdt.a(116): [PLUS] Syncing 1 train(s)
+10-23 14:55:45.043  3041  3665 I Finsky  : [53] alek.a(7): [PLUS] Sending payloads for account: [2fKVkThB4QBVOwc88U06EJ4S6Yyqenathz2XlaLEUMg]
+10-23 14:55:45.053  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-12 starting
+10-23 14:55:45.054   870   947 E OpenGLRenderer: Unable to match the desired swap behavior.
+10-23 14:55:45.068  3041  3757 I PlayCommon: [64] alst.j(32): Preparing logs for uploading
+10-23 14:55:45.069  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f in: CREATED
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.070  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.071  1468  3290 I Checkin : [EventLogChimeraService] Accumulating logs since 1698072939118
+10-23 14:55:45.072  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f in: STARTED
+10-23 14:55:45.072  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.072  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.072  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.072  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.072  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.093  3041  3757 I PlayCommon: [64] alst.j(149): Connecting to server for timestamp: https://play.googleapis.com/play/log/timestamp
+10-23 14:55:45.093   870   947 D EGL_emulation: app_time_stats: avg=463.27ms min=8.32ms max=2923.83ms count=7
+10-23 14:55:45.105  1468  3344 I SyncIntentOperation: Handling the intent: Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+10-23 14:55:45.106  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.107  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.107  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.107  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.107  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.107  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.115  4000  4153 I Finsky:background: [51] aacj.<init>(14): SCH: Deleting scheduler db
+10-23 14:55:45.116  4000  4153 I Finsky:background: [51] ysl.<init>(3): Resetting scheduler db
+10-23 14:55:45.119  3041  3757 D TrafficStats: tagSocket(82) with statsTag=0xffffffff, statsUid=-1
+10-23 14:55:45.120  3041  3041 I Finsky  : [2] zgz.f(9): SU: Received onStateUpdate with status: 2
+10-23 14:55:45.120  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f in: RESUMED
+10-23 14:55:45.121  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.121  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.121  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.121  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.121  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.122  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.122  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.122  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.122  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.122  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.122  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@53344f
+10-23 14:55:45.147  1468  5352 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] Initializing auth_folsom
+10-23 14:55:45.152  1468  5352 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] com.google.android.gms.auth.folsom.service.FolsomPublicKeyUpdateService is already enabled. Ignore.
+10-23 14:55:45.169  1468  5352 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] com.google.android.gms.auth.folsom.service.GcmReceiverService is already enabled. Ignore.
+10-23 14:55:45.189  3041  3041 I Finsky  : [2] jam.a(11): [PLUS] Received response
+10-23 14:55:45.198  3911  4251 E OpenGLRenderer: Unable to match the desired swap behavior.
+10-23 14:55:45.217   524   859 V RecoverableKeyStoreMgr: Not updating secret types - same as old value.
+10-23 14:55:45.219  3041  3526 I Finsky  : [48] mmp.a(3): [PLUS] Successfully updated PayloadValueStore
+10-23 14:55:45.219  3041  3687 I Finsky  : [60] afdj.a(70): [PLUS] Sync complete, number synced: 1, number failed: 0
+10-23 14:55:45.222  1468  3342 I GmsModuleFndr: Beginning GMS chimera module scan
+10-23 14:55:45.228  4000  5513 I Finsky:background: [69] yau.J(2): Writing task has started.
+10-23 14:55:45.245   524   544 W ziparchive: Unable to open '/data/app/~~l7Rq4SQe7Y9FzOfn2-YRbQ==/com.example.lunchtray-gbGN8hPxDqDvdbmHMgLHzQ==/base.dm': No such file or directory
+10-23 14:55:45.246  4000  5512 I Finsky:background: [68] yau.I(2): Reading task has started.
+10-23 14:55:45.250  1468  5352 I RecoverableKeyStoreGms: [RecoverableKeyStoreGmsInitOperation] Setting vault handle
+10-23 14:55:45.251   524   544 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity for user 0: +442ms
+10-23 14:55:45.252   524   859 V RecoverableKeyStoreMgr: Not updating server params - same as old value.
+10-23 14:55:45.275   524  2029 I RecoverySnapshotLstnrs: Registered listener for agent with uid 10124
+10-23 14:55:45.276  3041  3757 W PlayCommon: [64] alst.l(1): No account for auth token provided
+10-23 14:55:45.277  3041  3757 I PlayCommon: [64] alst.j(183): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+10-23 14:55:45.293  4000  5515 I Finsky:background: [70] ysb.a(2): SCH: no pending jobs to schedule.
+10-23 14:55:45.313  4000  5512 I Finsky:background: [68] yau.C(22): Open stream from https://play.googleapis.com/download/by-token/download?token=AOTCm0RnxeyjJXEUX4_rF7pYOBxu1MysXU42bSc1f6rUXvt5mBt68zQ8XOJ41NqAEizbMA0otwX5ctRKUQ0dTXRIHYjB0sFEEWoF7Opbrj4Xu7KO9jK_ViE4U9g4HAT_CH6YppeJQCYPM6Q0WakGoAl8-XWLM472nWaFUcz_FaI9fYGcNP7pGRgQ4x40n8yt5qrpsUYtSY2eSFUbs6FQGhfCkI1-_9HsA0IY05jwbWerX9wsRB2VGrFP8Riq3gzh4pTgEfRRDQt6mnsnWxbHWa_3n_p_Tb6fl8KbpxP_nT-M5c8_SH1lx2gXlypYB9pnCPf1uPicfR9YVHiYNAQrhGZzIt70iw_edlj6wJB_6wYzGKZgxBRcFx-GMKsRVYmG6D1Ao9i6EX44aUvn1jt4KJQ8&cpn=5fLZAmxHd-TIle23&isid=1YF-AYnjTWucb4yiqPic_Q&isbg=1 [byteRangeStart=0-byteRangeStop=0]
+10-23 14:55:45.313  1468  5352 I RecoverableKeyStoreGms: [EnrollmentManager] Returning certificates list from cache [CONTEXT service_id=172 ]
+10-23 14:55:45.317  4000  5516 D TrafficStats: tagSocket(80) with statsTag=0xffffffff, statsUid=-1
+10-23 14:55:45.352  4000  5512 D TrafficStats: tagSocket(83) with statsTag=0xffffffff, statsUid=-1
+10-23 14:55:45.360   524  1434 I ImeTracker: com.example.lunchtray:6f8d23c: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+10-23 14:55:45.362   524  1434 I ImeTracker: com.example.lunchtray:6f8d23c: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-23 14:55:45.366  1468  3342 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:231004600100000], [Cronetdynamite:231818190800], [Dynamiteloader:231818190000], [Dynamitemodulesa:231818190000], [Dynamitemodulesc:231818190000], [Googlecertificates:231818190000], [Mapsdynamite:231818190000], [Measurementdynamite:231818190000]]
+10-23 14:55:45.369  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+10-23 14:55:45.371  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+10-23 14:55:45.371  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=0 fieldName=null extras=null}, false)
+10-23 14:55:45.371  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+10-23 14:55:45.371  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+10-23 14:55:45.373  3041  3757 I PlayCommon: [64] alst.j(220): Successfully uploaded logs.
+10-23 14:55:45.373  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/ConscryptEngineSocket;->setUseSessionTickets(Z)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.374   524  2029 I RecoverableKeyStoreMgr: The cert file serial number is the same, so skip updating.
+10-23 14:55:45.375  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setUseSessionTickets(Z)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.375  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->setUseSessionTickets(Z)V (max-target-q, reflection, denied)
+10-23 14:55:45.375  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/ConscryptEngineSocket;->setHostname(Ljava/lang/String;)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.375  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setHostname(Ljava/lang/String;)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.375  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->setHostname(Ljava/lang/String;)V (max-target-q, reflection, denied)
+10-23 14:55:45.375  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setAlpnProtocols([B)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.375  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->setAlpnProtocols([B)V (max-target-q, reflection, denied)
+10-23 14:55:45.376  1468  5352 I RecoverableKeyStoreGms: [EnrollmentManager] Recovery service is initialized. [CONTEXT service_id=172 ]
+10-23 14:55:45.381   870   947 D EGL_emulation: app_time_stats: avg=9.21ms min=0.78ms max=69.60ms count=29
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: Error reading snapshot for 10124 from disk
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: java.io.FileNotFoundException: /data/system/recoverablekeystore/snapshots/10124.xml: open failed: ENOENT (No such file or directory)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at libcore.io.IoBridge.open(IoBridge.java:574)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at com.android.server.locksettings.recoverablekeystore.storage.RecoverySnapshotStorage.readFromDisk(RecoverySnapshotStorage.java:152)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at com.android.server.locksettings.recoverablekeystore.storage.RecoverySnapshotStorage.get(RecoverySnapshotStorage.java:104)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at com.android.server.locksettings.recoverablekeystore.RecoverableKeyStoreManager.getKeyChainSnapshot(RecoverableKeyStoreManager.java:369)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at com.android.server.locksettings.LockSettingsService.getKeyChainSnapshot(LockSettingsService.java:2494)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at com.android.internal.widget.ILockSettings$Stub.onTransact(ILockSettings.java:838)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at libcore.io.Linux.open(Native Method)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	at libcore.io.IoBridge.open(IoBridge.java:560)
+10-23 14:55:45.386   524   859 E RecoverySnapshotStorage: 	... 8 more
+10-23 14:55:45.393   524   859 W PlatformKeyManager: Platform generation ID was 0 but no entry was present in AndroidKeyStore. Generating fresh key.
+10-23 14:55:45.394  2993  3021 I DynamiteModule: Considering local module com.google.android.gms.googlecertificates:7 and remote module com.google.android.gms.googlecertificates:7
+10-23 14:55:45.394  2993  3021 I DynamiteModule: Selected local version of com.google.android.gms.googlecertificates
+10-23 14:55:45.420  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->getAlpnSelectedProtocol()[B (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.420  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->getAlpnSelectedProtocol()[B (max-target-q, reflection, denied)
+10-23 14:55:45.428  3041  3687 I Finsky  : [60] uxk.a(20): Showing notification: [ID=play protect default on, Title=Google Play Protect is turned on, Message=This feature protects your device from harmful apps, channelId=account, targetType=1, returnCode=-1, uiElementType=926]
+10-23 14:55:45.436  4000  5498 I Finsky:background: [63] lms.g(2): Subscription detail: DataSubscriptionInfo{groupIdLevel1=null, serviceProviderName=[Zr1R7g28S8p7iucp_gnNJJtsRl-pgO3Y6eIkCh24Iy0], simCarrierId=1}
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: [WrappingKeyManager] InternalRecoveryServiceException during wrapping key generation [CONTEXT service_id=172 ]
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: android.security.keystore.recovery.InternalRecoveryServiceException: Failed to import secret key.
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at android.security.keystore.recovery.RecoveryController.wrapUnexpectedServiceSpecificException(RecoveryController.java:783)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at android.security.keystore.recovery.RecoveryController.generateKey(RecoveryController.java:569)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at qiw.f(:com.google.android.gms@231818047@23.18.18 (190800-535401451):3)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at qiw.e(:com.google.android.gms@231818047@23.18.18 (190800-535401451):15)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at qfw.f(:com.google.android.gms@231818047@23.18.18 (190800-535401451):68)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at com.google.android.gms.auth.folsom.operation.GserviceChangeIntentOperation.onHandleIntent(:com.google.android.gms@231818047@23.18.18 (190800-535401451):8)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@231818047@23.18.18 (190800-535401451):2)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at zhv.onHandleIntent(:com.google.android.gms@231818047@23.18.18 (190800-535401451):4)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at hjm.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):3)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at hjl.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):11)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at dfhf.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):2)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at java.lang.Thread.run(Thread.java:1012)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: Caused by: android.os.ServiceSpecificException: Failed to import secret key. (code 22)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3071)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at android.os.Parcel.createException(Parcel.java:3041)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at android.os.Parcel.readException(Parcel.java:3024)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at android.os.Parcel.readException(Parcel.java:2966)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at com.android.internal.widget.ILockSettings$Stub$Proxy.generateKey(ILockSettings.java:1679)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	at android.security.keystore.recovery.RecoveryController.generateKey(RecoveryController.java:556)
+10-23 14:55:45.449  1468  5352 W RecoverableKeyStoreGms: 	... 12 more
+10-23 14:55:45.454  4000  4000 I Finsky:background: [2] lmr.onSubscriptionsChanged(1): onSubscriptionsChanged
+10-23 14:55:45.461  4000  5515 I Finsky:background: [70] ycx.accept(55): SCH: Scheduling phonesky job Id: 40-9998, CT: 1698072945294, Constraints: [{ L: 0, D: 86400000, C: 1, I: 1, N: 1 }, { L: 0, D: 0, C: 1, I: 1, N: 0 }]
+10-23 14:55:45.468  1468  3342 I ModuleSetMgr: Download of container feature antifingerprinting is disabled.
+10-23 14:55:45.468  1468  3342 I ModuleSetMgr: Download of container feature appsearch_dynamite_impl is disabled.
+10-23 14:55:45.468  1468  3342 I ModuleSetMgr: Download of container feature brella_dynamite is disabled.
+10-23 14:55:45.468  1468  3342 I ModuleSetMgr: Download of container feature cameraconnectivity_impl is disabled.
+10-23 14:55:45.469  1468  3342 I ModuleSetMgr: Download of container feature dck_management is disabled.
+10-23 14:55:45.469  1468  3342 I ModuleSetMgr: Download of container feature easyunlock is disabled.
+10-23 14:55:45.469  1468  3342 I ModuleSetMgr: Download of container feature enterprise is disabled.
+10-23 14:55:45.469  1468  3342 I ModuleSetMgr: Download of container feature enterprise_zt_mp_complete is disabled.
+10-23 14:55:45.469  1468  3342 I ModuleSetMgr: Download of container feature fast_pair is disabled.
+10-23 14:55:45.469  1468  3342 I ModuleSetMgr: Download of container feature game_platform is disabled.
+10-23 14:55:45.469  1468  3342 I ModuleSetMgr: Download of container feature games is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature growth_upgradeparty is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature tflite_dynamite is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature homegraph is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature magictether is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature maps_core is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature mlkit.docscan.crop is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature mlkit.docscan.enhance is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature multipackage_debug is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature payse is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature permissions_debug is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature play_cloud_search is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature semanticlocation_debug is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature tflite_delegate_edgetpu is disabled.
+10-23 14:55:45.470  1468  3342 I ModuleSetMgr: Download of container feature tflite_delegate_test is disabled.
+10-23 14:55:45.471  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698 in: STOPPED
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Download of container feature tflite_gpu_dynamite is disabled.
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Download of container feature userstatus_impl is disabled.
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Download of container feature usonia_iam is disabled.
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Download of container feature vision.face is disabled.
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Download of container feature vision.ica is disabled.
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Download of container feature vision.ocr is disabled.
+10-23 14:55:45.472  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.472  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Pending container module APKs: []
+10-23 14:55:45.472  1468  3342 I ModuleSetMgr: Pending non-container module APKs: []
+10-23 14:55:45.473  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.473  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.474  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.474  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.474  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.474  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.474  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.475  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.475  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6550698
+10-23 14:55:45.485  4000  5527 I Finsky:background: [75] lac.onCreate(1): [Counters Flush] Counters SQLite Database created
+10-23 14:55:45.489  4000  5515 I Finsky:background: [70] ycy.apply(69): SCH: Scheduling 2 system job(s)
+10-23 14:55:45.490  4000  5515 D CompatibilityChangeReporter: Compat change id reported: 194532703; UID 10121; state: ENABLED
+10-23 14:55:45.494  4000  5515 D CompatibilityChangeReporter: Compat change id reported: 253665015; UID 10121; state: DISABLED
+10-23 14:55:45.494  4000  5515 I Finsky:background: [70] ysd.d(4): SCH: Scheduling system job Id: 10000, L: 0, D: 86399805, C: false, I: false, N: 1
+10-23 14:55:45.504  3911  3911 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230844/com.example.lunchtray:id/cauliflower>
+10-23 14:55:45.506  1132  2137 D OneSearchSuggestProvider: Shut down the binder channel
+10-23 14:55:45.510  1132  1152 I IPCThreadState: oneway function results for code 2 on binder at 0x7f98daeeae40 will be dropped but finished with status UNKNOWN_TRANSACTION
+10-23 14:55:45.515  4000  5498 E PlayCommon: [63] alsm.<init>(10): Failed to restore PlayMetalog
+10-23 14:55:45.515  4000  5498 E PlayCommon: [63] alsm.<init>(14): Failed to restore LogsUploadAttempt
+10-23 14:55:45.517  4000  5498 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10121; state: ENABLED
+10-23 14:55:45.524  2964  3509 I PBSessionCacheImpl: Deleted sessionId[13037507931822887] from persistence.
+10-23 14:55:45.525  4000  5512 D TrafficStats: tagSocket(83) with statsTag=0xffffffff, statsUid=-1
+10-23 14:55:45.528  1468  3880 I MobileDataHub: Scheduling periodic tasks
+10-23 14:55:45.535  4000  5515 I Finsky:background: [70] ycy.apply(85): SCH: Scheduling expedited system job 10001
+10-23 14:55:45.541  4000  4000 I Finsky:background: [2] ytn.onStartJob(4): SCH: job service start with id 10000.
+10-23 14:55:45.543  1468  1468 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.service.START pkg=com.google.android.gms }
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/ConscryptEngineSocket;->setUseSessionTickets(Z)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setUseSessionTickets(Z)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->setUseSessionTickets(Z)V (max-target-q, reflection, denied)
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/ConscryptEngineSocket;->setHostname(Ljava/lang/String;)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setHostname(Ljava/lang/String;)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->setHostname(Ljava/lang/String;)V (max-target-q, reflection, denied)
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->setAlpnProtocols([B)V (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.547  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->setAlpnProtocols([B)V (max-target-q, reflection, denied)
+10-23 14:55:45.553  4000  4000 I Finsky:background: [2] ytn.onStartJob(4): SCH: job service start with id 10001.
+10-23 14:55:45.554  1468  3880 W MobileDataHub: [Service] appsupload-periodic periodic task disabled
+10-23 14:55:45.557  1132  1166 I ImeTracker: com.google.android.apps.nexuslauncher:ca453dde: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+10-23 14:55:45.557  1132  1166 I ImeTracker: com.google.android.apps.nexuslauncher:ca453dde: onFailed at PHASE_CLIENT_VIEW_SERVED
+10-23 14:55:45.560  2964  3265 W SearchServiceCore: Abort, client detached.
+10-23 14:55:45.561  2964  3265 W SearchServiceCore: Abort, client detached.
+10-23 14:55:45.562  2964  3265 W SearchServiceCore: Abort, client detached.
+10-23 14:55:45.562  2964  3265 W SearchServiceCore: Abort, client detached.
+10-23 14:55:45.562  2964  3265 W SearchServiceCore: Abort, client detached.
+10-23 14:55:45.592   413   811 D audioserver: FGS Logger Transaction failed
+10-23 14:55:45.592   413   811 D audioserver: -129
+10-23 14:55:45.601  4000  5508 I Finsky:background: [65] ycw.a(35): SCH: Satisfied jobs for 10000 are: 40-9998
+10-23 14:55:45.609   870   921 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@8ab87ef
+10-23 14:55:45.610   524  2871 W InputManager-JNI: Input channel object 'c04aab7 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+10-23 14:55:45.621  2993  3954 D TrafficStats: tagSocket(112) with statsTag=0x1803, statsUid=10121
+10-23 14:55:45.636  4000  5508 I Finsky:background: [65] ycw.a(35): SCH: Satisfied jobs for 10001 are: 40-9998
+10-23 14:55:45.690  1657  2220 W AiAiEcho: LyftNotificationParser Ridesharing ETA not enabled
+10-23 14:55:45.690  1657  2220 W AiAiEcho: SmartspaceNotificationPredictor no parser can handle this notification or notification is invalid
+10-23 14:55:45.690  1468  5352 I MS_Utils: version of com.google.android.apps.maps = 1066937505
+10-23 14:55:45.702  1468  5352 I MdiSyncModule: flag handling is skipping irrelevant intent.
+10-23 14:55:45.713  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/OpenSSLSocketImpl;->getAlpnSelectedProtocol()[B (max-target-q,core-platform-api, reflection, denied)
+10-23 14:55:45.713  4000  5512 W ding:background: Accessing hidden method Lcom/android/org/conscrypt/AbstractConscryptSocket;->getAlpnSelectedProtocol()[B (max-target-q, reflection, denied)
+10-23 14:55:45.717  1468  3880 I SystemUpdate: [Installation,ReceiverIntentOperation] Received intent: Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }.
+10-23 14:55:45.725  4000  5542 I Finsky:background: [81] yrd.accept(66): SCH: Job 40-9998 starting
+10-23 14:55:45.782  1348  3945 I GCoreUlr: WorldUpdater received intent Intent { act=com.google.android.location.reporting.ACTION_UPDATE_WORLD cmp=com.google.android.gms/com.google.android.location.reporting.service.DispatchingService (has extras) } with receiverAction com.google.gservices.intent.action.GSERVICES_CHANGED
+10-23 14:55:45.783  4000  4000 I Finsky:background: [2] InvisibleRunJob.v(1): Running InvisibleRunJob
+10-23 14:55:45.786  4000  5515 I Finsky:background: [70] kji.accept(34): [Counters Flush] Successfully generated counter events
+10-23 14:55:45.804   413   476 D audioserver: FGS Logger Transaction failed
+10-23 14:55:45.805   413   476 D audioserver: -129
+10-23 14:55:45.858  1468  1507 I GCM-GMS : Got GMS registration
+10-23 14:55:45.866   351   351 D Zygote  : Forked child process 5543
+10-23 14:55:45.881  3041  3041 I Finsky  : [2] zgz.f(9): SU: Received onStateUpdate with status: 2
+10-23 14:55:45.889  1348  3945 I GCoreUlr: WorldUpdater:com.google.gservices.intent.action.GSERVICES_CHANGED: Ensuring that reporting is stopped because of reasons: (no Google accounts)
+10-23 14:55:45.907  1468  3344 I SystemUpdate: [Execution,InstallationEventIntentOperation] Handling event of type 2.
+10-23 14:55:45.941  5543  5543 I ng:quick_launch: Using CollectorTypeCC GC.
+10-23 14:55:45.956  5543  5543 W ng:quick_launch: Unexpected CPU variant for x86: x86_64.
+10-23 14:55:45.956  5543  5543 W ng:quick_launch: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+10-23 14:55:45.978  1468  3344 I SystemUpdate: [Execution,InstallationIntentOperation] Received intent: Intent { act=com.google.android.gms.update.INSTALL_UPDATE cat=[targeted_intent_op_prefix:.update.execution.InstallationIntentOperation] cmp=com.google.android.gms/.chimera.GmsIntentOperationService }.
+10-23 14:55:45.979  1348  1348 I GCoreUlr: GCM registration ID changed: Intent { act=com.google.android.gms.gcm.REGISTERED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/com.google.android.location.reporting.service.GcmRegistrationReceiver (has extras) }
+10-23 14:55:45.986  1468  3344 I SystemUpdate: [Execution,ExecutionManager] Action finished-execution executed for 0.00 seconds.
+10-23 14:55:46.024  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $7.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-23 14:55:46.027  3911  3911 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230858/com.example.lunchtray:id/chili>
+10-23 14:55:46.051  5543  5543 E ng:quick_launch: Not starting debugger since process cannot load the jdwp agent.
+10-23 14:55:46.055  1348  3945 I GCoreUlr: Unbound from all signal providers.
+10-23 14:55:46.087  1647  1661 I ocess.gservices: Background concurrent copying GC freed 64739(2278KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 2854KB/5709KB, paused 13us,9us total 256.422ms
+10-23 14:55:46.119  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837916
+10-23 14:55:46.123  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837985
+10-23 14:55:46.131   413   811 D audioserver: FGS Logger Transaction failed
+10-23 14:55:46.131   413   811 D audioserver: -129
+10-23 14:55:46.134  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838179
+10-23 14:55:46.135  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837907
+10-23 14:55:46.136  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838300
+10-23 14:55:46.137  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838299
+10-23 14:55:46.138  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838322
+10-23 14:55:46.140  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838089
+10-23 14:55:46.141  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837972
+10-23 14:55:46.142  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838186
+10-23 14:55:46.144  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837941
+10-23 14:55:46.144  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838032
+10-23 14:55:46.144  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838049
+10-23 14:55:46.144  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837940
+10-23 14:55:46.217  5543  5543 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10121; state: ENABLED
+10-23 14:55:46.217  5543  5543 D CompatibilityChangeReporter: Compat change id reported: 242716250; UID 10121; state: DISABLED
+10-23 14:55:46.221  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837993
+10-23 14:55:46.221  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837988
+10-23 14:55:46.221  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837994
+10-23 14:55:46.221  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130837905
+10-23 14:55:46.260  1468  4970 E MDM     : [195] aywf.a: No Google accounts; deferring server state update.
+10-23 14:55:46.275  5002  5169 W CursorConverter: Cannot get icon, pkg/id :com.android.settings/2130838115
+10-23 14:55:46.283  5543  5543 D nativeloader: Configuring clns-6 for other apk /system/framework/org.apache.http.legacy.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/product/priv-app/Phonesky/lib/x86_64:/product/priv-app/Phonesky/Phonesky.apk!/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.android.vending
+10-23 14:55:46.286  1468  5352 I OcrModelUpStIntentOp: Downloading text recognizer
+10-23 14:55:46.287  5543  5543 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+10-23 14:55:46.287  5543  5543 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+10-23 14:55:46.302   413   476 D audioserver: FGS Logger Transaction failed
+10-23 14:55:46.303   413   476 D audioserver: -129
+10-23 14:55:46.338  5543  5543 D nativeloader: InitLlndkLibrariesProduct: libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libRS.so:libandroid_net.so:libbinder_ndk.so:libc.so:libcgrouprc.so:libclang_rt.asan-x86_64-android.so:libcom.android.tethering.connectivity_native.so:libdl.so:libft2.so:liblog.so:libm.so:libmediandk.so:libnativewindow.so:libneuralnetworks.so:libselinux.so:libsync.so:libvndksupport.so:libvulkan.so
+10-23 14:55:46.338  5543  5543 D nativeloader: Configuring product-clns-7 for unbundled product apk /product/priv-app/Phonesky/Phonesky.apk. target_sdk_version=33, uses_libraries=, library_path=/product/priv-app/Phonesky/lib/x86_64:/product/priv-app/Phonesky/Phonesky.apk!/lib/x86_64:/product/lib64:/system/product/lib64, permitted_path=/data:/mnt/expand:/data/user/0/com.android.vending:/product/lib64:/system/product/lib64
+10-23 14:55:46.342  5543  5543 D nativeloader: InitVndkspLibrariesProduct: android.hardware.common-V2-ndk.so:android.hardware.common.fmq-V1-ndk.so:android.hardware.graphics.allocator-V2-ndk.so:android.hardware.graphics.common-V4-ndk.so:android.hardware.graphics.common@1.0.so:android.hardware.graphics.common@1.1.so:android.hardware.graphics.common@1.2.so:android.hardware.graphics.composer3-V1-ndk.so:android.hardware.graphics.mapper@2.0.so:android.hardware.graphics.mapper@2.1.so:android.hardware.graphics.mapper@3.0.so:android.hardware.graphics.mapper@4.0.so:android.hardware.renderscript@1.0.so:android.hidl.memory.token@1.0.so:android.hidl.memory@1.0-impl.so:android.hidl.memory@1.0.so:android.hidl.safe_union@1.0.so:libRSCpuRef.so:libRSDriver.so:libRS_internal.so:libbase.so:libbcinfo.so:libblas.so:libc++.so:libcompiler_rt.so:libcutils.so:libdmabufheap.so:libgralloctypes.so:libhardware.so:libhidlbase.so:libhidlmemory.so:libion.so:libjsoncpp.so:liblzma.so:libprocessgroup.so:libunwindstack.so:libutils.so:libutilscallstack.so:libz.so
+10-23 14:55:46.370  3911  4251 D EGL_emulation: app_time_stats: avg=10.38ms min=1.49ms max=156.54ms count=32
+10-23 14:55:46.382  1468  5557 I Authzen : [AuthZenEventHandler] Handling event: com.google.android.gms.gcm.REGISTERED
+10-23 14:55:46.392  1348  3162 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.gcm.gmsproc.GcmInGmsTaskService finished executing. cause:5 result: 1 elapsed_millis: 1914 uptime_millis: 1914 exec_start_elapsed_seconds: 84 [CONTEXT service_id=218 ]
+10-23 14:55:46.404  5543  5543 V GraphicsEnvironment: Currently set values for:
+10-23 14:55:46.404  5543  5543 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+10-23 14:55:46.404  5543  5543 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+10-23 14:55:46.405  5543  5543 V GraphicsEnvironment: ANGLE GameManagerService for com.android.vending: false
+10-23 14:55:46.405  5543  5543 V GraphicsEnvironment: com.android.vending is not listed in per-application setting
+10-23 14:55:46.405  5543  5543 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-23 14:55:46.415   870   947 D EGL_emulation: app_time_stats: avg=125.54ms min=7.11ms max=464.49ms count=10
+10-23 14:55:46.417  5543  5543 I Finsky:quick_launch: [2] jqe.i(6): Process created at version: 35.6.11-21 [0] [PR] 528895992
+10-23 14:55:46.425  1348  3945 I GCoreUlr: DispatchingService ignoring Intent { act=android.net.wifi.WIFI_STATE_CHANGED flg=0x44000010 (has extras) } because ULR inactive
+10-23 14:55:46.426   870   947 D EGL_emulation: app_time_stats: avg=36.54ms min=0.73ms max=153.87ms count=20
+10-23 14:55:46.458  5543  5543 I Finsky:quick_launch: [2] yzq.aa(19): Finished reading experiment flags from file [0tGUNCGIkbk4o6-fQ335kUYSKwVj4lusnHT-A5Dsy08].
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: The extras of the task (com.google.android.gms.ocr.service.ModelCleanUpTaskService:type_[4]) are not valid to be persisted so that the task is not persisted [CONTEXT service_id=218 ]
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: java.lang.IllegalArgumentException: Only the following extra parameter types are supported: Integer, Long, Double, String, Boolean, and nested Bundles with the same restrictions.
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at awaz.e(:com.google.android.gms@231818047@23.18.18 (190800-535401451):10)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at byui.f(:com.google.android.gms@231818047@23.18.18 (190800-535401451):44)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at bytb.n(:com.google.android.gms@231818047@23.18.18 (190800-535401451):3)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at bytb.u(:com.google.android.gms@231818047@23.18.18 (190800-535401451):20)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at bytb.h(:com.google.android.gms@231818047@23.18.18 (190800-535401451):3)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at byot.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):9)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at aced.c(:com.google.android.gms@231818047@23.18.18 (190800-535401451):6)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at aced.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):8)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at acjn.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):0)
+10-23 14:55:46.486  1348  3162 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:1012)
+10-23 14:55:46.489  5543  5543 I Finsky:quick_launch: [2] yzq.aa(19): Finished reading experiment flags from file [Se-xCc4LzNyh3UrKMIU2sUf-PUKz4oQEbpKZDMuaFno].
+10-23 14:55:46.497  5543  5543 I Finsky:quick_launch: [2] rja.onCreate(2): IPC-SERVER: Starting gRPC host service...
+10-23 14:55:46.507  5543  5543 I Finsky:quick_launch: [2] jaq.h(32): This process start was not selected for Play memory metrics collection.
+10-23 14:55:46.532  2993  3021 W ziparchive: Unable to open '/data/user/0/com.google.android.gms/app_dg_cache/E6A12851B70E16B828AF4D83C5605D22C16FD9A1/the.dm': No such file or directory
+10-23 14:55:46.542  1671  1692 I FuseDaemon: Background young concurrent copying GC freed 36211(1888KB) AllocSpace objects, 33(660KB) LOS objects, 23% free, 4093KB/5321KB, paused 4.399ms,8us total 121.820ms
+10-23 14:55:46.544  4000  4009 I ding:background: Background concurrent copying GC freed 73291(3623KB) AllocSpace objects, 8(288KB) LOS objects, 49% free, 3898KB/7796KB, paused 200us,10us total 314.725ms
+10-23 14:55:46.547  1348  1348 I GCoreUlr: Unbound from all signal providers.
+10-23 14:55:46.547  1348  1348 I GCoreUlr: Stopping handler for UlrDispSvcFast
+10-23 14:55:46.573  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $4.00"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-23 14:55:46.577  3911  3911 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231106/com.example.lunchtray:id/pasta>
+10-23 14:55:46.578  5543  5572 I Finsky:quick_launch: [48] lms.g(2): Subscription detail: DataSubscriptionInfo{groupIdLevel1=null, serviceProviderName=[Zr1R7g28S8p7iucp_gnNJJtsRl-pgO3Y6eIkCh24Iy0], simCarrierId=1}
+10-23 14:55:46.585  5543  5543 I Finsky:quick_launch: [2] lmr.onSubscriptionsChanged(1): onSubscriptionsChanged
+10-23 14:55:46.600  5543  5572 E PlayCommon: [48] alsm.<init>(10): Failed to restore PlayMetalog
+10-23 14:55:46.600  5543  5572 E PlayCommon: [48] alsm.<init>(14): Failed to restore LogsUploadAttempt
+10-23 14:55:46.604  5543  5572 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10121; state: ENABLED
+10-23 14:55:46.618  2993  3021 D nativeloader: Configuring clns-12 for other apk . target_sdk_version=33, uses_libraries=ALL, library_path=, permitted_path=/data:/mnt/expand
+10-23 14:55:46.634  2993  4193 W id.gms.unstable: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+10-23 14:55:46.634  2993  4193 W id.gms.unstable: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+10-23 14:55:46.640  5543  5575 I Finsky:quick_launch: [51] lac.onCreate(1): [Counters Flush] Counters SQLite Database created
+10-23 14:55:46.645  2993  4193 W id.gms.unstable: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+10-23 14:55:46.645  2993  4193 W id.gms.unstable: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+10-23 14:55:46.646  2993  4193 W id.gms.unstable: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+10-23 14:55:46.646  2993  4193 W id.gms.unstable: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+10-23 14:55:46.657   456   923 D mediaserver: Time zone APEX ICU file found: /apex/com.android.tzdata/etc/icu/icu_tzdata.dat
+10-23 14:55:46.657   456   923 D mediaserver: I18n APEX ICU file found: /apex/com.android.i18n/etc/icu/icudt72l.dat
+10-23 14:55:46.669   413   811 D audioserver: FGS Logger Transaction failed
+10-23 14:55:46.669   413   811 D audioserver: -129
+10-23 14:55:46.685  1348  4570 I Nearby  : [MBleClient] Start ble scanning from NearbyDirect:BluetoothAdapterWrapper, context tag = nearby_messages [CONTEXT service_id=49 ]
+10-23 14:55:46.688  1348  4570 D BluetoothAdapter: isLeEnabled(): ON
+10-23 14:55:46.706   413   476 D AudioFlinger: mixer(0x71c593623930) throttle end: throttle time(2)
+10-23 14:55:46.721  1348  3946 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.pay.gcmtask.PayGcmTaskService started execution. cause:5 exec_start_elapsed_seconds: 87 [CONTEXT service_id=218 ]
+10-23 14:55:46.721  1058  1722 D ActivityAttributionService: notifyActivityAttributionInfo UID=1002 packageName=com.google.android.bluetooth deviceAddress=no_active_device_address
+10-23 14:55:46.721  1058  1722 I bt_btif : packages/modules/Bluetooth/system/btif/src/bluetooth.cc:829 get_profile_interface: get_profile_interface: id = activity_attribution
+10-23 14:55:46.721  1058  1409 I bt_stack: [INFO:le_scanning_manager.cc(168)] Scan in shim layer stopped
+10-23 14:55:46.721  1058  1239 I bluetooth: packages/modules/Bluetooth/system/gd/hci/le_address_manager.cc:193 unregister_client: Client unregistered
+10-23 14:55:46.722  1058  1239 I bluetooth: packages/modules/Bluetooth/system/gd/hci/le_address_manager.cc:197 unregister_client: Cancelled address rotation alarm
+10-23 14:55:46.727  1058  1722 I bt_stack: [INFO:le_scanning_manager.cc(162)] Unregister in shim layer, scanner_id:2
+10-23 14:55:46.741  1348  4570 I Nearby  : [MBleClient] M hardware scan: 1 clients, scanMode= OPPORTUNISTIC, filters size = 5 [CONTEXT service_id=49 ]
+10-23 14:55:46.742  1348  4570 D BluetoothAdapter: isLeEnabled(): ON
+10-23 14:55:46.749   524  2040 I RemoteProvisionSysSvc: getRegistration(android.hardware.security.keymint.IRemotelyProvisionedComponent/default)
+10-23 14:55:46.751  3741  3776 I t_app_installer: Background concurrent copying GC freed 13271(852KB) AllocSpace objects, 4(144KB) LOS objects, 49% free, 2225KB/4451KB, paused 48us,8us total 187.178ms
+10-23 14:55:46.758   524   524 I RegistrationProxy: onServiceConnected: com.android.rkpdapp.service.RemoteProvisioningService
+10-23 14:55:46.761   524  2040 I RegistrationProxy: IGetRegistrationCallback.onError:RKP is disabled. System configured with no default URL.
+10-23 14:55:46.774  1348  3162 D TrafficStats: tagSocket(-1) with statsTag=0x20000407, statsUid=-1
+10-23 14:55:46.774  1348  3162 I TrafficStats: tagSocketFd(-1, 536871943, -1) failed with errno-9
+10-23 14:55:46.777  1617  4951 D TrafficStats: tagSocket(5) with statsTag=0xffffffff, statsUid=-1
+10-23 14:55:46.784  1058  1722 I bt_stack: [INFO:le_scanning_manager.cc(155)] RegisterScanner in shim layer
+10-23 14:55:46.785  1348  3477 D BluetoothLeScanner: onScannerRegistered() - status=0 scannerId=2 mScannerId=0
+10-23 14:55:46.800  1348  3162 D TrafficStats: tagSocket(250) with statsTag=0x20000407, statsUid=-1
+10-23 14:55:46.824  1468  3685 I Pay     : Device does not support HCE. [CONTEXT service_id=198 ]
+10-23 14:55:46.828  1058  1722 D ActivityAttributionService: notifyActivityAttributionInfo UID=1002 packageName=com.google.android.bluetooth deviceAddress=no_active_device_address
+10-23 14:55:46.828  1058  1722 I bt_btif : packages/modules/Bluetooth/system/btif/src/bluetooth.cc:829 get_profile_interface: get_profile_interface: id = activity_attribution
+10-23 14:55:46.835  3041  3665 E PlayCommon: [53] alsm.<init>(10): Failed to restore PlayMetalog
+10-23 14:55:46.835  3041  3665 E PlayCommon: [53] alsm.<init>(14): Failed to restore LogsUploadAttempt
+10-23 14:55:46.842  5543  5583 I Finsky:quick_launch: [56] kji.accept(34): [Counters Flush] Successfully generated counter events
+10-23 14:55:46.851  3041  3429 I Finsky  : [44] yse.r(4): SCH: jobFinished: 10-12. TimeElapsed: 1797ms.
+10-23 14:55:46.852   413   476 D audioserver: FGS Logger Transaction failed
+10-23 14:55:46.852   413   476 D audioserver: -129
+10-23 14:55:46.875  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-14 starting
+10-23 14:55:46.876  3041  3041 I Finsky  : [2] InstantAppsEnabledStatusSyncHygieneJob.a(3): Instant App status sync triggered from migrated hygiene.
+10-23 14:55:46.884  3041  3665 I Finsky  : [53] okj.call(7): Enqueue status sync job.
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: UID for network attribution might be misset for tag 536871943 [CONTEXT service_id=39 ]
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: dhwp: FULL
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at d.N(:com.google.android.gms@231818047@23.18.18 (190800-535401451):0)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aobf.a(:com.google.android.gms@231818047@23.18.18 (190800-535401451):14)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aqzt.c(:com.google.android.gms@231818047@23.18.18 (190800-535401451):8)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aqzk.d(:com.google.android.gms@231818047@23.18.18 (190800-535401451):1)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aqzp.a(:com.google.android.gms@231818047@23.18.18 (190800-535401451):0)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aqzk.b(:com.google.android.gms@231818047@23.18.18 (190800-535401451):5)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aqzk.execute(:com.google.android.gms@231818047@23.18.18 (190800-535401451):8)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aqzk.execute(:com.google.android.gms@231818047@23.18.18 (190800-535401451):7)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at apiy.h(:com.google.android.gms@231818047@23.18.18 (190800-535401451):51)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at apit.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):3)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aced.c(:com.google.android.gms@231818047@23.18.18 (190800-535401451):6)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at aced.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):7)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at acjn.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):0)
+10-23 14:55:46.906  1348  5431 E GmsConnectionFactory: 	at java.lang.Thread.run(Thread.java:1012)
+10-23 14:55:46.917  1348  3945 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.pay.gcmtask.PayGcmTaskService finished executing. cause:5 result: 2 elapsed_millis: 194 uptime_millis: 194 exec_start_elapsed_seconds: 87 [CONTEXT service_id=218 ]
+10-23 14:55:46.921  2993  5385 W SystemServiceRegistry: No service published for: persistent_data_block
+10-23 14:55:46.923  3041  3665 I Finsky  : [53] yse.r(4): SCH: jobFinished: 10-14. TimeElapsed: 48ms.
+10-23 14:55:46.952  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-15 starting
+10-23 14:55:46.983  1093  1117 D SlicesDatabaseHelper: Created databases
+10-23 14:55:47.012  1093  1117 D SlicesDatabaseHelper: Created databases
+10-23 14:55:47.034  3741  5589 W t_app_installer: Accessing hidden field Ljava/util/Collections$SynchronizedCollection;->mutex:Ljava/lang/Object; (max-target-o, reflection, denied)
+10-23 14:55:47.034  3741  5589 W t_app_installer: Accessing hidden method Ljava/util/Collections$SynchronizedSet;-><init>(Ljava/util/Set;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-23 14:55:47.035  3741  5589 W t_app_installer: Accessing hidden method Ljava/util/Collections$SynchronizedCollection;-><init>(Ljava/util/Collection;Ljava/lang/Object;)V (max-target-o, reflection, denied)
+10-23 14:55:47.065  3041  3429 I Finsky  : [44] yse.r(4): SCH: jobFinished: 10-15. TimeElapsed: 112ms.
+10-23 14:55:47.075  3741  5592 I Finsky:instant_app_inst: [63] EnabledStatusSyncService.d(1): Running status sync job.
+10-23 14:55:47.128  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-18 starting
+10-23 14:55:47.137  3041  3686 I Finsky  : [59] yse.r(4): SCH: jobFinished: 10-18. TimeElapsed: 9ms.
+10-23 14:55:47.159  1348  1360 I .gms.persistent: Background young concurrent copying GC freed 153632(8655KB) AllocSpace objects, 11(388KB) LOS objects, 27% free, 21MB/29MB, paused 25us,19us total 216.158ms
+10-23 14:55:47.161  1348  3946 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.pay.gcmtask.PayGcmTaskService started execution. cause:5 exec_start_elapsed_seconds: 87 [CONTEXT service_id=218 ]
+10-23 14:55:47.166  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-20 starting
+10-23 14:55:47.170  1093  1117 W SliceData: Highlight menu key res is empty: com.android.settings.deviceinfo.hardwareinfo.DeviceModelPreferenceController
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: Could not parse manufactured year from serial.
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: java.lang.NumberFormatException: For input string: "E"
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at java.lang.Integer.parseInt(Integer.java:797)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at java.lang.Integer.valueOf(Integer.java:1128)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.google.android.settings.deviceinfo.hardwareinfo.HardwareInfoFeatureProviderGoogleImpl.getManufacturedYear(HardwareInfoFeatureProviderGoogleImpl.kt:22)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.deviceinfo.hardwareinfo.ManufacturedYearPreferenceController.<init>(ManufacturedYearPreferenceController.kt:26)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at java.lang.reflect.Constructor.newInstance0(Native Method)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:143)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.182  1093  1117 E HardwareInfoFeatureProviderImpl: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.189  3041  3041 I Finsky  : [2] DeferredVpaNotificationHygieneJob.a(1): Start Vpa Service for Deferred Setup Notification
+10-23 14:55:47.190  3041  3041 I Finsky  : [2] VpaService.l(19): setup::PAI: Should start deferred PAI step because required PAIs not yet processed
+10-23 14:55:47.198  3041  3041 I Finsky  : [2] yse.r(4): SCH: jobFinished: 10-20. TimeElapsed: 31ms.
+10-23 14:55:47.208  1468  1507 W Pay     : Active account was null, notification task will be cancelled. [CONTEXT service_id=198 ]
+10-23 14:55:47.208  1468  1507 E Pay     : [Migration operation] Active tapandpay account not found! [CONTEXT service_id=198 ]
+10-23 14:55:47.210  3041  3041 I Finsky  : [2] VpaService.onStartCommand(2): setup::PAI: VpaService is called for vpaservice://startvpafordeferredsetupnotification (pending launches = 0)
+10-23 14:55:47.210  3041  3041 I Finsky  : [2] VpaService.onStartCommand(7): Setup Notification: show VpaService notification with id=42864
+10-23 14:55:47.221  3041  3053 I android.vending: Background young concurrent copying GC freed 45450(2552KB) AllocSpace objects, 10(456KB) LOS objects, 23% free, 9938KB/12MB, paused 8.457ms,54us total 55.796ms
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: No service published for: ethernet
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: android.os.ServiceManager$ServiceNotFoundException: No service published for: ethernet
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.os.ServiceManager.getServiceOrThrow(ServiceManager.java:166)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.app.SystemServiceRegistry$139.createService(SystemServiceRegistry.java:1872)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.app.SystemServiceRegistry$CachedServiceFetcher.getService(SystemServiceRegistry.java:1971)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.app.SystemServiceRegistry.getSystemService(SystemServiceRegistry.java:1645)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.app.ContextImpl.getSystemService(ContextImpl.java:2212)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.content.ContextWrapper.getSystemService(ContextWrapper.java:934)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.content.Context.getSystemService(Context.java:4420)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.network.EthernetTetherPreferenceController.<init>(EthernetTetherPreferenceController.java:48)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at java.lang.reflect.Constructor.newInstance0(Native Method)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:143)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.246  1093  1117 E SystemServiceRegistry: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.256  3741  5592 I Finsky:instant_app_inst: [63] EnabledStatusSyncService.d(6): Instant App enabled status=true
+10-23 14:55:47.258  3041  3041 E Finsky  : [2] zuv.L(2): Early update wasn't run
+10-23 14:55:47.259  3741  5592 I Finsky:instant_app_inst: [63] sqq.e(1): GmsCore device enabled sync disabled
+10-23 14:55:47.266  3741  4031 I PlayCommon: [56] alst.j(32): Preparing logs for uploading
+10-23 14:55:47.282  2964  2964 I BgTaskExecutorImpl: Starting EXCLUSIVE background task UPLOAD_ASSISTANT_DEVICE_SETTINGS.
+10-23 14:55:47.288  1093  1117 W LocalMediaManager: BluetoothAdapter is null or muting expected device not exist
+10-23 14:55:47.302  1093  1117 D AssistGesture: mAssistOnly:false, isSupported:false, isSensorAvailable:false
+10-23 14:55:47.302  1093  1117 D AssistGesture: mAssistOnly:false, isSupported:false, isSensorAvailable:false
+10-23 14:55:47.311  3041  3041 I Finsky  : [2] ptj.c(1): setup::PAI: No VPA stub found - stopping service
+10-23 14:55:47.315  3041  3041 I Finsky  : [2] VpaService.q(5): setup::PAI: Deferred PAI session finish, required PAI installs are processed
+10-23 14:55:47.315  3041  3041 I Finsky  : [2] zwr.a(1): setup::notification: Cancel the notification for initiating PAI installs
+10-23 14:55:47.320  1093  1117 I ActiveUnlockStatusUtils: authority not set
+10-23 14:55:47.320  1093  1117 I ActiveUnlockStatusUtils: authority not set
+10-23 14:55:47.320  1093  1117 I ActiveUnlockStatusUtils: authority not set
+10-23 14:55:47.320  2964  3350 W LocationOracle: getBestLocation(): no location is available
+10-23 14:55:47.322  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.applications.appinfo.ManageAppLocalePreferenceController
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: Caused by: java.lang.ClassNotFoundException: com.android.settings.applications.appinfo.ManageAppLocalePreferenceController
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at java.lang.Class.classForName(Native Method)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at java.lang.Class.forName(Class.java:536)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at java.lang.Class.forName(Class.java:467)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:139)
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: Caused by: java.lang.ClassNotFoundException: com.android.settings.applications.appinfo.ManageAppLocalePreferenceController
+10-23 14:55:47.325  1093  1117 W SliceDataConverter: 	... 23 more
+10-23 14:55:47.326  2964  3303 I NetworkRecognitionRnr: Using pair HTTP connection
+10-23 14:55:47.326  3911  3911 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231175/com.example.lunchtray:id/skillet>
+10-23 14:55:47.326  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.342  2993  3021 W SystemServiceRegistry: No service published for: persistent_data_block
+10-23 14:55:47.345  2964  3508 I A       : [Upload] Connected
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.network.telephony.CallsDefaultSubscriptionController
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: Caused by: java.lang.NoSuchMethodException: com.android.settings.network.telephony.CallsDefaultSubscriptionController.<init> [class android.content.Context, class java.lang.String]
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor0(Class.java:3325)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor(Class.java:2485)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:141)
+10-23 14:55:47.352  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.352  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.accessibility.VibrationMainSwitchPreferenceController
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: Caused by: java.lang.reflect.InvocationTargetException
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at java.lang.reflect.Constructor.newInstance0(Native Method)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:343)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:143)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: Caused by: java.lang.RuntimeException: Can't create handler inside thread Thread[binder:1093_1,5,main] that has not called Looper.prepare()
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.os.Handler.<init>(Handler.java:227)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at android.os.Handler.<init>(Handler.java:194)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	at com.android.settings.accessibility.VibrationMainSwitchPreferenceController.<init>(VibrationMainSwitchPreferenceController.java:52)
+10-23 14:55:47.353  1093  1117 W SliceDataConverter: 	... 22 more
+10-23 14:55:47.353  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.370  2964  3508 I NetworkRecognitionRnr: Using pair HTTP connection
+10-23 14:55:47.370  2964  3350 I A       : [Upload] Connected
+10-23 14:55:47.371  1093  1117 E ScreenResolutionController: No support
+10-23 14:55:47.372  1093  1117 D RefreshRatePrefCtr: DEFAULT_REFRESH_RATE : 60.0 mPeakRefreshRate : 60.0
+10-23 14:55:47.373  2964  2964 E A       : onError
+10-23 14:55:47.373  2964  2964 E A       : com.google.android.apps.gsa.shared.speech.a.m: errorCode: 65561, engine: 2
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.staticplugins.dc.a.e.a(PG:3)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.s3.n.hh(PG:1)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.cd.g.a.f.e(PG:2)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.speech.k.a.g.d(PG:22)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.speech.k.a.g.ks(PG:6)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.s3.o.e(PG:14)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.s3.p.run(PG:1)
+10-23 14:55:47.373  2964  2964 E A       : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-23 14:55:47.373  2964  2964 E A       : 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+10-23 14:55:47.373  2964  2964 E A       : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-23 14:55:47.373  2964  2964 E A       : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-23 14:55:47.373  2964  2964 E A       : 	at java.lang.Thread.run(Thread.java:1012)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5)
+10-23 14:55:47.373  2964  2964 E A       : Caused by: com.google.android.apps.gsa.shared.speech.a.o: errorCode: 65586, engine: 2
+10-23 14:55:47.373  2964  2964 E A       : 	... 15 more
+10-23 14:55:47.373  2964  2964 E A       : Caused by: com.google.android.apps.gsa.shared.speech.a.k: errorCode: 401, engine: 2
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.assistant.shared.n.h.a(PG:5)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.s3.producers.j.hE(PG:2)
+10-23 14:55:47.373  2964  2964 E A       : 	at com.google.android.apps.gsa.speech.k.a.g.d(PG:16)
+10-23 14:55:47.373  2964  2964 E A       : 	... 12 more
+10-23 14:55:47.373  2964  2964 W A       : Failed to sync device settings.
+10-23 14:55:47.373  2964  2964 I A       : Retrying to sync device settings.
+10-23 14:55:47.388  2964  3265 W SearchServiceCore: Abort, client detached.
+10-23 14:55:47.388  2964  3265 W SearchServiceCore: Abort, client detached.
+10-23 14:55:47.393  3041  3041 I Finsky  : [2] VpaService.i(3): setup::PAI: Secure Setting of PAI_SELECTION_PAGE_COMPLETE: 1
+10-23 14:55:47.395  1657  1701 I AiAiEcho: Settings changed for uri: content://settings/secure/pai_selection_page_complete
+10-23 14:55:47.403  3911  4251 D EGL_emulation: app_time_stats: avg=3.16ms min=1.39ms max=12.17ms count=34
+10-23 14:55:47.409  3741  4031 D CompatibilityChangeReporter: Compat change id reported: 247079863; UID 10121; state: DISABLED
+10-23 14:55:47.410  3741  4031 I PlayCommon: [56] alst.j(149): Connecting to server for timestamp: https://play.googleapis.com/play/log/timestamp
+10-23 14:55:47.416  1093  1117 W libc    : Access denied finding property "ro.vendor.aware_available"
+10-23 14:55:47.419  1093  1117 W SliceData: Highlight menu key res is empty: com.android.settings.deviceinfo.firmwareversion.FirmwareVersionDetailPreferenceController
+10-23 14:55:47.423  1093  1117 D RTTSettingsCtr: init controller
+10-23 14:55:47.424  1093  1117 W libc    : Access denied finding property "ro.vendor.aware_available"
+10-23 14:55:47.427  3741  4031 D TrafficStats: tagSocket(70) with statsTag=0xffffffff, statsUid=-1
+10-23 14:55:47.432   413  1029 D audioserver: FGS Logger Transaction failed
+10-23 14:55:47.432   413  1029 D audioserver: -129
+10-23 14:55:47.433  1657  2067 I AiAiEcho: Predicting[0]:
+10-23 14:55:47.433  1657  2067 I AiAiEcho: EchoTargets:
+10-23 14:55:47.433  1657  2067 I AiAiEcho: Filtered by AiAi flag check:
+10-23 14:55:47.445  1093  1117 W libc    : Access denied finding property "ro.vendor.aware_available"
+10-23 14:55:47.446  1657  2067 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+10-23 14:55:47.448  1657  2067 I AiAiEcho: Predicting[0]:
+10-23 14:55:47.448  1657  2067 I AiAiEcho: EchoTargets:
+10-23 14:55:47.448  1657  2067 I AiAiEcho: Filtered by AiAi flag check:
+10-23 14:55:47.448  1657  2067 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+10-23 14:55:47.458  1657  2067 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0 (types=[])
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.development.DevelopmentMemtagFooterPreferenceController
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: Caused by: java.lang.ClassNotFoundException: com.android.settings.development.DevelopmentMemtagFooterPreferenceController
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at java.lang.Class.classForName(Native Method)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at java.lang.Class.forName(Class.java:536)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at java.lang.Class.forName(Class.java:467)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:139)
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: Caused by: java.lang.ClassNotFoundException: com.android.settings.development.DevelopmentMemtagFooterPreferenceController
+10-23 14:55:47.458  1093  1117 W SliceDataConverter: 	... 23 more
+10-23 14:55:47.458  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.462  1657  2067 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+10-23 14:55:47.468  1093  1117 D AssistGesture: mAssistOnly:false, isSupported:false, isSensorAvailable:false
+10-23 14:55:47.469  1093  1117 D AssistGesture: mAssistOnly:false, isSupported:false, isSensorAvailable:false
+10-23 14:55:47.473   870   870 W PageIndicator: Total number of pages invalid: 0. Assuming 1 page.
+10-23 14:55:47.478  3041  3041 I Finsky  : [2] VpaService.h(1): setup::PAI: Stop VpaService because no more work to be done
+10-23 14:55:47.491  3041  3041 I Finsky  : [2] VpaService.h(2): Setup Notification: cancel VpaService notification
+10-23 14:55:47.498  3041  3041 I Finsky  : [2] VpaService.h(1): setup::PAI: Stop VpaService because no more work to be done
+10-23 14:55:47.498  3041  3041 I Finsky  : [2] VpaService.h(2): Setup Notification: cancel VpaService notification
+10-23 14:55:47.503  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-22 starting
+10-23 14:55:47.511  3041  3429 I Finsky  : [44] yse.r(4): SCH: jobFinished: 10-22. TimeElapsed: 5ms.
+10-23 14:55:47.541  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-30 starting
+10-23 14:55:47.543  3041  3041 I Finsky  : [2] yse.r(4): SCH: jobFinished: 10-30. TimeElapsed: 0ms.
+10-23 14:55:47.574  1468  1507 I Pay     : Migration flag not enabled. [CONTEXT service_id=198 ]
+10-23 14:55:47.590  3741  4031 W PlayCommon: [56] alst.l(1): No account for auth token provided
+10-23 14:55:47.590  3741  4031 I PlayCommon: [56] alst.j(183): Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+10-23 14:55:47.590  1468  1507 I Pay     : Attempting migration; GP2 not installed. [CONTEXT service_id=198 ]
+10-23 14:55:47.599   413   476 D audioserver: FGS Logger Transaction failed
+10-23 14:55:47.599   413   476 D audioserver: -129
+10-23 14:55:47.610  1093  1117 D CustomizableLockScreenUtils: is_custom_lock_screen_quick_affordances_feature_enabled=1
+10-23 14:55:47.632  1348  3945 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 618083]
+10-23 14:55:47.652  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-33 starting
+10-23 14:55:47.656  3041  5502 W ziparchive: Unable to open '/data/user/0/com.android.vending/app_dg_cache/E6A12851B70E16B828AF4D83C5605D22C16FD9A1/the.dm': No such file or directory
+10-23 14:55:47.662  3741  4031 I PlayCommon: [56] alst.j(220): Successfully uploaded logs.
+10-23 14:55:47.665  1093  1117 D CustomizableLockScreenUtils: is_custom_lock_screen_quick_affordances_feature_enabled=1
+10-23 14:55:47.670  3041  5502 D nativeloader: Configuring clns-8 for other apk . target_sdk_version=33, uses_libraries=ALL, library_path=, permitted_path=/data:/mnt/expand
+10-23 14:55:47.677  3041  3041 I Finsky  : [2] AutoUpdateHygieneJob.a(2): AU2: Skipping Auto Update, hygiene is disabled or SU is running
+10-23 14:55:47.687  3041  3041 I Finsky  : [2] yse.r(4): SCH: jobFinished: 10-33. TimeElapsed: 29ms.
+10-23 14:55:47.704  1093  1117 D CustomizableLockScreenUtils: is_custom_lock_screen_quick_affordances_feature_enabled=1
+10-23 14:55:47.730  1348  3945 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 618181]
+10-23 14:55:47.760  3041  3041 I Finsky  : [2] yrd.accept(66): SCH: Job 10-39 starting
+10-23 14:55:47.763  3041  3041 I Finsky  : [2] DevTriggeredUpdateHygieneJob.a(1): Running dev-triggered-update hygiene
+10-23 14:55:47.801  3041  5601 W android.vending: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+10-23 14:55:47.801  3041  5601 W android.vending: Accessing hidden method Ljava/util/Random;->internalNextDouble(DD)D (max-target-o, linking, denied)
+10-23 14:55:47.801  3041  5601 W android.vending: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+10-23 14:55:47.801  3041  5601 W android.vending: Accessing hidden method Ljava/util/Random;->internalNextInt(II)I (max-target-o, linking, denied)
+10-23 14:55:47.802  1468  1507 I Pay     : Attempting migration; GP2 not installed. [CONTEXT service_id=198 ]
+10-23 14:55:47.802  3041  5601 W android.vending: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+10-23 14:55:47.802  3041  5601 W android.vending: Accessing hidden method Ljava/util/Random;->internalNextLong(JJ)J (max-target-o, linking, denied)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.network.telephony.CallsDefaultSubscriptionController
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: Caused by: java.lang.NoSuchMethodException: com.android.settings.network.telephony.CallsDefaultSubscriptionController.<init> [class android.content.Context, class java.lang.String]
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor0(Class.java:3325)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor(Class.java:2485)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:141)
+10-23 14:55:47.824  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.824  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.828  1348  3945 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 618279]
+10-23 14:55:47.846  1468  1507 I Pay     : Migration flag not enabled. [CONTEXT service_id=198 ]
+10-23 14:55:47.846  1468  1507 I Pay     : Migration flag not enabled. [CONTEXT service_id=198 ]
+10-23 14:55:47.846  1468  1507 I Pay     : Migration flag not enabled. [CONTEXT service_id=198 ]
+10-23 14:55:47.846  1468  1507 I Pay     : Migration flag not enabled. [CONTEXT service_id=198 ]
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.fuelgauge.batteryusage.BatteryChartPreferenceController
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: Caused by: java.lang.NoSuchMethodException: com.android.settings.fuelgauge.batteryusage.BatteryChartPreferenceController.<init> [class android.content.Context, class java.lang.String]
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor0(Class.java:3325)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor(Class.java:2485)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:141)
+10-23 14:55:47.848  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.848  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.network.NetworkProviderSimsCategoryController
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: Caused by: java.lang.NoSuchMethodException: com.android.settings.network.NetworkProviderSimsCategoryController.<init> [class android.content.Context, class java.lang.String]
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor0(Class.java:3325)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at java.lang.Class.getConstructor(Class.java:2485)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:141)
+10-23 14:55:47.850  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.851  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.854  1468  1507 I Pay     : [SeTosMigration] walletJpEligibility is not enabled [CONTEXT service_id=198 ]
+10-23 14:55:47.860  1468  1507 I Pay     : Wallet install state NOT_INSTALLED [CONTEXT service_id=198 ]
+10-23 14:55:47.865  1468  1507 I Pay     : Migration flag not enabled. [CONTEXT service_id=198 ]
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: Get slice data from XML failed
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: java.lang.IllegalStateException: Invalid preference controller: com.android.settings.applications.appinfo.ManageAppLocalePreferenceController
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:146)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceBuilderUtils.getPreferenceController(SliceBuilderUtils.java:354)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromXML(SliceDataConverter.java:204)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceDataFromProvider(SliceDataConverter.java:149)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SliceDataConverter.getSliceData(SliceDataConverter.java:119)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.getSliceData(SlicesIndexer.java:94)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesIndexer.indexSliceData(SlicesIndexer.java:75)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesFeatureProviderImpl.indexSliceData(SlicesFeatureProviderImpl.java:63)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.verifyIndexing(SlicesDatabaseAccessor.java:194)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SlicesDatabaseAccessor.getSliceUris(SlicesDatabaseAccessor.java:96)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.slices.SettingsSliceProvider.onGetSliceDescendants(SettingsSliceProvider.java:337)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.onGetSliceDescendants(SliceProviderWrapperContainer.java:166)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.handleGetDescendants(SliceProvider.java:425)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at android.app.slice.SliceProvider.call(SliceProvider.java:406)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at androidx.slice.compat.SliceProviderWrapperContainer$SliceProviderWrapper.call(SliceProviderWrapperContainer.java:123)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider.call(ContentProvider.java:2679)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at android.content.ContentProvider$Transport.call(ContentProvider.java:628)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:307)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransactInternal(Binder.java:1339)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at android.os.Binder.execTransact(Binder.java:1275)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: Caused by: java.lang.ClassNotFoundException: com.android.settings.applications.appinfo.ManageAppLocalePreferenceController
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at java.lang.Class.classForName(Native Method)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at java.lang.Class.forName(Class.java:536)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at java.lang.Class.forName(Class.java:467)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	at com.android.settings.core.BasePreferenceController.createInstance(BasePreferenceController.java:139)
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	... 19 more
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: Caused by: java.lang.ClassNotFoundException: com.android.settings.applications.appinfo.ManageAppLocalePreferenceController
+10-23 14:55:47.866  1093  1117 W SliceDataConverter: 	... 23 more
+10-23 14:55:47.866  1093  1117 W ElapsedTimeUtils: getElapsedTime: sSuwFinishedTimeStamp is null
+10-23 14:55:47.871  1348  5431 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.pay.gcmtask.PayGcmTaskService finished executing. cause:5 result: 1 elapsed_millis: 816 uptime_millis: 816 exec_start_elapsed_seconds: 87 [CONTEXT service_id=218 ]
+10-23 14:55:47.889  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $5.50"}' assertion on view view.getId() is <2131231217/com.example.lunchtray:id/subtotal>
+10-23 14:55:47.889  3911  4165 I TestRunner: finished: test01_radio_buttons_update_entree_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)

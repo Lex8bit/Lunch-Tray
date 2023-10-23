@@ -1,0 +1,1160 @@
+# 2023-10-23T14:56:26.433Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 22
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "side_menu_item_content"
+    start_time {
+      seconds: 1698072921
+      nanos: 111000000
+    }
+    end_time {
+      seconds: 1698072923
+      nanos: 447000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.MenuContentTests-side_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "entree_menu_item_content"
+    start_time {
+      seconds: 1698072924
+      nanos: 254000000
+    }
+    end_time {
+      seconds: 1698072925
+      nanos: 545000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.MenuContentTests-entree_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "accompaniment_menu_item_content"
+    start_time {
+      seconds: 1698072926
+      nanos: 420000000
+    }
+    end_time {
+      seconds: 1698072927
+      nanos: 473000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.MenuContentTests-accompaniment_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout"
+    start_time {
+      seconds: 1698072928
+      nanos: 598000000
+    }
+    end_time {
+      seconds: 1698072929
+      nanos: 809000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_entree_menu"
+    start_time {
+      seconds: 1698072930
+      nanos: 635000000
+    }
+    end_time {
+      seconds: 1698072931
+      nanos: 762000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_checkout_from_accompaniment_menu"
+    start_time {
+      seconds: 1698072932
+      nanos: 435000000
+    }
+    end_time {
+      seconds: 1698072933
+      nanos: 847000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_checkout_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_entree_menu_from_start_order"
+    start_time {
+      seconds: 1698072934
+      nanos: 469000000
+    }
+    end_time {
+      seconds: 1698072935
+      nanos: 779000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_entree_menu_from_start_order.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout_via_submit"
+    start_time {
+      seconds: 1698072936
+      nanos: 479000000
+    }
+    end_time {
+      seconds: 1698072938
+      nanos: 312000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout_via_submit.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_accompaniment_menu"
+    start_time {
+      seconds: 1698072939
+      nanos: 60000000
+    }
+    end_time {
+      seconds: 1698072940
+      nanos: 93000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_accompaniment_menu_from_side_menu"
+    start_time {
+      seconds: 1698072940
+      nanos: 660000000
+    }
+    end_time {
+      seconds: 1698072941
+      nanos: 719000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_accompaniment_menu_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_side_menu"
+    start_time {
+      seconds: 1698072942
+      nanos: 416000000
+    }
+    end_time {
+      seconds: 1698072943
+      nanos: 316000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_side_menu_from_entree_menu"
+    start_time {
+      seconds: 1698072943
+      nanos: 956000000
+    }
+    end_time {
+      seconds: 1698072944
+      nanos: 882000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.NavigationTests-navigate_to_side_menu_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test01_radio_buttons_update_entree_menu_subtotal"
+    start_time {
+      seconds: 1698072945
+      nanos: 556000000
+    }
+    end_time {
+      seconds: 1698072948
+      nanos: 718000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test01_radio_buttons_update_entree_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test02_radio_buttons_update_side_menu_subtotal"
+    start_time {
+      seconds: 1698072949
+      nanos: 307000000
+    }
+    end_time {
+      seconds: 1698072952
+      nanos: 681000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test02_radio_buttons_update_side_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test03_radio_buttons_update_accompaniment_menu_subtotal"
+    start_time {
+      seconds: 1698072953
+      nanos: 268000000
+    }
+    end_time {
+      seconds: 1698072955
+      nanos: 633000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test03_radio_buttons_update_accompaniment_menu_subtotal.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test04_subtotal_updates_in_full_order_flow"
+    start_time {
+      seconds: 1698072956
+      nanos: 320000000
+    }
+    end_time {
+      seconds: 1698072960
+      nanos: 439000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test04_subtotal_updates_in_full_order_flow.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test05_subtotal_tax_total_in_checkout"
+    start_time {
+      seconds: 1698072960
+      nanos: 956000000
+    }
+    end_time {
+      seconds: 1698072964
+      nanos: 721000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test05_subtotal_tax_total_in_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test06_order_reset_after_cancel_from_entree_menu"
+    start_time {
+      seconds: 1698072965
+      nanos: 314000000
+    }
+    end_time {
+      seconds: 1698072967
+      nanos: 354000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test06_order_reset_after_cancel_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test07_order_reset_after_cancel_from_side_menu"
+    start_time {
+      seconds: 1698072967
+      nanos: 868000000
+    }
+    end_time {
+      seconds: 1698072970
+      nanos: 755000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test07_order_reset_after_cancel_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test08_order_reset_after_cancel_from_accompaniment_menu"
+    start_time {
+      seconds: 1698072971
+      nanos: 345000000
+    }
+    end_time {
+      seconds: 1698072975
+      nanos: 260000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test08_order_reset_after_cancel_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test09_order_reset_after_cancel_from_checkout"
+    start_time {
+      seconds: 1698072976
+      nanos: 3000000
+    }
+    end_time {
+      seconds: 1698072980
+      nanos: 253000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test09_order_reset_after_cancel_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "OrderFunctionalityTests"
+    test_package: "com.example.lunchtray"
+    test_method: "test10_order_snackbar"
+    start_time {
+      seconds: 1698072981
+      nanos: 49000000
+    }
+    end_time {
+      seconds: 1698072985
+      nanos: 37000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\logcat-com.example.lunchtray.OrderFunctionalityTests-test10_order_snackbar.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\Nitro\\AndroidStudioProjects\\GoogleProjects\\LunchTray\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_5X_API_34(AVD) - 14\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

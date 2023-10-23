@@ -1,0 +1,269 @@
+10-23 14:55:25.593  3911  4165 I TestRunner: started: accompaniment_menu_item_content(com.example.lunchtray.MenuContentTests)
+10-23 14:55:25.607  1468  3880 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.games [CONTEXT service_id=231 ]
+10-23 14:55:25.608  1468  3880 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.maps#com.google.android.gms [CONTEXT service_id=231 ]
+10-23 14:55:25.608  1468  3880 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.cast [CONTEXT service_id=231 ]
+10-23 14:55:25.609  1468  3880 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.mobile_data_plan [CONTEXT service_id=231 ]
+10-23 14:55:25.610  3911  4165 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-23 14:55:25.610  1468  3880 E PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.udc [CONTEXT service_id=231 ]
+10-23 14:55:25.616  1657  2174 I AiAiEcho: EchoSearch: WidgetFetcherImpl is initialized with [27] widgets [reason=package added for userId: 0]
+10-23 14:55:25.656   351   351 D Zygote  : Forked child process 4579
+10-23 14:55:25.662  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072 in: PRE_ON_CREATE
+10-23 14:55:25.663  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.664  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.667  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.680   416   416 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-23 14:55:25.685  1657  1657 I AiAiEcho: AppFetcherImpl onPackageChanged com.example.lunchtray.
+10-23 14:55:25.688   871   871 I HibernationPolicy: scheduleHibernationJob with frequency 1296000000ms and threshold 7776000000ms
+10-23 14:55:25.695  1657  3206 I AiAiEcho: AppIndexer Package:[com.example.lunchtray] UserProfile:[0] Enabled:[true].
+10-23 14:55:25.695  1657  3206 I AiAiEcho: AppFetcherImplV2 updateApps package:[com.example.lunchtray], userId:[0], reason:[package is updated.].
+10-23 14:55:25.698  3123  3123 V ClearcutMetricXmitter: Transmission is done.
+10-23 14:55:25.699   871   871 I HibernationPolicy: user 0 is a profileowner. Running hibernation job.
+10-23 14:55:25.700   871   871 I HibernationPolicy: No existing job, scheduling a new one
+10-23 14:55:25.711  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072 in: CREATED
+10-23 14:55:25.712  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.714  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.719  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.722  1348  1616 I CastSocket: Adding new CastClientAuthKeyManager. [CONTEXT service_id=161 ]
+10-23 14:55:25.723  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072 in: STARTED
+10-23 14:55:25.724  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.725  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.726  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.734   870   947 D EGL_emulation: app_time_stats: avg=26.44ms min=0.77ms max=146.89ms count=24
+10-23 14:55:25.753   524  2041 D SafetySourceDataValidator: No cert check requested for package com.google.android.permissioncontroller
+10-23 14:55:25.754   524  2041 D SafetySourceDataValidator: No cert check requested for package com.google.android.permissioncontroller
+10-23 14:55:25.755   524  2520 D SafetySourceDataValidator: No cert check requested for package com.google.android.permissioncontroller
+10-23 14:55:25.762  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072 in: RESUMED
+10-23 14:55:25.762  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.768  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.774  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.783   871  1403 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10162; state: ENABLED
+10-23 14:55:25.784   871  1402 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10162; state: ENABLED
+10-23 14:55:25.787   871   871 V SafetyCenterBackgroundR: Scheduling a periodic background refresh with , interval=86400000requires charging=true
+10-23 14:55:25.791  1468  1513 W Auth    : [AuthManaged, SettingsSecurityDeviceOwnerChimeraActivity] device owner: n/a
+10-23 14:55:25.791  1468  1513 I Auth    : [AuthManaged, AuthManagedModuleInitIntentOperation] disabling com.google.android.gms.auth.managed.ui.SettingsSecurityDeviceOwnerActivity
+10-23 14:55:25.795  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072 in: PAUSED
+10-23 14:55:25.796  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.797  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.797  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:25.799   524  1731 D SafetySourceDataValidator: No cert check requested for package com.google.android.permissioncontroller
+10-23 14:55:25.799  4579  4579 I ogle.android.gm: Using CollectorTypeCC GC.
+10-23 14:55:25.803   871   871 D SafetyLabelChangesJobService: Received broadcast with intent action 'android.intent.action.BOOT_COMPLETED'
+10-23 14:55:25.805  4579  4579 W ogle.android.gm: Unexpected CPU variant for x86: x86_64.
+10-23 14:55:25.805  4579  4579 W ogle.android.gm: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+10-23 14:55:25.811  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1 in: PRE_ON_CREATE
+10-23 14:55:25.816   871   871 I SafetyLabelChangesJobService: Detect updates job scheduled successfully.
+10-23 14:55:25.819   871   871 I SafetyLabelChangesJobService: Notification job scheduled successfully.
+10-23 14:55:25.826  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:25.829  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-23 14:55:25.831  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-23 14:55:25.842  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1 in: CREATED
+10-23 14:55:25.842  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.842  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.843  3911  3911 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.844  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1 in: STARTED
+10-23 14:55:25.844  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.844  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.844  3911  3911 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.849  4579  4579 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10146; state: ENABLED
+10-23 14:55:25.849  4579  4579 D CompatibilityChangeReporter: Compat change id reported: 242716250; UID 10146; state: DISABLED
+10-23 14:55:25.855   871   871 D PermissionStorageTimeChangeReceiver: systemTimeSnapshot set to 1698072925855
+10-23 14:55:25.855   871   871 D PermissionStorageTimeChangeReceiver: realtimeSnapshot set to 66306
+10-23 14:55:25.861  4579  4579 D nativeloader: Configuring clns-6 for other apk /system/framework/org.apache.http.legacy.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/product/app/PrebuiltGmail/lib/x86_64:/product/app/PrebuiltGmail/PrebuiltGmail.apk!/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gm
+10-23 14:55:25.862  4579  4579 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+10-23 14:55:25.862  4579  4579 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+10-23 14:55:25.872  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1 in: RESUMED
+10-23 14:55:25.872  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.873  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.874  3911  3911 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@f7c85b1
+10-23 14:55:25.878   351   351 D Zygote  : Forked child process 4596
+10-23 14:55:25.890  2048  2055 I adbd    : jdwp connection from 4579
+10-23 14:55:25.895  1348  1348 I NearbySharing: ReceiveSurfaceService started [CONTEXT service_id=194 ]
+10-23 14:55:25.934  4596  4596 I gearhead:shared: Using CollectorTypeCC GC.
+10-23 14:55:25.936  4596  4596 W gearhead:shared: Unexpected CPU variant for x86: x86_64.
+10-23 14:55:25.936  4596  4596 W gearhead:shared: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+10-23 14:55:25.944  1348  3946 W SemanticLocation: [Settings] Failed to getPlaceIndexCacheEncryptionKey [CONTEXT service_id=173 ]
+10-23 14:55:25.944  1348  3946 W SemanticLocation: java.util.concurrent.TimeoutException: Waited 5000 milliseconds (plus 1 milliseconds, 452171 nanoseconds delay) for dlnx@7ebdc55[status=PENDING, info=[function=[bzrs@b4ce66a]]]
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at dlnv.get(:com.google.android.gms@231818047@23.18.18 (190800-535401451):30)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at bzta.z(:com.google.android.gms@231818047@23.18.18 (190800-535401451):4)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at cadn.s(:com.google.android.gms@231818047@23.18.18 (190800-535401451):1)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at cadn.i(:com.google.android.gms@231818047@23.18.18 (190800-535401451):2)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at com.google.android.gms.semanticlocation.service.SemanticLocationChimeraService.i(:com.google.android.gms@231818047@23.18.18 (190800-535401451):2)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at cacs.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):140)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at aced.c(:com.google.android.gms@231818047@23.18.18 (190800-535401451):6)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at aced.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):7)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at acjn.run(:com.google.android.gms@231818047@23.18.18 (190800-535401451):0)
+10-23 14:55:25.944  1348  3946 W SemanticLocation: 	at java.lang.Thread.run(Thread.java:1012)
+10-23 14:55:25.951  2048  2055 I adbd    : jdwp connection from 4596
+10-23 14:55:25.971  4579  4579 D nativeloader: InitLlndkLibrariesProduct: libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libRS.so:libandroid_net.so:libbinder_ndk.so:libc.so:libcgrouprc.so:libclang_rt.asan-x86_64-android.so:libcom.android.tethering.connectivity_native.so:libdl.so:libft2.so:liblog.so:libm.so:libmediandk.so:libnativewindow.so:libneuralnetworks.so:libselinux.so:libsync.so:libvndksupport.so:libvulkan.so
+10-23 14:55:25.971  4579  4579 D nativeloader: Configuring product-clns-7 for unbundled product apk /product/app/PrebuiltGmail/PrebuiltGmail.apk. target_sdk_version=33, uses_libraries=, library_path=/product/app/PrebuiltGmail/lib/x86_64:/product/app/PrebuiltGmail/PrebuiltGmail.apk!/lib/x86_64:/product/lib64:/system/product/lib64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gm:/product/lib64:/system/product/lib64
+10-23 14:55:25.972  4579  4579 D nativeloader: InitVndkspLibrariesProduct: android.hardware.common-V2-ndk.so:android.hardware.common.fmq-V1-ndk.so:android.hardware.graphics.allocator-V2-ndk.so:android.hardware.graphics.common-V4-ndk.so:android.hardware.graphics.common@1.0.so:android.hardware.graphics.common@1.1.so:android.hardware.graphics.common@1.2.so:android.hardware.graphics.composer3-V1-ndk.so:android.hardware.graphics.mapper@2.0.so:android.hardware.graphics.mapper@2.1.so:android.hardware.graphics.mapper@3.0.so:android.hardware.graphics.mapper@4.0.so:android.hardware.renderscript@1.0.so:android.hidl.memory.token@1.0.so:android.hidl.memory@1.0-impl.so:android.hidl.memory@1.0.so:android.hidl.safe_union@1.0.so:libRSCpuRef.so:libRSDriver.so:libRS_internal.so:libbase.so:libbcinfo.so:libblas.so:libc++.so:libcompiler_rt.so:libcutils.so:libdmabufheap.so:libgralloctypes.so:libhardware.so:libhidlbase.so:libhidlmemory.so:libion.so:libjsoncpp.so:liblzma.so:libprocessgroup.so:libunwindstack.so:libutils.so:libutilscallstack.so:libz.so
+10-23 14:55:25.987   870   947 D EGL_emulation: app_time_stats: avg=239.75ms min=2.15ms max=1349.79ms count=6
+10-23 14:55:25.992  1089  2135 D com.android.ons.ONSProfileActivator: ERR_AUTO_PROVISIONING_DISABLED
+10-23 14:55:26.003  4596  4596 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10108; state: ENABLED
+10-23 14:55:26.004  4596  4596 D CompatibilityChangeReporter: Compat change id reported: 242716250; UID 10108; state: ENABLED
+10-23 14:55:26.004  1089  1089 D CarrierSvcBindHelper: onPackageModified: com.android.nfc
+10-23 14:55:26.005  1089  1331 D ImsResolver: maybeAddedImsService, packageName: com.android.intentresolver
+10-23 14:55:26.009  4596  4596 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+10-23 14:55:26.009  4596  4596 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+10-23 14:55:26.011   524  2520 D SafetySourceDataValidator: No cert check requested for package com.google.android.permissioncontroller
+10-23 14:55:26.018  4596  4596 D nativeloader: InitLlndkLibrariesProduct: libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libRS.so:libandroid_net.so:libbinder_ndk.so:libc.so:libcgrouprc.so:libclang_rt.asan-x86_64-android.so:libcom.android.tethering.connectivity_native.so:libdl.so:libft2.so:liblog.so:libm.so:libmediandk.so:libnativewindow.so:libneuralnetworks.so:libselinux.so:libsync.so:libvndksupport.so:libvulkan.so
+10-23 14:55:26.018  4596  4596 D nativeloader: Configuring product-clns-6 for unbundled product apk /product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk. target_sdk_version=34, uses_libraries=, library_path=/product/priv-app/AndroidAutoStubPrebuilt/lib/x86_64:/product/lib64:/system/product/lib64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.projection.gearhead:/product/lib64:/system/product/lib64
+10-23 14:55:26.019  4596  4596 D nativeloader: InitVndkspLibrariesProduct: android.hardware.common-V2-ndk.so:android.hardware.common.fmq-V1-ndk.so:android.hardware.graphics.allocator-V2-ndk.so:android.hardware.graphics.common-V4-ndk.so:android.hardware.graphics.common@1.0.so:android.hardware.graphics.common@1.1.so:android.hardware.graphics.common@1.2.so:android.hardware.graphics.composer3-V1-ndk.so:android.hardware.graphics.mapper@2.0.so:android.hardware.graphics.mapper@2.1.so:android.hardware.graphics.mapper@3.0.so:android.hardware.graphics.mapper@4.0.so:android.hardware.renderscript@1.0.so:android.hidl.memory.token@1.0.so:android.hidl.memory@1.0-impl.so:android.hidl.memory@1.0.so:android.hidl.safe_union@1.0.so:libRSCpuRef.so:libRSDriver.so:libRS_internal.so:libbase.so:libbcinfo.so:libblas.so:libc++.so:libcompiler_rt.so:libcutils.so:libdmabufheap.so:libgralloctypes.so:libhardware.so:libhidlbase.so:libhidlmemory.so:libion.so:libjsoncpp.so:liblzma.so:libprocessgroup.so:libunwindstack.so:libutils.so:libutilscallstack.so:libz.so
+10-23 14:55:26.021  3911  4251 E OpenGLRenderer: Unable to match the desired swap behavior.
+10-23 14:55:26.024  1089  1089 D CarrierSvcBindHelper: No carrier app for: 0
+10-23 14:55:26.025  1348  4014 I SnapshotHandler: Unable to retrieve flag snapshot for com.google.android.gms.auth.easyunlock, using defaults.
+10-23 14:55:26.062  1535  1612 W fyg     : <DWB> Unsupported: feature flag disabled.
+10-23 14:55:26.076  1089  1089 D CarrierSvcBindHelper: onPackageModified: com.google.android.gm
+10-23 14:55:26.077  1089  1331 D ImsResolver: maybeAddedImsService, packageName: com.android.nfc
+10-23 14:55:26.077  1089  1089 D CarrierSvcBindHelper: No carrier app for: 0
+10-23 14:55:26.085  4596  4596 V GraphicsEnvironment: Currently set values for:
+10-23 14:55:26.085  4596  4596 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+10-23 14:55:26.085  4596  4596 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+10-23 14:55:26.085  4596  4596 V GraphicsEnvironment: ANGLE GameManagerService for com.google.android.projection.gearhead: false
+10-23 14:55:26.085  4596  4596 V GraphicsEnvironment: com.google.android.projection.gearhead is not listed in per-application setting
+10-23 14:55:26.086  4596  4596 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-23 14:55:26.088   870   947 E OpenGLRenderer: Unable to match the desired swap behavior.
+10-23 14:55:26.107  1348  1957 I Nearby  : is blocked device type false, isAuto=false, isIot=false, isLatchsky=false, isChinaWearable=false, isTv=false, isWearable=false (supportWearOs=false), isChromeOsDevice=false (supportChromeOs=false) [CONTEXT service_id=49 ]
+10-23 14:55:26.112   524   558 I libprocessgroup: Successfully killed process cgroup uid 10139 pid 1805 in 11ms
+10-23 14:55:26.115  4596  4596 I CAR.GH  : onCreate
+10-23 14:55:26.133  1468  1513 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Updating password complexity components state.
+10-23 14:55:26.133  1468  1513 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-23 14:55:26.134  1468  1513 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+10-23 14:55:26.135  1468  1513 I Auth    : [AuthManaged, AuthManagedModuleInitIntentOperation] enabling com.google.android.gms.auth.managed.ui.EmmActivity
+10-23 14:55:26.144   524   797 D ConnectivityService: releasing NetworkRequest [ REQUEST id=45, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10139 RequestorUid: 10139 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ] (release request)
+10-23 14:55:26.144  1468  1513 I Auth    : [AuthManaged, AuthManagedModuleInitIntentOperation] enabling com.google.android.gms.auth.managed.ui.PhoneskyDpcInstallActivity
+10-23 14:55:26.146   351   351 I Zygote  : Process 1805 exited due to signal 9 (Killed)
+10-23 14:55:26.147  4596  4596 I GH.FzeroReceiver: Handling intent android.intent.action.BOOT_COMPLETED
+10-23 14:55:26.149  1132  1972 D EGL_emulation: app_time_stats: avg=35.98ms min=0.98ms max=273.77ms count=20
+10-23 14:55:26.156  1089  1114 I m.android.phone: Background concurrent copying GC freed 22787(2752KB) AllocSpace objects, 10(380KB) LOS objects, 49% free, 3677KB/7354KB, paused 28us,10us total 256.769ms
+10-23 14:55:26.158  1089  1116 W System  : A resource failed to call AbstractCursor.close.
+10-23 14:55:26.158  1089  1116 W System  : A resource failed to call AbstractCursor.close.
+10-23 14:55:26.158  1089  1116 W System  : A resource failed to call AbstractCursor.close.
+10-23 14:55:26.160   524   797 D ConnectivityService: releasing NetworkRequest [ REQUEST id=62, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10139 RequestorUid: 10139 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ] (release request)
+10-23 14:55:26.164  1535  1549 I .apps.wellbeing: Background young concurrent copying GC freed 40353(2080KB) AllocSpace objects, 0(0B) LOS objects, 20% free, 6931KB/8709KB, paused 12us,11us total 512.891ms
+10-23 14:55:26.165  1348  4259 I Nearby  : is blocked device type false, isAuto=false, isIot=false, isLatchsky=false, isChinaWearable=false, isTv=false, isWearable=false (supportWearOs=false), isChromeOsDevice=false (supportChromeOs=false) [CONTEXT service_id=49 ]
+10-23 14:55:26.169  1468  1513 W Auth    : [AuthManaged, SettingsSecurityDeviceOwnerChimeraActivity] device owner: n/a
+10-23 14:55:26.169  1468  1513 I Auth    : [AuthManaged, AuthManagedModuleInitIntentOperation] disabling com.google.android.gms.auth.managed.ui.SettingsSecurityDeviceOwnerActivity
+10-23 14:55:26.173  1468  1513 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Updating password complexity components state.
+10-23 14:55:26.173  1468  1513 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-23 14:55:26.173  1468  1513 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+10-23 14:55:26.173   524   797 D ConnectivityService: releasing NetworkRequest [ REQUEST id=64, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10139 RequestorUid: 10139 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ] (release request)
+10-23 14:55:26.174   524   797 D ConnectivityService: releasing NetworkRequest [ REQUEST id=66, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10139 RequestorUid: 10139 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ] (release request)
+10-23 14:55:26.175  1058  1058 V MediaPlayerList: onActiveSessionsChanged: number of controllers: 0
+10-23 14:55:26.175  1058  1058 V MediaPlayerList: onActiveSessionsChanged: number of controllers: 0
+10-23 14:55:26.177  1058  1058 D AvrcpTargetJni: sendPlayerSettingsNative
+10-23 14:55:26.177   524   797 D ConnectivityService: releasing NetworkRequest [ REQUEST id=74, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10139 RequestorUid: 10139 RequestorPkg: com.google.android.youtube UnderlyingNetworks: Null] ] (release request)
+10-23 14:55:26.179  1058  1058 I bt_stack: [INFO:avrcp_service.cc(551)] virtual void bluetooth::avrcp::AvrcpService::SendPlayerSettingsChanged(std::vector<PlayerAttribute>, std::vector<uint8_t>)
+10-23 14:55:26.188  1058  1058 I bt_stack: [INFO:avrcp_service.cc(565)] attribute=PlayerAttribute::REPEAT : value=PlayerRepeatValue::OFF
+10-23 14:55:26.188  1058  1058 I bt_stack: attribute=PlayerAttribute::SHUFFLE : value=PlayerShuffleValue::OFF
+10-23 14:55:26.188  1058  1058 I bt_stack:
+10-23 14:55:26.232  1575  1950 I SP      : Successfully got manifest for content_cache-manifest: manifests:content_cache-2020101916
+10-23 14:55:26.267  1348  4014 W EasyUnlock: [EasyUnlockSupportReporterIntentOperation] Invalid account list. [CONTEXT service_id=234 ]
+10-23 14:55:26.267   524   544 W ziparchive: Unable to open '/data/app/~~l7Rq4SQe7Y9FzOfn2-YRbQ==/com.example.lunchtray-gbGN8hPxDqDvdbmHMgLHzQ==/base.dm': No such file or directory
+10-23 14:55:26.268  4579  4579 V GraphicsEnvironment: Currently set values for:
+10-23 14:55:26.268  4579  4579 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+10-23 14:55:26.268  4579  4579 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+10-23 14:55:26.271  4596  4596 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10108; state: ENABLED
+10-23 14:55:26.274  1348  4259 I NearbyDiscovery: DiscoveryController, showNotification, itemSize=0 [CONTEXT service_id=265 ]
+10-23 14:55:26.282  4579  4579 V GraphicsEnvironment: ANGLE GameManagerService for com.google.android.gm: false
+10-23 14:55:26.282  4579  4579 V GraphicsEnvironment: com.google.android.gm is not listed in per-application setting
+10-23 14:55:26.282  4579  4579 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-23 14:55:26.285   524   544 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity for user 0: +500ms
+10-23 14:55:26.287  1348  1348 W Nearby  : Bind call too late - someone already tried to get: interface dtvj [CONTEXT service_id=49 ]
+10-23 14:55:26.300  4596  4596 D CompatibilityChangeReporter: Compat change id reported: 194532703; UID 10108; state: ENABLED
+10-23 14:55:26.300  4596  4596 D CompatibilityChangeReporter: Compat change id reported: 253665015; UID 10108; state: ENABLED
+10-23 14:55:26.332  3911  3911 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-23 14:55:26.338  1348  4259 I NearbyDiscovery: Show notifications: 0 total, no changes since last shown, no-op. [CONTEXT service_id=265 ]
+10-23 14:55:26.338  1348  1495 I NearbyShared: FastPairSlice: enableBindServiceForDiscoveryItem called, isBind = false
+10-23 14:55:26.340  1535  1611 W ehs     : <DWB> Cannot reschedule growth notification, not scheduled.
+10-23 14:55:26.358  1089  1331 D ImsResolver: maybeAddedImsService, packageName: com.google.android.gm
+10-23 14:55:26.360  1058  1441 I HeadsetPhoneState: stopListenForPhoneState(), no listener indicates nothing is listening
+10-23 14:55:26.360  1058  1441 W HeadsetPhoneState: startListenForPhoneState, no event to listen
+10-23 14:55:26.380  1348  4016 I Fitness : FitCleanupIntentOperation received Intent android.intent.action.PACKAGE_CHANGED [CONTEXT service_id=17 ]
+10-23 14:55:26.380  1348  4015 I Fitness : OnPackageChangedOperation got intent: Intent { act=android.intent.action.PACKAGE_CHANGED dat=package: flg=0x45000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.PersistentIntentOperationService (has extras) } [CONTEXT service_id=17 ]
+10-23 14:55:26.383  1657  1657 I AiAiEcho: AppFetcherImpl onPackageChanged com.google.android.googlequicksearchbox.
+10-23 14:55:26.385  1348  1616 I NearbySharing: A new client has bound to the NearbySharingService ClientBridge for calling package com.google.android.gms [CONTEXT service_id=194 ]
+10-23 14:55:26.388  1657  3689 I AiAiEcho: AppIndexer Package:[com.google.android.googlequicksearchbox] UserProfile:[0] Enabled:[true].
+10-23 14:55:26.388  1657  3689 I AiAiEcho: AppFetcherImplV2 updateApps package:[com.google.android.googlequicksearchbox], userId:[0], reason:[package is updated.].
+10-23 14:55:26.407   524   555 E system_server: No package ID 7f found for resource ID 0x7f080352.
+10-23 14:55:26.407   524   555 E system_server: No package ID 7f found for resource ID 0x7f14079b.
+10-23 14:55:26.408  1468  4396 I FastPair: ServiceBindHelper.onSlicePinned, slice already pinned, uri = content://com.google.android.gms.nearby.fastpair/method_bind_service_for_discovery_item?is_bind=false
+10-23 14:55:26.443  1348  1957 W EasyUnlock: [HostValidator] Invalid account list. [CONTEXT service_id=234 ]
+10-23 14:55:26.443  1575  1950 I SP      : Syncing content_cache (2020101916) with slices: [3514c1e9a5c7d614d5646bd12032bfa6], metadata: true
+10-23 14:55:26.449   524  2031 I ImeTracker: com.example.lunchtray:a7cf3fda: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+10-23 14:55:26.450   524  2031 I ImeTracker: com.example.lunchtray:a7cf3fda: onCancelled at PHASE_SERVER_SHOULD_HIDE
+10-23 14:55:26.456   459   459 W libgoldfish-rild: Multi-element reporting criteria are not supported with HIDL HAL
+10-23 14:55:26.456  1058  1441 I HeadsetPhoneState: stopListenForPhoneState(), no listener indicates nothing is listening
+10-23 14:55:26.456  1058  1441 W HeadsetPhoneState: startListenForPhoneState, no event to listen
+10-23 14:55:26.466   459   459 W libgoldfish-rild: Multi-element reporting criteria are not supported with HIDL HAL
+10-23 14:55:26.466  1058  1441 I HeadsetPhoneState: stopListenForPhoneState(), no listener indicates nothing is listening
+10-23 14:55:26.466  1058  1441 W HeadsetPhoneState: startListenForPhoneState, no event to listen
+10-23 14:55:26.467  1468  1513 I AutofillModuleInitInten: AutofillModuleInitIntentOperation onInitRuntimeState(12) [CONTEXT service_id=177 ]
+10-23 14:55:26.473   459   459 W libgoldfish-rild: Multi-element reporting criteria are not supported with HIDL HAL
+10-23 14:55:26.474  1058  1441 I HeadsetPhoneState: stopListenForPhoneState(), no listener indicates nothing is listening
+10-23 14:55:26.474  1058  1441 W HeadsetPhoneState: startListenForPhoneState, no event to listen
+10-23 14:55:26.475  1657  2172 I SP.AiAi : Successfully got manifest for text-classifier-annotator-manifest: manifests:text-classifier-annotator-272525175
+10-23 14:55:26.477  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+10-23 14:55:26.478  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+10-23 14:55:26.479  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=0 fieldName=null extras=null}, false)
+10-23 14:55:26.479  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+10-23 14:55:26.480  1575  1575 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+10-23 14:55:26.486  1348  3390 I NearbySharing: Not allowed to auto turn on device settings. [CONTEXT service_id=194 ]
+10-23 14:55:26.486  1348  3390 I NearbySharing: A ReceiveSurface(BACKGROUND) has been registered [CONTEXT service_id=194 ]
+10-23 14:55:26.489   459   459 W libgoldfish-rild: Multi-element reporting criteria are not supported with HIDL HAL
+10-23 14:55:26.490  1058  1441 I HeadsetPhoneState: stopListenForPhoneState(), no listener indicates nothing is listening
+10-23 14:55:26.490  1058  1441 W HeadsetPhoneState: startListenForPhoneState, no event to listen
+10-23 14:55:26.492  1348  3390 I NearbySharing: Stopping advertising because Nearby Sharing is disabled. [CONTEXT service_id=194 ]
+10-23 14:55:26.493  4579  4637 D CompatibilityChangeReporter: Compat change id reported: 183155436; UID 10146; state: ENABLED
+10-23 14:55:26.509  1575  1950 I SP      : Scheduling job with delay of 0s for {m:b:u:l, bg}, 1 candidates
+10-23 14:55:26.510  1657  2172 I SP.AiAi : Successfully got manifest for text-classifier-actions-manifest: manifests:text-classifier-actions-1140547708
+10-23 14:55:26.510  1348  1495 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+10-23 14:55:26.514  1348  1495 W WakeLock: GCM_HB_ALARM counter does not exist
+10-23 14:55:26.518  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Lunch Roll"}' assertion on view view.getId() is <2131230835/com.example.lunchtray:id/bread>
+10-23 14:55:26.528  1348  4016 I WakefulBroadcastRcvr: Processing wakeful broadcast: BootOrGmsUpdated
+10-23 14:55:26.537  1657  2172 I SP.AiAi : Successfully got manifest for text-classifier-langid-manifest: manifests:text-classifier-langid-1941001461
+10-23 14:55:26.545  1657  1657 I AiAiEcho: AppFetcherImpl onPackageChanged com.android.vending.
+10-23 14:55:26.561  1657  3804 I AiAiTextClassifier: [ResourceDownloaderImpl]: downloadResource(): Successfully loaded embedded superpacks manifest for 'text-classifier-annotator' (download version 272525175), starting to download superpack.
+10-23 14:55:26.561  1657  4641 I AiAiTextClassifier: [ResourceDownloaderImpl]: downloadResource(): Successfully loaded embedded superpacks manifest for 'text-classifier-langid' (download version 1941001461), starting to download superpack.
+10-23 14:55:26.562  1468  4463 W GCM-GMS : Failed to get registration: java.io.IOException: AUTHENTICATION_FAILED
+10-23 14:55:26.563  1657  3800 I AiAiTextClassifier: [ResourceDownloaderImpl]: downloadResource(): Successfully loaded embedded superpacks manifest for 'text-classifier-actions' (download version 1140547708), starting to download superpack.
+10-23 14:55:26.565  1657  2944 I AiAiEcho: AppIndexer Package:[com.android.vending] UserProfile:[0] Enabled:[true].
+10-23 14:55:26.565  1657  2944 I AiAiEcho: AppFetcherImplV2 updateApps package:[com.android.vending], userId:[0], reason:[package is updated.].
+10-23 14:55:26.571  1468  3697 I Icing   : Internal init done: storage state 0
+10-23 14:55:26.584  4228  4228 I RkpdBootReceiver: Caught boot intent, waking up.
+10-23 14:55:26.591  4228  4228 I RkpdSettings: Setting ID
+10-23 14:55:26.592  1657  2172 I SP.AiAi : Syncing text-classifier-annotator (272525175) with slices: [tc_model_a3d2c1298643d7cc3b5703308fd5b2d0], metadata: false
+10-23 14:55:26.593  1657  2172 I SP.AiAi : Syncing text-classifier-langid (1941001461) with slices: [tc_model_436dc3fd14049b93d75788a8c0cc8eea], metadata: false
+10-23 14:55:26.609  2278  3015 I HttpGrpcBindableService: [pfd-write] DOWNLOAD COMPLETE: Downloaded 2565038 bytes from URL [https://storage.googleapis.com/captions/sound_recognition_v1.zip].
+10-23 14:55:26.610  1657  2785 I AstreaHttpConnection: Download completed for url [https://storage.googleapis.com/captions/sound_recognition_v1.zip].
+10-23 14:55:26.611  1348  4015 I NearbyConnections: Runtime state initialization complete. Nearby connections setting is disabled [CONTEXT service_id=54 ]
+10-23 14:55:26.613  4228  4228 I RkpdBootReceiver: Queueing a one-time provisioning job for widevine provisioning.
+10-23 14:55:26.613  1348  1348 I AlarmManager: set [name: SystemMemoryCache type: 2 triggerAtMillis: 315360067065 windowMillis: -1 intervalMillis: 0]
+10-23 14:55:26.616  1348  1495 E WakeLock: GCM_HB_ALARM release without a matched acquire!
+10-23 14:55:26.616  1348  1495 W WakeLock: GCM_HB_ALARM counter does not exist
+10-23 14:55:26.620  3911  3911 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072 in: STOPPED
+10-23 14:55:26.620  1348  1957 W ProximityAuth: [GetMyPublicKey] Failed to fetch public key.
+10-23 14:55:26.620  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:26.621  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:26.621  3911  3911 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@6b7d072
+10-23 14:55:26.623  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Fresh baked"}' assertion on view view.getId() is <2131230836/com.example.lunchtray:id/bread_description>
+10-23 14:55:26.627  1348  1504 I NearbyMediums: BluetoothAdapter's name was not set by Nearby Connections, ignoring call to restore default scan mode. [CONTEXT service_id=54 ]
+10-23 14:55:26.627  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "$0.50"}' assertion on view view.getId() is <2131230837/com.example.lunchtray:id/bread_price>
+10-23 14:55:26.629  2964  3256 I A       : GMSCore Auth returned 0 accounts.
+10-23 14:55:26.630  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Mixed Berries"}' assertion on view view.getId() is <2131230825/com.example.lunchtray:id/berries>
+10-23 14:55:26.630  2964  3256 I A       : GoogleOwnersProvider returned 0 accounts.
+10-23 14:55:26.631  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Strawberries"}' assertion on view view.getId() is <2131230826/com.example.lunchtray:id/berries_description>
+10-23 14:55:26.632  1468  3697 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-23 14:55:26.634  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "$1.00"}' assertion on view view.getId() is <2131230827/com.example.lunchtray:id/berries_price>
+10-23 14:55:26.637  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Pickled Veggies"}' assertion on view view.getId() is <2131231113/com.example.lunchtray:id/pickles>
+10-23 14:55:26.640  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Pickled cucumbers"}' assertion on view view.getId() is <2131231114/com.example.lunchtray:id/pickles_description>
+10-23 14:55:26.641  1348  1504 I NearbyMediums: BluetoothAdapter's name was not set by Nearby Connections, ignoring call to restore device name [CONTEXT service_id=54 ]
+10-23 14:55:26.641  1348  3390 I NearbySharing: Failed to scan for fast initiation because we're already scanning with isHighPowerAllowed=false. [CONTEXT service_id=194 ]
+10-23 14:55:26.642  3911  3911 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "$0.50"}' assertion on view view.getId() is <2131231115/com.example.lunchtray:id/pickles_price>
+10-23 14:55:26.642  1348  3942 I NetworkScheduler.Stats: Task com.google.android.gms/com.google.android.gms.gcm.gmsproc.GcmInGmsTaskService finished executing. cause:1 result: 3 elapsed_millis: 3504 uptime_millis: 3504 exec_start_elapsed_seconds: 63 [CONTEXT service_id=218 ]
+10-23 14:55:26.643   524   797 D ConnectivityService: reportNetworkConnectivity(100, false) by 10124
+10-23 14:55:26.644  3911  4165 I TestRunner: finished: accompaniment_menu_item_content(com.example.lunchtray.MenuContentTests)

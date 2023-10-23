@@ -1,46 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.lunchtray.test.app-mergeDebugAndroidTestResources-14:/values/values.xml",
+            "outputFile": "com.example.lunchtray.test.app-mergeDebugAndroidTestResources-15:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\8ffaf7c3e373b370f4122bdb5de06078\\transformed\\lifecycle-runtime-2.4.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "42",
-                        "endOffsets": "93"
-                    },
-                    "to": {
-                        "startLines": "83",
-                        "startColumns": "4",
-                        "startOffsets": "4978",
-                        "endColumns": "42",
-                        "endOffsets": "5016"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\f6d78bec362b33e50662f51792d1ad7a\\transformed\\navigation-common-2.4.2\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,15,21,27,30",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,694,938,1185,1318",
-                        "endLines": "14,20,26,29,34",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "689,933,1180,1313,1495"
-                    },
-                    "to": {
-                        "startLines": "217,230,236,242,251",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "10232,10871,11115,11362,11725",
-                        "endLines": "229,235,241,244,255",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "10866,11110,11357,11490,11902"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\185e2f0c619288e0f8d4f5786a951195\\transformed\\core-1.7.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\2a6052c3a924f4b3edf1116daf982f64\\transformed\\core-1.7.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,89,90,94,95,96,97,104,114,162,194,231",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -59,24 +23,60 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\0545f709c0f30e31918a43d8ceab48c8\\transformed\\lifecycle-viewmodel-2.4.1\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\81e9992776d7851ff56da274c7c78179\\transformed\\navigation-common-2.4.2\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,15,21,27,30",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,694,938,1185,1318",
+                        "endLines": "14,20,26,29,34",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "689,933,1180,1313,1495"
+                    },
+                    "to": {
+                        "startLines": "217,230,236,242,251",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "10232,10871,11115,11362,11725",
+                        "endLines": "229,235,241,244,255",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "10866,11110,11357,11490,11902"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\0d279d2a36a98a1f6a0fd69a2e070615\\transformed\\lifecycle-runtime-2.4.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
+                        "endColumns": "42",
+                        "endOffsets": "93"
                     },
                     "to": {
-                        "startLines": "85",
+                        "startLines": "83",
                         "startColumns": "4",
-                        "startOffsets": "5075",
-                        "endColumns": "49",
-                        "endOffsets": "5120"
+                        "startOffsets": "4978",
+                        "endColumns": "42",
+                        "endOffsets": "5016"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\abdbdbe5c4eb5d166c26a86515189979\\transformed\\navigation-runtime-2.4.2\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\260e76b53d2ee9f338df0dcf0fabeffc\\transformed\\savedstate-1.1.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "84",
+                        "startColumns": "4",
+                        "startOffsets": "5021",
+                        "endColumns": "53",
+                        "endOffsets": "5070"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\1809fa740e71349059b147778c02a5b8\\transformed\\navigation-runtime-2.4.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,10,13",
                         "startColumns": "4,4,4,4",
@@ -95,20 +95,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\0ba430e38e0a883050c3982e6d373805\\transformed\\savedstate-1.1.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Nitro\\.gradle\\caches\\transforms-3\\a35babc8a8dbaf2ff2e88cef85f9a101\\transformed\\lifecycle-viewmodel-2.4.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "53",
-                        "endOffsets": "104"
+                        "endColumns": "49",
+                        "endOffsets": "100"
                     },
                     "to": {
-                        "startLines": "84",
+                        "startLines": "85",
                         "startColumns": "4",
-                        "startOffsets": "5021",
-                        "endColumns": "53",
-                        "endOffsets": "5070"
+                        "startOffsets": "5075",
+                        "endColumns": "49",
+                        "endOffsets": "5120"
                     }
                 }
             ]
